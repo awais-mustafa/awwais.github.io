@@ -2,7 +2,7 @@ baseURL: "https://awwais.me/playbook/"
 languageCode: en-us
 title: Awais Mustafa
 theme: PaperMod
-paginate: 5
+paginate: 10
 
 
 enableRobotsTXT: true
@@ -10,7 +10,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: 
 
 minify:
   disableXML: true
@@ -18,12 +18,12 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  title: Awais Personal Blog
+  description: "Here, I will share my thoughts"
+  keywords: [Blog, Portfolio, Awais,AwaisMustafa,awwais]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["opengraph/opengraph.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -38,24 +38,24 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    disableFingerprinting: true
+    favicon: ""
+    favicon16x16: ""
+    favicon32x32: ""
+    apple_touch_icon: ""
+    safari_pinned_tab: ""
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: 
     iconHeight: 35
 
   # profile-mode
@@ -75,24 +75,33 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Awais Mustafa"
+    Content: Welcome to my blog. Here, I will share my thoughts
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+   
+    - name: email
+      url: "mailto:awaisdevops@gmail.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/awwais"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/awaais"
+#     - name: stackoverflow
+#       url: "https://stackoverflow.com/users/4201765"
+    - name: twitter
+      url: "https://twitter.com/awaistwt"
+#     - name: kaggle
+#       url: "https://kaggle.com/amirpourmand"
+#     - name: rss
+#       url: "https://amirpourmand.ir/index.xml"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+#   analytics:
+#     google:
+#       SiteVerificationTag: "l6RhusmfgSX-TJDRlJA7d5bn6MknReY9_IE3ds5OyGY"
+#     bing:
+#       SiteVerificationTag: "XYZabc"
+#     yandex:
+#       SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -100,7 +109,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/awwais/playbook/tree/master/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -116,21 +125,42 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+      # weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
       weight: 10
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 15
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: bio
+      name: Bio
+      url: /bio/
       weight: 30
+    - identifier: cv
+      name: CV
+      url: /cv/
+      weight: 40
+    - identifier: code
+      name: Code
+      url: /code/
+      weight: 50
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
   highlight:
     noClasses: false
     # anchorLineNos: true
@@ -138,3 +168,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
