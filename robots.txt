@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://awwais.me/playbook/sitemap.xml
