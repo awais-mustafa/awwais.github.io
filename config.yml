@@ -40,6 +40,11 @@ menu:
 #       url: /cv/
 #       weight: 40
 
+label:
+    text: "Awais"
+    icon: 👦🏻
+    iconHeight: 35
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -88,10 +93,7 @@ params:
     apple_touch_icon: ""
     safari_pinned_tab: ""
 
-  label:
-    text: "Awais"
-    icon: 
-    iconHeight: 35
+  
 
   # profile-mode
   profileMode:
