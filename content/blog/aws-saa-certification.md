@@ -1,7 +1,7 @@
 ---
 title: "I passed the AWS SAA Certification Exam"
 description: "How I passed the AWS Solutions Architect-Associate Certification Exam"
-dateString: May 2022
+dateString: May 2022       
 draft: false
 tags: ["AWS", "AWS SAA", "Certification", "Solutions Architect"]
 weight: 101
