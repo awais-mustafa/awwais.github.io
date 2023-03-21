@@ -87,14 +87,9 @@ params:
       url: "https://github.com/awwais"
     - name: linkedin
       url: "https://www.linkedin.com/in/awaais"
-    - name: stackoverflow
-      url: "https://stackoverflow.com/users/1"
     - name: twitter
       url: "https://twitter.com/awaistwt"
-    - name: kaggle
-      url: "https://kaggle.com/awais"
-    - name: rss
-      url: "https://amirpourmand.ir/index.xml"
+    
 
   analytics:
     google:
