@@ -2,7 +2,13 @@ baseURL: "https://awwais.me/playbook/"
 languageCode: en-us
 title: Awais Mustafa
 theme: PaperMod
-paginate: 5
+paginate: 10
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
 
 menu:
   main:
@@ -45,10 +51,7 @@ label:
     icon: 
     iconHeight: 35
 
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
+
 
 googleAnalytics: 
 
