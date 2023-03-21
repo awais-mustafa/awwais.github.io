@@ -46,28 +46,28 @@ menu:
 #       url: /cv/
 #       weight: 40
 
-label:
-  text: "Home"
-  icon: 
-  iconHeight: 35
+  label:
+    text: "Home"
+    icon: 
+    iconHeight: 35
 
 # home-info mode
-homeInfoParams:
-  Title: "Awais Mustafa"
-  Content: Welcome to my blog. Here, I will share my thoughts
+  homeInfoParams:
+    Title: "Awais Mustafa"
+    Content: Welcome to my blog. Here, I will share my thoughts
 
-socialIcons:
+  socialIcons:
    
-  - name: email
-    url: "mailto:awaisdevops@gmail.com"
-  - name: github
-    url: "https://github.com/awwais"
-  - name: linkedin
-    url: "https://www.linkedin.com/in/awaais"
+    - name: email
+      url: "mailto:awaisdevops@gmail.com"
+    - name: github
+      url: "https://github.com/awwais"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/awaais"
 #     - name: stackoverflow
 #       url: "https://stackoverflow.com/users/4201765"
-  - name: twitter
-    url: "https://twitter.com/awaistwt"
+    - name: twitter
+      url: "https://twitter.com/awaistwt"
 #     - name: kaggle
 #       url: "https://kaggle.com/amirpourmand"
 #     - name: rss
