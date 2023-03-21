@@ -21,7 +21,7 @@ params:
   title: Awais 
   description: "Here, I will share my thoughts"
   keywords: [Blog, Portfolio, Awais,Awwais,awwais,AwaisMustafa, AI]
-  author: Me
+  author: Awais
   # author: ["Me", "You"] # multiple authors
   images: ["opengraph/opengraph.png"]
   DateFormat: "January 2, 2006"
