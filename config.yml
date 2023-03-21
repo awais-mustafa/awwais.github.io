@@ -2,7 +2,7 @@ baseURL: "https://awwais.me/playbook/"
 languageCode: en-us
 title: Awais Mustafa
 theme: PaperMod
-# paginate: 10
+paginate: 5
 
 menu:
   main:
