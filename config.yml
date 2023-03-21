@@ -2,115 +2,82 @@ baseURL: "https://awwais.me/playbook"
 languageCode: en-us
 title: Awais Mustafa
 theme: PaperMod
-paginate: 10
 
-
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
-
-googleAnalytics: 
-
-minify:
-  disableXML: true
-  minifyOutput: true
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 30
+#     - identifier: experience
+#       name: Experience
+#       url: /experience
+#       weight: 40
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 40
+    - identifier: tags
+      name: Tags
+      url: /tags
+      weight: 50
+    # - identifier: notes
+    #   name: Notes
+    #   url: https://notes.arkalim.org
+    #   weight: 70
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Awais 
-  description: "Here, I will share my thoughts"
-  keywords: [Blog, Portfolio, Awais,Awwais,awwais,AwaisMustafa, AI]
-  author: Awais
-  # author: ["Me", "You"] # multiple authors
-  images: ["opengraph/opengraph.png"]
-  DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
-  disableThemeToggle: false
-
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
+  # theme
+  showToc: true
+  TocOpen: false
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: true
-  hidemeta: false
-  hideSummary: false
-  showtoc: true
-  tocopen: false
+  ShowCodeCopyButtons: true
+  hideMeta: false
 
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    disableFingerprinting: true
-    favicon: ""
-    favicon16x16: ""
-    favicon32x32: ""
-    apple_touch_icon: ""
-    safari_pinned_tab: ""
+  # for enchanced SEO
+  env: production
 
-  label:
-    text: "Home"
-    icon: 
-    iconHeight: 35
-
-  # profile-mode
+  # Home Page
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+    enabled: false
+    title: "Abdur Rahman"
+    subtitle: "Hi 👋, I'm Abdur, an [**MSc in Applied Computing**](https://mscac.utoronto.ca/) student at the **University of Toronto**. I'm passionate about **Backend**, **Cloud** and **DevOps**, and I'm also an AWS Certified Solutions Architect. Along with my grad studies, I've been working as a **DevOps Intern** at [**16Bit.ai**](https://www.16bit.ai), a MedTech startup based in Toronto 🇨🇦. Before joining the MScAC program, I worked as a **Backend Engineer** at [**BuyerAssist.io**](https://buyerassist.io/), a B2B SaaS startup based in India 🇮🇳. When I'm free, I make YouTube 🎬 videos on career, higher education & productivity"
+    imageUrl: "home/me.jpg"
+    imageWidth: 220
+    imageHeight: 220
+    # buttons:
+    #   - name: Resume
+    #     url: ""
 
-  # home-info mode
-  homeInfoParams:
-    Title: "Awais Mustafa"
-    Content: Welcome to my blog. Here, I will share my thoughts
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   socialIcons:
-    - name: Connect with me
-      url: "https://awwais.bio.link/"
-    - name: email
+    - name: "email"
       url: "mailto:awaisdevops@gmail.com"
-    - name: github
-      url: "https://github.com/awwais"
-    - name: linkedin
+    - name: "linkedin"
       url: "https://www.linkedin.com/in/awaais"
-    - name: twitter
+    - name: "github"
+      url: "https://github.com/awwais"
+    - name: "youtube"
+      url: "https://www.youtube.com/"
+    - name: "twitter"
       url: "https://twitter.com/awaistwt"
-    
 
-  analytics:
-    google:
-      SiteVerificationTag: ""
-    bing:
-      SiteVerificationTag: ""
-    yandex:
-      SiteVerificationTag: ""
-
-  cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/awwais/playbook/tree/master/content/"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-
-  # for search
-  # https://fusejs.io/api/options.html
+  # text search
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -119,61 +86,244 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    # - identifier: categories
-    #   name: Categories
-    #   url: /categories/
-      # weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog/
-      weight: 10
-    - identifier: projects
-      name: Projects
-      url: /projects/
-      weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 30
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 40
-#     - identifier: bio
-#       name: Bio
-#       url: /bio/
-#       weight: 30
-#     - identifier: cv
-#       name: CV
-#       url: /cv/
-#       weight: 40
-#     - identifier: code
-#       name: Code
-#       url: /code/
-#       weight: 50
 
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-pygmentsUseClasses: true
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
 markup:
   goldmark:
     renderer:
       unsafe: true
-      
-  highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
 
-outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# baseURL: "https://awwais.me/playbook"
+# languageCode: en-us
+# title: Awais Mustafa
+# theme: PaperMod
+# paginate: 10
+
+
+# enableRobotsTXT: true
+# buildDrafts: false
+# buildFuture: false
+# buildExpired: false
+
+# googleAnalytics: 
+
+# minify:
+#   disableXML: true
+#   minifyOutput: true
+
+# params:
+#   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+#   title: Awais 
+#   description: "Here, I will share my thoughts"
+#   keywords: [Blog, Portfolio, Awais,Awwais,awwais,AwaisMustafa, AI]
+#   author: Awais
+#   # author: ["Me", "You"] # multiple authors
+#   images: ["opengraph/opengraph.png"]
+#   DateFormat: "January 2, 2006"
+#   defaultTheme: auto # dark, light
+#   disableThemeToggle: false
+
+#   ShowReadingTime: true
+#   ShowShareButtons: true
+#   ShowPostNavLinks: true
+#   ShowBreadCrumbs: true
+#   ShowCodeCopyButtons: false
+#   ShowWordCount: true
+#   ShowRssButtonInSectionTermList: true
+#   UseHugoToc: true
+#   disableSpecial1stPost: false
+#   disableScrollToTop: false
+#   comments: true
+#   hidemeta: false
+#   hideSummary: false
+#   showtoc: true
+#   tocopen: false
+
+#   assets:
+#     # disableHLJS: true # to disable highlight.js
+#     disableFingerprinting: true
+#     favicon: ""
+#     favicon16x16: ""
+#     favicon32x32: ""
+#     apple_touch_icon: ""
+#     safari_pinned_tab: ""
+
+#   label:
+#     text: "Home"
+#     icon: 
+#     iconHeight: 35
+
+#   # profile-mode
+#   profileMode:
+#     enabled: false # needs to be explicitly set
+#     title: ExampleSite
+#     subtitle: "This is subtitle"
+#     imageUrl: "<img location>"
+#     imageWidth: 120
+#     imageHeight: 120
+#     imageTitle: my image
+#     buttons:
+#       - name: Posts
+#         url: posts
+#       - name: Tags
+#         url: tags
+
+#   # home-info mode
+#   homeInfoParams:
+#     Title: "Awais Mustafa"
+#     Content: Welcome to my blog. Here, I will share my thoughts
+
+#   socialIcons:
+#     - name: Connect with me
+#       url: "https://awwais.bio.link/"
+#     - name: email
+#       url: "mailto:awaisdevops@gmail.com"
+#     - name: github
+#       url: "https://github.com/awwais"
+#     - name: linkedin
+#       url: "https://www.linkedin.com/in/awaais"
+#     - name: twitter
+#       url: "https://twitter.com/awaistwt"
+    
+
+#   analytics:
+#     google:
+#       SiteVerificationTag: ""
+#     bing:
+#       SiteVerificationTag: ""
+#     yandex:
+#       SiteVerificationTag: ""
+
+#   cover:
+#     hidden: true # hide everywhere but not in structured data
+#     hiddenInList: true # hide on list pages and home
+#     hiddenInSingle: true # hide on single page
+
+#   editPost:
+#     URL: "https://github.com/awwais/playbook/tree/master/content/"
+#     Text: "Suggest Changes" # edit text
+#     appendFilePath: true # to append file path to Edit link
+
+#   # for search
+#   # https://fusejs.io/api/options.html
+#   fuseOpts:
+#     isCaseSensitive: false
+#     shouldSort: true
+#     location: 0
+#     distance: 1000
+#     threshold: 0.4
+#     minMatchCharLength: 0
+#     keys: ["title", "permalink", "summary", "content"]
+# menu:
+#   main:
+#     # - identifier: categories
+#     #   name: Categories
+#     #   url: /categories/
+#       # weight: 10
+#     - identifier: blog
+#       name: Blog
+#       url: /blog/
+#       weight: 10
+#     - identifier: projects
+#       name: Projects
+#       url: /projects/
+#       weight: 20
+#     - identifier: search
+#       name: Search
+#       url: /search/
+#       weight: 30
+#     - identifier: tags
+#       name: Tags
+#       url: /tags/
+#       weight: 40
+# #     - identifier: bio
+# #       name: Bio
+# #       url: /bio/
+# #       weight: 30
+# #     - identifier: cv
+# #       name: CV
+# #       url: /cv/
+# #       weight: 40
+# #     - identifier: code
+# #       name: Code
+# #       url: /code/
+# #       weight: 50
+
+# # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#   goldmark:
+#     renderer:
+#       unsafe: true
+      
+#   highlight:
+#     noClasses: false
+#     # anchorLineNos: true
+#     # codeFences: true
+#     # guessSyntax: true
+#     # lineNos: true
+#     # style: monokai
+
+# outputs:
+#     home:
+#         - HTML
+#         - RSS
+#         - JSON # is necessary
 
 
 
