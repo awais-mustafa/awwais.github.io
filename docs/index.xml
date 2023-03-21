@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docs on Awais Mustafa</title>
-    <link>https://awwais.github.io/playbook/docs/</link>
+    <link>https://awwais.me/playbook/docs/</link>
     <description>Recent content in Docs on Awais Mustafa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Mar 2023 20:57:00 +0500</lastBuildDate><atom:link href="https://awwais.github.io/playbook/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Mar 2023 20:57:00 +0500</lastBuildDate><atom:link href="https://awwais.me/playbook/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://awwais.github.io/playbook/docs/test2/</link>
+      <link>https://awwais.me/playbook/docs/test2/</link>
       <pubDate>Mon, 20 Mar 2023 20:57:00 +0500</pubDate>
       
-      <guid>https://awwais.github.io/playbook/docs/test2/</guid>
+      <guid>https://awwais.me/playbook/docs/test2/</guid>
       <description>again and again</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://awwais.github.io/playbook/docs/test/</link>
+      <link>https://awwais.me/playbook/docs/test/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://awwais.github.io/playbook/docs/test/</guid>
+      <guid>https://awwais.me/playbook/docs/test/</guid>
       <description>Desc Text.</description>
     </item>
     
