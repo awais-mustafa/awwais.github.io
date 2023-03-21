@@ -1,32 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Awais Mustafa</title>
-    <link>https://awwais.me/playbook/</link>
-    <description>Recent content on Awais Mustafa</description>
-    <image>
-      <title>Awais Mustafa</title>
-      <url>https://awwais.me/playbook/opengraph/opengraph.png</url>
-      <link>https://awwais.me/playbook/opengraph/opengraph.png</link>
-    </image>
+    <title>Abdur Rahman</title>
+    <link>https://arkalim.org/</link>
+    <description>Recent content on Abdur Rahman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Mar 2023 20:57:00 +0500</lastBuildDate><atom:link href="https://awwais.me/playbook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Mar 2023 20:57:00 +0500</lastBuildDate><atom:link href="https://arkalim.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://awwais.me/playbook/docs/test2/</link>
+      <link>https://arkalim.org/docs/test2/</link>
       <pubDate>Mon, 20 Mar 2023 20:57:00 +0500</pubDate>
       
-      <guid>https://awwais.me/playbook/docs/test2/</guid>
+      <guid>https://arkalim.org/docs/test2/</guid>
       <description>again and again</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://awwais.me/playbook/docs/test/</link>
+      <link>https://arkalim.org/docs/test/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://awwais.me/playbook/docs/test/</guid>
+      <guid>https://arkalim.org/docs/test/</guid>
       <description>Desc Text.</description>
     </item>
     
