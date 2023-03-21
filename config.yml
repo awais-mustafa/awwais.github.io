@@ -51,6 +51,35 @@ label:
     icon: 
     iconHeight: 35
 
+# home-info mode
+homeInfoParams:
+    Title: "Awais Mustafa"
+    Content: Welcome to my blog. Here, I will share my thoughts
+
+socialIcons:
+   
+    - name: email
+      url: "mailto:awaisdevops@gmail.com"
+    - name: github
+      url: "https://github.com/awwais"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/awaais"
+#     - name: stackoverflow
+#       url: "https://stackoverflow.com/users/4201765"
+    - name: twitter
+      url: "https://twitter.com/awaistwt"
+#     - name: kaggle
+#       url: "https://kaggle.com/amirpourmand"
+#     - name: rss
+#       url: "https://amirpourmand.ir/index.xml"
+
+#   analytics:
+#     google:
+#       SiteVerificationTag: "l6RhusmfgSX-TJDRlJA7d5bn6MknReY9_IE3ds5OyGY"
+#     bing:
+#       SiteVerificationTag: "XYZabc"
+#     yandex:
+#       SiteVerificationTag: "XYZabc"
 
 
 googleAnalytics: 
@@ -90,7 +119,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
-    favicon: 🤖
+    favicon: 
     favicon16x16: ""
     favicon32x32: ""
     apple_touch_icon: ""
@@ -113,36 +142,7 @@ params:
       - name: Tags
         url: tags
 
-  # home-info mode
-  homeInfoParams:
-    Title: "Awais Mustafa"
-    Content: Welcome to my blog. Here, I will share my thoughts
-
-  socialIcons:
-   
-    - name: email
-      url: "mailto:awaisdevops@gmail.com"
-    - name: github
-      url: "https://github.com/awwais"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/awaais"
-#     - name: stackoverflow
-#       url: "https://stackoverflow.com/users/4201765"
-    - name: twitter
-      url: "https://twitter.com/awaistwt"
-#     - name: kaggle
-#       url: "https://kaggle.com/amirpourmand"
-#     - name: rss
-#       url: "https://amirpourmand.ir/index.xml"
-
-#   analytics:
-#     google:
-#       SiteVerificationTag: "l6RhusmfgSX-TJDRlJA7d5bn6MknReY9_IE3ds5OyGY"
-#     bing:
-#       SiteVerificationTag: "XYZabc"
-#     yandex:
-#       SiteVerificationTag: "XYZabc"
-
+  
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
