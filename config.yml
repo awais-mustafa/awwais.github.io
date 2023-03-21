@@ -2,7 +2,7 @@ baseURL: "https://awwais.me/playbook/"
 languageCode: en-us
 title: Awais Mustafa
 theme: PaperMod
-paginate: 10
+# paginate: 10
 
 menu:
   main:
@@ -17,16 +17,16 @@ menu:
     - identifier: blog
       name: Blog
       url: /blog/
-      weight: 35
+      weight: 10
     - identifier: projects
       name: Projects
       url: /projects/
-      weight: 45
+      weight: 20
     
     - identifier: search
       name: Search
       url: /search/
-      weight: 35
+      weight: 30
     - identifier: tags
       name: Tags
       url: /tags/
@@ -41,8 +41,8 @@ menu:
 #       weight: 40
 
 label:
-    text: "Awais"
-    icon: 👦🏻
+    text: "Home"
+    icon: 
     iconHeight: 35
 
 enableRobotsTXT: true
