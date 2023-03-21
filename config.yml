@@ -44,6 +44,15 @@ params:
 
   # for enchanced SEO
   env: production
+  title: Awais 
+  description: "Here, I will share my thoughts"
+  keywords: [Blog, Portfolio, Awais,Awwais,awwais,AwaisMustafa, AI]
+  author: Awais
+  # author: ["Me", "You"] # multiple authors
+  images: ["opengraph/opengraph.png"]
+  DateFormat: "January, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
 
   # Home Page
   profileMode:
@@ -70,17 +79,20 @@ params:
     hiddenInSingle: false # hide on single page
 
   socialIcons:
+
     - name: "email"
       url: "mailto:awaisdevops@gmail.com"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/awaais"
     - name: "github"
       url: "https://github.com/awwais"
-    - name: "youtube"
-      url: "https://www.youtube.com/"
+#     - name: "youtube"
+#       url: "https://www.youtube.com/"
     - name: "twitter"
       url: "https://twitter.com/awaistwt"
-
+    - name: Connect with me
+      url: "https://awwais.bio.link/"
+      
   # text search
   fuseOpts:
     isCaseSensitive: false
