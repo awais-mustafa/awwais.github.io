@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AWS SAA on Awais Mustafa</title>
+    <link>https://awwais.me/playbook/tags/aws-saa/</link>
+    <description>Recent content in AWS SAA on Awais Mustafa</description>
+    <image>
+      <title>Awais Mustafa</title>
+      <url>https://awwais.me/playbook/opengraph/opengraph.png</url>
+      <link>https://awwais.me/playbook/opengraph/opengraph.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://awwais.me/playbook/tags/aws-saa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I passed the AWS SAA Certification Exam</title>
+      <link>https://awwais.me/playbook/blog/devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://awwais.me/playbook/blog/devops/</guid>
+      <description>How I passed the AWS Solutions Architect-Associate Certification Exam</description>
+    </item>
+    
+  </channel>
+</rss>

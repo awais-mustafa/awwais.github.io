@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://awwais.me/playbook/blog/devops/</loc>
+  </url><url>
     <loc>https://awwais.me/playbook/</loc>
     <lastmod>2023-03-20T20:57:00+05:00</lastmod>
   </url><url>
@@ -20,8 +22,18 @@
     <loc>https://awwais.me/playbook/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
+    <loc>https://awwais.me/playbook/tags/aws/</loc>
+  </url><url>
+    <loc>https://awwais.me/playbook/tags/aws-saa/</loc>
+  </url><url>
+    <loc>https://awwais.me/playbook/blog/</loc>
+  </url><url>
     <loc>https://awwais.me/playbook/categories/</loc>
   </url><url>
+    <loc>https://awwais.me/playbook/tags/certification/</loc>
+  </url><url>
     <loc>https://awwais.me/playbook/docs/search/</loc>
+  </url><url>
+    <loc>https://awwais.me/playbook/tags/solutions-architect/</loc>
   </url>
 </urlset>
