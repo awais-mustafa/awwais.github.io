@@ -54,7 +54,7 @@ params:
     safari_pinned_tab: ""
 
   label:
-    text: "Home"
+    text: "Awais"
     icon: 
     iconHeight: 35
 
@@ -129,14 +129,22 @@ menu:
     #   name: Categories
     #   url: /categories/
       # weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 15
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 10
+      weight: 20
     - identifier: search
       name: Search
       url: /search/
-      weight: 15
+      weight: 25
     - identifier: tags
       name: Tags
       url: /tags/
@@ -149,10 +157,7 @@ menu:
       name: CV
       url: /cv/
       weight: 40
-    - identifier: code
-      name: Code
-      url: /code/
-      weight: 50
+   
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
