@@ -4,6 +4,41 @@ title: Awais Mustafa
 theme: PaperMod
 paginate: 10
 
+menu:
+  main:
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+      # weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 30
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30
+    
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 35
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 40
+#     - identifier: bio
+#       name: Bio
+#       url: /bio/
+#       weight: 30
+#     - identifier: cv
+#       name: CV
+#       url: /cv/
+#       weight: 40
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -123,40 +158,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    # - identifier: categories
-    #   name: Categories
-    #   url: /categories/
-      # weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog/
-      weight: 10
-    - identifier: projects
-      name: Projects
-      url: /projects/
-      weight: 15
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 25
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
-    - identifier: bio
-      name: Bio
-      url: /bio/
-      weight: 30
-    - identifier: cv
-      name: CV
-      url: /cv/
-      weight: 40
+
    
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
