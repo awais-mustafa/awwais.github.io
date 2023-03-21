@@ -56,7 +56,11 @@ params:
     # buttons:
     #   - name: Resume
     #     url: ""
-
+  #   # home-info mode
+  homeInfoParams:
+    Title: "Awais Mustafa"
+    Content: Welcome to my blog. Here, I will share my thoughts 
+ 
   # List View
   hideDescriptionInList: false
 
