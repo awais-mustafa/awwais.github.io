@@ -7,7 +7,7 @@ tags: ["Html", "CSS", "JavaScript", "WebDevelopment"]
 showToc: false
 weight: 208
 cover:
-    image: "projects/search-and-reconnaissance-robot/cover.jpeg"
+    image: "projects/DrumKit/DrumKitCover.png"
 --- 
 
 
