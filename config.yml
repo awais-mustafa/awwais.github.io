@@ -132,6 +132,7 @@ params:
   analytics:
     google:
       SiteVerificationTag: "G-CKX77827PG"
+      google_site_verification: Ut7eBNONGLkuyT9d6V8omoShdrzoZRqhwz0MSMgZk8M 
 #     bing:
 #       SiteVerificationTag: "XYZabc"
 #     yandex:
@@ -155,4 +156,4 @@ markup:
 # google_analytics: G-CKX77827PG # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 
 
-# google_site_verification: Ut7eBNONGLkuyT9d6V8omoShdrzoZRqhwz0MSMgZk8M 
+
