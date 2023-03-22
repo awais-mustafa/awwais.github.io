@@ -13,7 +13,7 @@ cover:
 
 I intend to place the results of various works on this webpage, highlighting the results of mini projects, ongoing projects, and more. So, for those who are reading, thank you!
 
-All of the work that I have been doing over the years,and months been
+All of the work that I have been doing over the year,and months been
 extremely fun, eye opening, and a great experience altogether!
 
 ***
