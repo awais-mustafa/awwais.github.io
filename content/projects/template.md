@@ -14,8 +14,8 @@ cover:
  
 Hey 🤼
 
-I'm making this website as an template for junior developer. If you love this website, you can fork it or clone it on your github account or systems.
-And then make changes to it that are in line with your vision. ❤
+I'm making this website as an template for non technical peoples. If you love this website, you can fork it or clone it on your github account or systems.
+And then make changes to it that are in line with your vision. ❤. Or you may message me for the help. Thanks
 
 
 
@@ -24,3 +24,6 @@ And then make changes to it that are in line with your vision. ❤
                                       Website Check It Now 🎭</a>
 
 </p>
+
+### 🔗 [View Website](https://awwais.me/templateWebsite)
+### 🔗 [GitHub](https://github.com/awwais/templateWebsite)
