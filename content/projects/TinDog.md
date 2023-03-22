@@ -3,7 +3,7 @@ title: "TinDog Website"
 description: "I Make Simple Website using Html,CSS, and BootStrap"
 dateString: Feb 2022
 draft: false
-tags: ["BootStrap", "Web Development", "Frontend Development", "HTML", "CSS", "JavaScript"]
+tags: [ "Web Development"]
 showToc: false
 weight: 203
 cover:
