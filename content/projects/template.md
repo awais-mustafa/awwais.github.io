@@ -5,7 +5,7 @@ dateString: April 2022
 draft: false
 tags: ["Html", "CSS", "JavaScript", "Web Development"]
 showToc: false
-weight: 208
+weight: 206
 cover:
     image: "projects/templateWebsite/templateWebsiteCover.png"
 --- 
