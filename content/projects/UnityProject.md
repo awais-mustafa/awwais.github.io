@@ -9,7 +9,7 @@ showToc: false
 weight: 204
 
 cover:
-    image: "projects/unityGame/cover.jpg"
+    image: "projects/SnowBorder/snowBorderCover.png"
 ---
 
 
