@@ -24,5 +24,5 @@ cover:
 
 
 
-### 🔗 [View App](https://awwais.me/DrumKit)
+### 🔗 [DrumIt](https://awwais.me/DrumKit)
 ### 🔗 [GitHub](https://github.com/awwais/DrumKit)
