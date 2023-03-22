@@ -3,7 +3,7 @@ title: "SimonGame"
 description: "a"
 dateString: Feb 2022
 draft: false
-tags: ["Web Development", "Frontend Development", "HTML", "CSS", "JavaScript"]
+tags: ["Web Development"]
 showToc: false
 weight: 204
 cover:
