@@ -6,7 +6,7 @@ draft: false
 tags: ["Myself"]
 weight: 101
 cover:
-    image: "/blog/aws-saa-certification/cover.jpeg"
+    image: "/blog/"
 ---
 
 # Highligthing the result
