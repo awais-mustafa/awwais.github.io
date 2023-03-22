@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Awais Mustafa</title>
-    <link>https://awwais.me/playbook/</link>
+    <link>https://awwais.me/</link>
     <description>Recent content on Awais Mustafa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://awwais.me/playbook/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://awwais.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Little bit About My Website</title>
-      <link>https://awwais.me/playbook/blog/littlebit/</link>
+      <link>https://awwais.me/blog/littlebit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/playbook/blog/littlebit/</guid>
+      <guid>https://awwais.me/blog/littlebit/</guid>
       <description>Highligthing the result I intend to place the results of various works on this webpage, highlighting the results of mini projects, ongoing projects, and more. So, for those who are reading, thank you!
 All of the work that I have been doing over the years,and months been extremely fun, eye opening, and a great experience altogether!
 About Me A little bit about me. I love watching TV; Hopefully, that doesn&amp;rsquo;t scare you.</description>
@@ -19,64 +19,64 @@ About Me A little bit about me. I love watching TV; Hopefully, that doesn&amp;rs
     
     <item>
       <title>SnowBorder Game</title>
-      <link>https://awwais.me/playbook/projects/unityproject/</link>
+      <link>https://awwais.me/projects/unityproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/playbook/projects/unityproject/</guid>
+      <guid>https://awwais.me/projects/unityproject/</guid>
       <description>A SnowBoarder  web application game built using Unity</description>
     </item>
     
     <item>
       <title>DrumKit</title>
-      <link>https://awwais.me/playbook/projects/drumkit/</link>
+      <link>https://awwais.me/projects/drumkit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/playbook/projects/drumkit/</guid>
+      <guid>https://awwais.me/projects/drumkit/</guid>
       <description>Drumkit in your browser!</description>
     </item>
     
     <item>
       <title>TinDog Website</title>
-      <link>https://awwais.me/playbook/projects/tindog/</link>
+      <link>https://awwais.me/projects/tindog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/playbook/projects/tindog/</guid>
+      <guid>https://awwais.me/projects/tindog/</guid>
       <description>I Make Simple Website using Html,CSS, and BootStrap</description>
     </item>
     
     <item>
       <title>Meme App</title>
-      <link>https://awwais.me/playbook/projects/memeapp/</link>
+      <link>https://awwais.me/projects/memeapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/playbook/projects/memeapp/</guid>
+      <guid>https://awwais.me/projects/memeapp/</guid>
       <description>A App full of new Memes!</description>
     </item>
     
     <item>
       <title>SimonGame</title>
-      <link>https://awwais.me/playbook/projects/simongame/</link>
+      <link>https://awwais.me/projects/simongame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/playbook/projects/simongame/</guid>
+      <guid>https://awwais.me/projects/simongame/</guid>
       <description>A Simple Game fule for that is follow the lights as you can</description>
     </item>
     
     <item>
       <title>Todo List App</title>
-      <link>https://awwais.me/playbook/projects/todo-list-app/</link>
+      <link>https://awwais.me/projects/todo-list-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/playbook/projects/todo-list-app/</guid>
+      <guid>https://awwais.me/projects/todo-list-app/</guid>
       <description>A Todo list web application built using React</description>
     </item>
     
     <item>
       <title>TemplateWebsite</title>
-      <link>https://awwais.me/playbook/projects/template/</link>
+      <link>https://awwais.me/projects/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/playbook/projects/template/</guid>
+      <guid>https://awwais.me/projects/template/</guid>
       <description>!</description>
     </item>
     
