@@ -2,7 +2,7 @@
 
 title: SnowBorder Game
 description: A SnowBoarder  web application game built using Unity
-dateString: May 2021
+dateString: August 2022
 draft: false
 tags: ["Unity", "2D-Games"]
 showToc: false
