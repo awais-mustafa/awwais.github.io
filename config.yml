@@ -57,10 +57,10 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: true
-  hidemeta: false
+  hidemeta: true
   hideSummary: true
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
 
   # for enchanced SEO
   env: production
