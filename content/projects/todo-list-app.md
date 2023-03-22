@@ -3,7 +3,7 @@ title: "Todo List App"
 description: "A Todo list web application built using React"
 dateString: May 2021
 draft: false
-tags: ["React", "Web Development", "Frontend Development", "HTML", "CSS", "JavaScript"]
+tags: ["React", "Web Development"]
 showToc: false
 weight: 204
 cover:
