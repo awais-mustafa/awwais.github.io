@@ -7,7 +7,7 @@ tags: ["Html", "CSS", "JavaScript", "WebDevelopment"]
 showToc: false
 weight: 202
 cover:
-    image: "projects/DrumKit/DrumKitCover.png"
+    image: "projects/DrumKit/DrumKitCover.jpg"
 --- 
 
 
