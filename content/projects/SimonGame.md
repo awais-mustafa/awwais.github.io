@@ -12,15 +12,15 @@ cover:
 ---
 
 # Simon Game ♦
-<br>
-<p align="center">
-  <a style="font-size:30px" href="https://awwais.me/game">PLAY IT NOW 🎭</a>
 
+<p align="center">
+<a style="font-size:30px" href="https://awwais.me/game">PLAY IT NOW 🎭</a>
 </p>
-⚡Follow the pattern of lights for as long as you can... if you can! that's it Now let get Started
+🧨Follow the pattern of lights for as long as you can... if you can! that's it Now let get Started
 
 #### You Can't Play This Game On Mobile Devices
 
+### 🔗 [PlayNow](https://awwais.me/game)
+### 🔗 [GitHub](https://github.com/awwais/game)
 
-## Code 👨‍💻
-[SimonGameCode](https://github.com/awwais/game)
+
