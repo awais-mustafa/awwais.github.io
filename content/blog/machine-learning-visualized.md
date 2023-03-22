@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Machine Learning - Visualized"
 description: "A visual approach to understand machine learning"
 dateString: August 2020
@@ -112,4 +112,4 @@ Let’s see how the decision boundary updates in real-time as the parameters are
 
 # That’s all folks!
 
-If you made it till here, hats off to you! In this article, we took a visual approach to understand how machine learning works. So far, we have seen how a simple 3D to 1D mapping, ***f(x)***, can be used to fit a decision boundary (2D plane) to a linearly separable dataset (3D). We discussed how forward propagation is used to calculate the loss followed by backpropagation where gradients of the loss with respect to parameters are calculated and the parameters are updated repeatedly in a training loop.
+If you made it till here, hats off to you! In this article, we took a visual approach to understand how machine learning works. So far, we have seen how a simple 3D to 1D mapping, ***f(x)***, can be used to fit a decision boundary (2D plane) to a linearly separable dataset (3D). We discussed how forward propagation is used to calculate the loss followed by backpropagation where gradients of the loss with respect to parameters are calculated and the parameters are updated repeatedly in a training loop. -->
