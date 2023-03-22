@@ -20,6 +20,9 @@ cover:
 
 </p>
 
-## Code 👨‍💻
 
-[DrumKitCode 🙆‍♀️](https://github.com/awwais/DrumKit)
+
+
+
+### 🔗 [View App](https://awwais.me/DrumKit)
+### 🔗 [GitHub](https://github.com/awwais/DrumKit)
