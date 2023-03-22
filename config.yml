@@ -74,9 +74,9 @@ params:
 
   # for enchanced SEO
   env: production
-#   title: Awais 
-#   description: "Here, I will share my thoughts"
-#   keywords: [Blog, Portfolio, Awais,Awwais,awwais,AwaisMustafa, AI]
+  title: Awais 
+  description: "Website, Where Awais represent his thoughts,blogs,mini-project"
+  keywords: [Awais Blog,Awais Portfolio, Awais,Awais Mustafa blog,Awais Mustafa portfolio,awais,awais mustafa,awais blog,awais portfolio,Awwais,awwais,AwaisMustafa,awais devops,awais cloud,awais website,awwais.me, AI]
 #   author: Awais
   # author: ["Me", "You"] # multiple authors
 #   images: ["opengraph/opengraph.png"]
