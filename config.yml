@@ -11,7 +11,7 @@ theme: PaperMod
 #     favicon32x32: "favicon.ico"
 #     apple_touch_icon: "favicon.ico"
 #     safari_pinned_tab: "favicon.ico"
-googleAnalytics: G-F4QF29BT8W
+googleAnalytics: G-PSV21QQC36
 menu:
   main:
     - identifier: home
