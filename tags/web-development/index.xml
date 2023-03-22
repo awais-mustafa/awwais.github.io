@@ -34,5 +34,14 @@
       <description>A Todo list web application built using React</description>
     </item>
     
+    <item>
+      <title>TemplateWebsite</title>
+      <link>https://awwais.me/playbook/projects/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://awwais.me/playbook/projects/template/</guid>
+      <description>!</description>
+    </item>
+    
   </channel>
 </rss>

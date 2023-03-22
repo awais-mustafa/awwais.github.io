@@ -81,6 +81,15 @@
     </item>
     
     <item>
+      <title>TemplateWebsite</title>
+      <link>https://awwais.me/playbook/projects/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://awwais.me/playbook/projects/template/</guid>
+      <description>!</description>
+    </item>
+    
+    <item>
       <title>Test</title>
       <link>https://awwais.me/playbook/docs/test2/</link>
       <pubDate>Mon, 20 Mar 2023 20:57:00 +0500</pubDate>
@@ -98,17 +107,6 @@
       <description>Desc Text.</description>
     </item>
     
-    
-    <item>
-      <title>TemplateWebSite</title>
-      <link>https://awwais.me/playbook/projects/template/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://awwais.me/playbook/projects/template/</guid>
-      <description>Hey 🤼
-I&amp;rsquo;m making this website as an template for junior developer. If you love this website, you can fork it or clone it on your github account or systems. And then make changes to it that are in line with your vision. ❤
-Website Check It Now 🎭 </description>
-    </item>
     
   </channel>
 </rss>
