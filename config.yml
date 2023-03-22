@@ -45,8 +45,8 @@ params:
   # for enchanced SEO
   env: production
 #   title: Awais 
-  description: "Here, I will share my thoughts"
-  keywords: [Blog, Portfolio, Awais,Awwais,awwais,AwaisMustafa, AI]
+#   description: "Here, I will share my thoughts"
+#   keywords: [Blog, Portfolio, Awais,Awwais,awwais,AwaisMustafa, AI]
 #   author: Awais
   # author: ["Me", "You"] # multiple authors
 #   images: ["opengraph/opengraph.png"]
@@ -65,10 +65,7 @@ params:
     # buttons:
     #   - name: Resume
     #     url: ""
-  #   # home-info mode
-#   homeInfoParams:
-#     Title: "Awais Mustafa"
-#     Content: Welcome to my blog. Here, I will share my thoughts 
+  
  
   # List View
   hideDescriptionInList: false
