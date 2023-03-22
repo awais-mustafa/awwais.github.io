@@ -15,13 +15,14 @@ cover:
 
 ### ⚔ I Make Simple 2D Game Using Unity. 🗯
 
-<p align="center">
-  <a style="font-size:30px"  href="https://awwais.me/SnowBorder">
-                                                                        PlayItNow 🎭</a>
 
-</p>
+### 🔗 [PlayItNow](https://awwais.me/SnowBorder)
+### 🔗 [GitHub](https://github.com/awwais/SnowBoarder)
+
+## Description
+
+A  web application game built using **Unity Engine** that allows the user to Play,
+and Enjoy the game in their browser.Its Webgl game. 
+I built this app while learning **Unity**.
 
 
-## Code 👨‍💻
-
-[SnowBoardCode 🙆‍♀️](https://github.com/awwais/SnowBorder)
