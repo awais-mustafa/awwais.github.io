@@ -17,14 +17,8 @@ cover:
   <a style="font-size:30px" href="https://awwais.me/game">PLAY IT NOW 🎭</a>
 
 </p>
-
-<br>
-<br>
-<br>
-
 ⚡Follow the pattern of lights for as long as you can... if you can! that's it Now let get Started
 
-<br>
 #### You Can't Play This Game On Mobile Devices
 
 
