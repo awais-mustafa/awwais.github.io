@@ -8,7 +8,7 @@ tags: ["BootStrap", "Web Development", "Frontend Development", "HTML", "CSS", "J
 showToc: false
 weight: 204
 cover:
-    image: "projects/tinDog/tinDogCover.png"
+    image: "projects/tinDog/tinDogCover1.png"
 
 
 
