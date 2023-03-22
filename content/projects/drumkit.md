@@ -5,7 +5,7 @@ dateString: April 2022
 draft: false
 tags: ["Html", "CSS", "JavaScript", "WebDevelopment"]
 showToc: false
-weight: 208
+weight: 202
 cover:
     image: "projects/DrumKit/DrumKitCover.png"
 --- 
