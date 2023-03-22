@@ -1,6 +1,6 @@
 ---
 title: "SimonGame"
-description: "a"
+description: "A Simple Game fule for that is follow the lights as you can"
 dateString: Feb 2022
 draft: false
 tags: ["Web Development"]
