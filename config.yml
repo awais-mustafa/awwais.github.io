@@ -37,6 +37,7 @@ menu:
 params:
   # theme
   showToc: true
+  showdescription: true
   TocOpen: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -52,13 +53,13 @@ params:
   ShowBreadCrumbs: true
 #   ShowCodeCopyButtons: false
   ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: true
   hidemeta: true
-  hideSummary: false
+  hideSummary: true
   showtoc: true
   tocopen: true
 
