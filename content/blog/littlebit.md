@@ -6,7 +6,7 @@ draft: false
 tags: ["Myself"]
 weight: 101
 cover:
-    image: "blog/aboutWebsite/AboutWebsiteCover.jpg"
+    image: "blog/aboutWebsite/AboutWebsiteCover1.jpg"
 ---
 
 # Highligthing the result
