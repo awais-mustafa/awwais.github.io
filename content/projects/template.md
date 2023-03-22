@@ -3,7 +3,7 @@ title: "TemplateWebsite"
 description: "!"
 dateString: April 2022
 draft: false
-tags: ["Html", "CSS", "JavaScript", "Web Development"]
+tags: ["Web Development"]
 showToc: false
 weight: 206
 cover:
