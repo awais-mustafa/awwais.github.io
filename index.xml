@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>Meme App</title>
+      <link>https://awwais.me/playbook/projects/memeapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://awwais.me/playbook/projects/memeapp/</guid>
+      <description>A App full of new Memes!</description>
+    </item>
+    
+    <item>
       <title>SimonGame</title>
       <link>https://awwais.me/playbook/projects/simongame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -68,15 +77,6 @@
       
       <guid>https://awwais.me/playbook/projects/todo-list-app/</guid>
       <description>A Todo list web application built using React</description>
-    </item>
-    
-    <item>
-      <title>Meme App</title>
-      <link>https://awwais.me/playbook/projects/memeapp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://awwais.me/playbook/projects/memeapp/</guid>
-      <description>A App full of new Memes!</description>
     </item>
     
     <item>
