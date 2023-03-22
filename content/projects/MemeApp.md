@@ -7,7 +7,7 @@ tags: ["Kotlin", "AppDevelopment", "AndriodStudio", "App"]
 showToc: false
 weight: 208
 cover:
-    image: "projects/search-and-reconnaissance-robot/cover.jpeg"
+    image: "projects/memesApp/memesAppCover.png"
 --- 
 
 <center>
