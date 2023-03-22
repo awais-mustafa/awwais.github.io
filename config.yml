@@ -120,7 +120,13 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-
+  analytics:
+    google:
+      SiteVerificationTag: "G-CKX77827PG"
+#     bing:
+#       SiteVerificationTag: "XYZabc"
+#     yandex:
+#       SiteVerificationTag: "XYZabc"
 # for search using Fuse.js
 outputs:
   home:
@@ -133,6 +139,11 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+ 
+      
 
 
+# google_analytics: G-CKX77827PG # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 
+
+# google_site_verification: Ut7eBNONGLkuyT9d6V8omoShdrzoZRqhwz0MSMgZk8M 
