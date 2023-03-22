@@ -3,7 +3,7 @@ title: "DrumKit"
 description: "Drumkit in your browser!"
 dateString: April 2022
 draft: false
-tags: ["Html", "CSS", "JavaScript", "WebDevelopment"]
+tags: ["Web Development"]
 showToc: false
 weight: 202
 cover:
