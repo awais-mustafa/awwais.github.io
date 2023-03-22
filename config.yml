@@ -131,8 +131,8 @@ params:
     keys: ["title", "permalink", "summary", "content"]
   analytics:
     google:
-      SiteVerificationTag: "G-CKX77827PG"
-      google_site_verification: Ut7eBNONGLkuyT9d6V8omoShdrzoZRqhwz0MSMgZk8M 
+      SiteVerificationTag: "G-PSV21QQC36"
+#       google_site_verification: Ut7eBNONGLkuyT9d6V8omoShdrzoZRqhwz0MSMgZk8M 
 #     bing:
 #       SiteVerificationTag: "XYZabc"
 #     yandex:
