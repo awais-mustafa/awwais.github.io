@@ -6,11 +6,11 @@ theme: PaperMod
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "favicon_io/favicon.ico"
-    favicon16x16: "favicon_io/favicon-16x16.png"
-    favicon32x32: "favicon_io/favicon-32x32.png"
-    apple_touch_icon: "favicon_io/apple-touch-icon.png"
-    safari_pinned_tab: ""
+    favicon: favicon_io/favicon.ico
+    favicon16x16: favicon_io/favicon-16x16.png
+    favicon32x32: favicon_io/favicon-32x32.png
+    apple_touch_icon: favicon_io/apple-touch-icon.png
+    safari_pinned_tab: 
 googleAnalytics: G-PSV21QQC36
 menu:
   main:
