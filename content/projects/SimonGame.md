@@ -7,7 +7,7 @@ tags: ["Web Development", "Frontend Development", "HTML", "CSS", "JavaScript"]
 showToc: false
 weight: 204
 cover:
-    image: "projects/todo-list-app/cover.jpg"
+    image: "projects/SimonGame/simonGameCover.jpeg"
 
 ---
 
