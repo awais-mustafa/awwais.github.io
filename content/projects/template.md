@@ -1,8 +1,14 @@
 ---
-
-title: TemplateWebSite
-
----
+title: "TemplateWebsite"
+description: "!"
+dateString: April 2022
+draft: false
+tags: ["Html", "CSS", "JavaScript", "Web Development"]
+showToc: false
+weight: 208
+cover:
+    image: "projects/templateWebsite/templateWebCover.png"
+--- 
 
 
  
