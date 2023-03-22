@@ -5,7 +5,7 @@ dateString: March 2022 - April 2022
 draft: false
 tags: ["Kotlin", "AppDevelopment", "AndriodStudio", "App"]
 showToc: false
-weight: 208
+weight: 204
 cover:
     image: "projects/memesApp/memesAppCover1.png"
 --- 
