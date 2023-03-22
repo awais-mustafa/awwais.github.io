@@ -7,7 +7,7 @@ tags: ["Html", "CSS", "JavaScript", "Web Development"]
 showToc: false
 weight: 206
 cover:
-    image: "projects/templateWebsite/templateWebsiteCover.png"
+    image: "projects/templateWebsite/templateWebsiteCover.jpg"
 --- 
 
 
