@@ -1,6 +1,6 @@
 ---
 title: "SimonGame"
-description: ""
+description: "a"
 dateString: Feb 2022
 draft: false
 tags: ["Web Development", "Frontend Development", "HTML", "CSS", "JavaScript"]
