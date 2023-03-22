@@ -1,102 +1,38 @@
 ---
-
-title: Memes App
-
----
+title: "Meme App"
+description: "A App full of new Memes!"
+dateString: March 2022 - April 2022
+draft: false
+tags: ["Kotlin", "AppDevelopment", "AndriodStudio", "App"]
+showToc: false
+weight: 208
+cover:
+    image: "projects/search-and-reconnaissance-robot/cover.jpeg"
+--- 
 
 <center>
     <iframe width="560" height="315" src="https://youtube.com/embed/FHdfvCnBm8c" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 </center>
 
-<br>
-<br>
-<br>
-Its Simple App When you open this App:
-               🚀 Firstly loaded an image of meme by calling a [open source API.]()
-               
-                
-                
-                
-<br>      
-<br>
-<br>
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MemeShareAppPhoto/awais,awais mustafa,awwais,awwais.me,awwais.com,mustafa,awwais github,awwais twitter,awaistwt1.png" title="memes image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MemeShareAppPhoto/awais,awais mustafa,awwais,awwais.me,awwais.com,mustafa,awwais github,awwais twitter,awaistwt2.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MemeShareAppPhoto/awais,awais mustafa,awwais,awwais.me,awwais.com,mustafa,awwais github,awwais twitter,awaistwt3.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<!-- > Presented in the 4th International and 19th National Conference on Machine and Mechanisms (**iNaCoMM 2019**)
 
-<br>
-<br>
-<br>
+> Published in the **Springer 2019** -->
 
-<div class="caption">
-    🚀 When image comes from API then it extract them into volley library, then show in screen with the help of Glide Library.
-                                                 That's it
-</div>
+### 🔗 [Code](https://github.com/awwais/MemesShare)
 
-<br>
-<br>
-<br>
+## Description
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MemeShareAppPhoto/out.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+Its Simple App When you open this App: 🚀 Firstly loaded an image of meme by calling a [open source API.]() 🚀 When image comes from API then it extract them into volley library, then show in screen with the help of Glide Library.That's it.🕸 When you Click on [Next]() its loaded a new meme.  🕸 And when you Click on `Share()` button its called your operating System Share functionality and shows share option.
 
-<br>
-<br>
-<br>
+![](/projects/search-and-reconnaissance-robot/img1.jpeg)
 
-<div class="caption">
-    🕸 When you Click on [Next]() its loaded a new meme.
-                                               
-</div>
+![](/projects/search-and-reconnaissance-robot/img2.jpeg)
 
-<br>
-<br>
-<br>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MemeShareAppPhoto/awais,awais mustafa,awwais,awwais.me,awwais.com,mustafa,awwais github,awwais twitter,awaistwt5.png" title="memes image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MemeShareAppPhoto/awais,awais mustafa,awwais,awwais.me,awwais.com,mustafa,awwais github,awwais twitter,awaistwt6.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MemeShareAppPhoto/awais,awais mustafa,awwais,awwais.me,awwais.com,mustafa,awwais github,awwais twitter,awaistwt7.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<br>
-<br>
-<br>
-
-<div class="caption">
-    🕸 And when you Click on `Share()` button its called your operating System Share functionality and shows share option.
-                                               
-</div>
+![](/projects/search-and-reconnaissance-robot/img3.jpeg)
 
 
 
 
-
-<br>
-<br>
-<br>
-<br>
-# Code For this MemesApp
-<br>
-
-[Code...](https://github.com/awwais/MemesShare)
