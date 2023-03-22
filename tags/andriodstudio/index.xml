@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AndriodStudio on Awais Mustafa</title>
+    <link>https://awwais.me/playbook/tags/andriodstudio/</link>
+    <description>Recent content in AndriodStudio on Awais Mustafa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://awwais.me/playbook/tags/andriodstudio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meme App</title>
+      <link>https://awwais.me/playbook/projects/memeapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://awwais.me/playbook/projects/memeapp/</guid>
+      <description>A App full of new Memes!</description>
+    </item>
+    
+  </channel>
+</rss>
