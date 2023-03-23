@@ -75,7 +75,7 @@ params:
   # for enchanced SEO
   env: production
   title: Awais 
-  description: "Website, Where Awais represent his thoughts,blogs,mini-project"
+  description: "Website, Where Awais represent his thoughts,blogs,and showcase his mini-project"
   keywords: [Awais Blog,Awais Portfolio, Awais,Awais Mustafa blog,Awais Mustafa portfolio,awais,awais mustafa,awais blog,awais portfolio,Awwais,awwais,AwaisMustafa,awais devops,awais cloud,awais website,awwais.me, AI]
 #   author: Awais
   # author: ["Me", "You"] # multiple authors
@@ -88,7 +88,11 @@ params:
   profileMode:
     enabled: true
     title: "Awais Mustafa"
-    subtitle: "Hi 👋, I'm Awais, an [**BCS**](https://uom.edu.pk/) student at the **University of Malakand**. I'm passionate about **Backend**, **Cloud** and **DevOps**, and I'm also an Developer. Along with my undergrad studies, I've been working as a **DevOps Intern**. When I'm free, I write 😊 blogs on devOps, and make mini projects. I think that not scare you 👻"
+    subtitle: "Hi 👋, I'm Awais, an [**BCS**](https://uom.edu.pk/) student at the **University of Malakand**. I'm passionate about **Backend**, **Cloud** and **DevOps**, and I'm also an Developer. Along with my undergrad studies, I've been working as a **DevOps Intern**. When I'm free, I write 😊 blogs on devOps, and make mini projects. I think that not scare you 👻   
+    
+    
+    
+     "
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
