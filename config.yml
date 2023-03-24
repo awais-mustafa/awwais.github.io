@@ -1,6 +1,7 @@
 baseURL: "https://awwais.me/"
 languageCode: en-us
 title: Awais Mustafa
+paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
