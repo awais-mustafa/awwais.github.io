@@ -9,7 +9,7 @@ showToc: false
 weight: 201
 
 cover:
-    image: "projects/SnowBorder/snowBorderCover.jpg"
+    image: "projects/SnowBorder/snowBorderCover.webp"
 ---
 
 
