@@ -7,7 +7,7 @@ tags: ["Web Development"]
 showToc: false
 weight: 202
 cover:
-    image: "projects/DrumKit/DrumKitCover.jpg"
+    image: "projects/DrumKit/DrumKitCover.webp"
 --- 
 
 
