@@ -7,7 +7,7 @@ tags: ["React", "Web Development"]
 showToc: false
 weight: 204
 cover:
-    image: "projects/todo-list-app/cover.jpg"
+    image: "projects/todo-list-app/cover.webp"
 --- 
 ### 🔗 [View App]()
 ### 🔗 [GitHub](https://github.com/awwais)
