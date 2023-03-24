@@ -20,6 +20,5 @@ A simple website built using **Html,Css,javascript and Bootstrap**.
 I built this app while learning **BootStrap**.
 
 
----
 
 
