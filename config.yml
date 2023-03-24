@@ -50,7 +50,7 @@ params:
   TocOpen: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-#   hideMeta: false
+  hideMeta: false
 #   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -88,11 +88,7 @@ params:
   profileMode:
     enabled: true
     title: "Awais Mustafa"
-    subtitle: "Hi 👋, I'm Awais, an [**BCS**](https://uom.edu.pk/) student at the **University of Malakand**. I'm passionate about **Backend**, **Cloud** and **DevOps**, and I'm also an Developer. Along with my undergrad studies, I've been working as a **DevOps Intern**. When I'm free, I write 😊 blogs on devOps, and make mini projects. I think that not scare you 👻   
-    
-    
-    
-     "
+    subtitle: "Hi 👋, I'm Awais, an [**BCS**](https://uom.edu.pk/) student at the **University of Malakand**. I'm passionate about **Backend**, **Cloud** and **DevOps**, and I'm also an Developer. Along with my undergrad studies, I've been working as a **DevOps Intern**. When I'm free, I write 😊 blogs on devOps, and make mini projects. I think that not scare you 👻 "
     imageUrl: "home/me.webp"
     imageWidth: 220
     imageHeight: 220
