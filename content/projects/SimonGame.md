@@ -7,7 +7,7 @@ tags: ["Web Development"]
 showToc: false
 weight: 204
 cover:
-    image: "projects/simonGame/simonGameCover.jpeg"
+    image: "projects/simonGame/simonGameCover.webp"
 
 ---
 
