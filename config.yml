@@ -99,7 +99,7 @@ params:
     # buttons:
     #   - name: Resume
     #     url: ""
-  
+   
  
   # List View
   hideDescriptionInList: false
