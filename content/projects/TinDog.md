@@ -7,7 +7,7 @@ tags: [ "Web Development"]
 showToc: false
 weight: 203
 cover:
-    image: "projects/tinDog/tindogCover2.jpg"
+    image: "projects/tinDog/tindogCover2.webp"
 
 ---
 
