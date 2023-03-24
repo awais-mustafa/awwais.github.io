@@ -7,7 +7,7 @@ tags: ["Web Development"]
 showToc: false
 weight: 206
 cover:
-    image: "projects/templateWebsite/templateWebsiteCover.jpg"
+    image: "projects/templateWebsite/templateWebsiteCover.webp"
 --- 
 
 
