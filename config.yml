@@ -140,3 +140,22 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+      
+      
+      
+      
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai      
+      
+      
+      
+      
+      
