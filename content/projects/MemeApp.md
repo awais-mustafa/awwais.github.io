@@ -7,7 +7,7 @@ tags: ["App Development", "Andriod Studio", "Apps"]
 showToc: false
 weight: 204
 cover:
-    image: "projects/memesApp/memesAppCover1.jpg"
+    image: "projects/memesApp/memesAppCover1.webp"
 --- 
 
 
