@@ -40,9 +40,8 @@ params:
   showToc: true
   showdescription: true
   TocOpen: false
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  hideMeta: false
+  
+  
 #   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -52,7 +51,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-#   ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: false
   ShowWordCount: true
   ShowRssButtonInSectionTermList: false
   UseHugoToc: true
