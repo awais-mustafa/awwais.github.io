@@ -9,20 +9,20 @@ author: "Me"
 showToc: true
 TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-description: "Desc Text."
+<!-- hidemeta: false -->
+
+<!-- description: "Desc Text." -->
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-hideSummary: false
+hideSummary: true
 searchHidden: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
+ShowWordCount: false
+<!-- ShowRssButtonInSectionTermList: true -->
 UseHugoToc: true
 cover:
     image: "<image path/url>" # image path/url
