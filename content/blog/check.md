@@ -48,30 +48,30 @@ Next, create a directory that you want to share with the client machines. In thi
 
 
 
-sudo mkdir -p /var/nfs/share
+    sudo mkdir -p /var/nfs/share
 Step 3: Configure the NFS Exports File
 The NFS exports file determines which directories are shared with the client machines. Open the file /etc/exports with your favorite text editor and add the following line:
 
 
 
-/var/nfs/share 192.168.0.0/24(rw,sync,no_subtree_check)
+    /var/nfs/share 192.168.0.0/24(rw,sync,no_subtree_check)
 This line allows machines on the 192.168.0.0/24 network to read and write to the /var/nfs/share directory. The rw option allows read and write access, the sync option ensures changes are immediately written to the disk, and the no_subtree_check option disables subtree checking.
 
 Step 4: Restart the NFS Server
 After making changes to the exports file, you need to restart the NFS server for them to take effect. Run the following command:
 
 
-sudo systemctl restart nfs-kernel-server
+    sudo systemctl restart nfs-kernel-server
 Step 5: Configure the Firewall
 By default, NFS uses TCP port 2049 for communication. If you're using a firewall, you'll need to open this port. Run the following command to open the port using UFW:
 
 
-sudo ufw allow from 192.168.0.0/24 to any port nfs
+    sudo ufw allow from 192.168.0.0/24 to any port nfs
 Step 6: Mount the NFS Share on the Client Machine
 Finally, you can mount the NFS share on the client machine. Run the following command:
 
 
-sudo mount 192.168.0.10:/var/nfs/share /mnt
+    sudo mount 192.168.0.10:/var/nfs/share /mnt
 This command mounts the /var/nfs/share directory on the NFS server at IP address 192.168.0.10 to the /mnt directory on the client machine.
 
 Conclusion
