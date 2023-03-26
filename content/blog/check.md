@@ -31,10 +31,10 @@ cover:
     
 ____________________________________________________________________________________________________________   
 
-> Introduction: Are you looking for a way to share files between multiple machines in a network? `NFS (Network File System)` may be just what you need! In this guide, we'll walk  you through the process of setting up and configuring an `NFS server on Linux`.
-<!-- > | 
-> |
-> | -->
+> Introduction: Are you looking for a way to share files between multiple machines in a network? 
+    
+`NFS (Network File System)` may be just what you need! In this guide, we'll walk  you through the process of setting up and configuring an `NFS server on Linux`.
+
 
     
 ____________________________________________________________________________________________________________   
@@ -45,7 +45,11 @@ The first step is to install the required packages on your server. You can do th
     
     sudo apt-get install nfs-kernel-server
     
-____________________________________________________________________________________________________________      
+    
+    
+____________________________________________________________________________________________________________    
+    
+    
 ## Step 2: 
 ### Create the Export Directory
 Next, create a directory that you want to share with the client machines. In this example, we'll use `/var/nfs/share` as the export directory. Run the following command to create it:
@@ -56,6 +60,8 @@ Next, create a directory that you want to share with the client machines. In thi
     
     
 ____________________________________________________________________________________________________________   
+    
+    
 ## Step 3: 
 ### Configure the NFS Exports File
 The NFS exports file determines which directories are shared with the client machines. Open the file /etc/exports with your favorite text editor and add the following line:
@@ -66,6 +72,8 @@ The NFS exports file determines which directories are shared with the client mac
 This line allows machines on the 192.168.0.0/24 network to read and write to the `/var/nfs/share` directory. The `rw` option allows read and write access, the `sync` option ensures changes are immediately written to the disk, and the `no_subtree_check` option disables subtree checking.
 
 ____________________________________________________________________________________________________________       
+    
+    
 ## Step 4: 
 ### Restart the NFS Server
 After making changes to the exports file, you need to restart the NFS server for them to take effect. Run the following command:
@@ -74,6 +82,8 @@ After making changes to the exports file, you need to restart the NFS server for
     sudo systemctl restart nfs-kernel-server
     
  ____________________________________________________________________________________________________________   
+    
+    
 ## Step 5: 
 ### Configure the Firewall
 By default, NFS uses TCP port 2049 for communication. If you're using a firewall, you'll need to open this port. Run the following command to open the port using UFW:
@@ -83,6 +93,8 @@ sudo ufw allow from 192.168.0.0/24 to any port nfs
 ```
     
 ____________________________________________________________________________________________________________   
+    
+    
 ## Step 6: 
 ### Mount the NFS Share on the Client Machine
 Finally, you can mount the NFS share on the client machine. Run the following command:
@@ -93,6 +105,8 @@ This command mounts the `/var/nfs/share` directory on the NFS server at IP addre
 
     
 ____________________________________________________________________________________________________________       
+    
+    
 # Conclusion
 Setting up an `NFS server` may seem daunting at first, but it's actually a fairly simple process. By following the steps outlined in this guide, you should be able to configure an `NFS server` and share files with client machines in no time. `Good luck!`   
 
