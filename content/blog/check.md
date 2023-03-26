@@ -35,15 +35,26 @@ ________________________________________________________________________________
     
 `NFS (Network File System)` may be just what you need! In this guide, we'll walk  you through the process of setting up and configuring an `NFS server on Linux`.
 
+Here are the step-by-step instructions for setting up an NFS server and client on different machines:
+
 
     
 ____________________________________________________________________________________________________________   
-
-## Step 1: 
-### Install the Required Packages
-The first step is to install the required packages on your server. You can do this by running the following command:
     
-    sudo apt-get install nfs-kernel-server
+## Step 1: 
+### Install the NFS package:
+
+On the machine that will be the NFS server, install the NFS package. For example, on Ubuntu, you can install the package using the following command:
+
+```
+sudo apt-get install nfs-kernel-server
+```
+    
+On the machine that will be the NFS client, install the NFS client package. For example, on Ubuntu, you can install the package using the following command:
+
+```
+sudo apt-get install nfs-common
+```  
     
     
     
@@ -55,9 +66,9 @@ ________________________________________________________________________________
 Next, create a directory that you want to share with the client machines. In this example, we'll use `/var/nfs/share` as the export directory. Run the following command to create it:
 
 
-
-    sudo mkdir -p /var/nfs/share
-    
+```
+sudo mkdir -p /var/nfs/share
+```   
     
 ____________________________________________________________________________________________________________   
     
