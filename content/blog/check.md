@@ -9,12 +9,9 @@ TocOpen: false
 draft: false
 
 cover:
-    image: "<image path/url>" # image path/url
-<!--     alt: "<alt text>" # alt text -->
+    image: "<image path/url>" 
     caption: "Getting Devops Practically" # display caption under cover
-    relative: false # when using page bundles set this to true
-<!--     hidden: true # only hide on current single page -->
-
+    
 ---
   
 ____________________________________________________________________________________________________________   
