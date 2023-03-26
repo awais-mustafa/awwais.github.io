@@ -52,7 +52,7 @@ menu:
 params:
   # theme
   showToc: true
-  TocOpen: false
+  TocOpen: true
   
   
 #   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -60,12 +60,12 @@ params:
   defaultTheme: dark # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
