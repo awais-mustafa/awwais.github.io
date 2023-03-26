@@ -52,7 +52,7 @@ menu:
 params:
   # theme
   showToc: true
-  TocOpen: true
+  TocOpen: false
   
   
 #   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -71,10 +71,10 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: true
-  hidemeta: true
+  hidemeta: false
   hideSummary: true
   showtoc: true
-  tocopen: true
+  tocopen: false
 
   # for enchanced SEO
   env: production
