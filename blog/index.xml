@@ -5,8 +5,7 @@
     <link>https://awwais.me/blog/</link>
     <description>Recent content in Blogs on Awais Mustafa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://awwais.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://awwais.me/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Little bit About My Website</title>
       <link>https://awwais.me/blog/littlebit/</link>
@@ -21,11 +20,11 @@ About Me A little bit about me. I love watching TV; Hopefully, that doesn&amp;rs
     <item>
       <title>NFS Server: A Complete Guide to Setting Up and Configuring</title>
       <link>https://awwais.me/blog/check/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://awwais.me/blog/check/</guid>
-      <description>#Intorduction Are you looking for a way to share files between multiple machines in a network? NFS (Network File System) may be just what you need! In this guide, we&amp;rsquo;ll walk you through the process of setting up and configuring an NFS server on Linux.
-#Step 1: Install the Required Packages The first step is to install the required packages on your server. You can do this by running the following command:</description>
+      <description>Introduction Are you looking for a way to share files between multiple machines in a network? NFS (Network File System) may be just what you need! In this guide, we&amp;rsquo;ll walk you through the process of setting up and configuring an NFS server on Linux.
+Step 1: Install the Required Packages The first step is to install the required packages on your server. You can do this by running the following command:</description>
     </item>
     
   </channel>
