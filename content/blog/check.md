@@ -4,18 +4,16 @@ dateString: Dec 2022
 weight: 101
 
 tags: ["Practical Devops"]
-
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 
 cover:
     image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+<!--     alt: "<alt text>" # alt text -->
+    caption: "Getting Devops Practically" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+<!--     hidden: true # only hide on current single page -->
 
 ---
   
