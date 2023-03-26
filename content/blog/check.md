@@ -19,14 +19,14 @@ cover:
 
 ---
   
-```
-Introduction: Are you looking for a way to share files between multiple machines in a network?        #comments   
-```
 ____________________________________________________________________________________________________________   
-
-
-`NFS (Network File System)` may be just what you need! In this guide, we'll walk  you through the process of setting up and configuring an `NFS server on Linux`.Here are the step-by-step instructions for setting up an NFS server and client on different machines:
-
+    
+    
+Introduction: Are you looking for a way to share files between multiple machines in a network?`NFS (Network File System)` may be just what you need! In this guide, we'll walk  you through the process of setting up and configuring an `NFS server on Linux`.Here are the step-by-step instructions for 
+ 
+```    
+setting up: an NFS server and client on different machines #comments
+```
 
     
 ____________________________________________________________________________________________________________   
