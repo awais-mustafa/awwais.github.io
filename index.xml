@@ -5,7 +5,8 @@
     <link>https://awwais.me/</link>
     <description>Recent content on Awais Mustafa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://awwais.me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://awwais.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Little bit About My Website</title>
       <link>https://awwais.me/blog/littlebit/</link>
@@ -78,6 +79,15 @@ About Me A little bit about me. I love watching TV; Hopefully, that doesn&amp;rs
       
       <guid>https://awwais.me/projects/template/</guid>
       <description>!</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>https://awwais.me/blog/check/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://awwais.me/blog/check/</guid>
+      <description>Desc Text.</description>
     </item>
     
     
