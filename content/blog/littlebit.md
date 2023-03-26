@@ -4,7 +4,7 @@ description: ""
 dateString: Feb 2022
 draft: false
 tags: ["Myself"]
-weight: 101
+weight: 102
 cover:
     image: "blog/aboutWebsite/AboutWebsiteCover2.webp"
 ---
@@ -13,9 +13,10 @@ cover:
 
 I intend to place the results of various works on this webpage, highlighting the results of mini projects, ongoing projects, and more. So, for those who are reading, thank you!
 
+```
 All of the work that I have been doing over the year,and months been
-extremely fun, eye opening, and a great experience altogether!
-
+extremely fun, eye opening, and a great experience altogether!         #comments
+```
 ***
 
 # About Me
