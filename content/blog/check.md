@@ -7,7 +7,7 @@ tags: ["Practical Devops"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
@@ -30,16 +30,16 @@ cover:
 ---
     
     
-    
+#Intorduction    
 Are you looking for a way to share files between multiple machines in a network? NFS (Network File System) may be just what you need! In this guide, we'll walk you through the process of setting up and configuring an NFS server on Linux.
 
-Step 1: Install the Required Packages
+#Step 1: Install the Required Packages
 The first step is to install the required packages on your server. You can do this by running the following command:
     
     sudo apt-get install nfs-kernel-server
     
     
-Step 2: Create the Export Directory
+# Step 2: Create the Export Directory
 Next, create a directory that you want to share with the client machines. In this example, we'll use /var/nfs/share as the export directory. Run the following command to create it:
 
 
