@@ -9,7 +9,7 @@ TocOpen: false
 draft: false
 
 cover:
-    image: "<image path/url>" 
+    image: "/blog/01-NFS/01-NFSCover.webp" 
     caption: "Getting Devops Practically" # display caption under cover
     
 ---
