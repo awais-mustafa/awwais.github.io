@@ -1,7 +1,7 @@
 ---
 title: "NFS Server: A Complete Guide to Setting Up and Configuring"
 dateString: Dec 2022
-# weight: 1
+weight: 101
 
 tags: ["Practical Devops"]
 
@@ -9,7 +9,7 @@ tags: ["Practical Devops"]
 showToc: true
 TocOpen: false
 draft: false
-
+<!-- 
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -19,7 +19,7 @@ ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: false
-UseHugoToc: true
+UseHugoToc: true -->
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
