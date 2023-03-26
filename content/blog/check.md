@@ -9,7 +9,16 @@ tags: ["Practical Devops"]
 showToc: true
 TocOpen: false
 draft: false
-<!-- 
+
+cover:
+    image: "<image path/url>" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
+
+---
+    <!-- 
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -20,15 +29,6 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: false
 UseHugoToc: true -->
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-
----
-    
 ____________________________________________________________________________________________________________   
 
 > Introduction: Are you looking for a way to share files between multiple machines in a network? 
