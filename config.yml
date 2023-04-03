@@ -83,7 +83,7 @@ params:
   keywords: [Awais Blog,Awais Portfolio, Awais,Awais Mustafa blog,Awais Mustafa portfolio,awais,awais mustafa,awais blog,awais portfolio,Awwais,awwais,AwaisMustafa,awais devops,awais cloud,awais website,awwais.me, AI]
 #   author: Awais
   # author: ["Me", "You"] # multiple authors
-#   images: ["opengraph/opengraph.png"]
+  images: ["blog/awais.jpg"]
 #   DateFormat: "January, 2006"
 #   defaultTheme: auto # dark, light
 #   disableThemeToggle: false
@@ -122,7 +122,7 @@ params:
     - name: "twitter"
       url: "https://twitter.com/awaistwt"
     - name: Connect with me
-      url: "https://awwais.bio.link/"
+      url: "https://awwais.me/links"
       
   # text search
   fuseOpts:
