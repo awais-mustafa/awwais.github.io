@@ -83,7 +83,7 @@ params:
   keywords: [Awais Blog,Awais Portfolio, Awais,Awais Mustafa blog,Awais Mustafa portfolio,awais,awais mustafa,awais blog,awais portfolio,Awwais,awwais,AwaisMustafa,awais devops,awais cloud,awais website,awwais.me, AI]
 #   author: Awais
   # author: ["Me", "You"] # multiple authors
-  images: ["blog/awais.jpg"]
+  images: ["awais.jpg"]
 #   DateFormat: "January, 2006"
 #   defaultTheme: auto # dark, light
 #   disableThemeToggle: false
@@ -108,6 +108,7 @@ params:
   cover:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
+    hidden: true # hide everywhere but not in structured data
 
   socialIcons:
 
