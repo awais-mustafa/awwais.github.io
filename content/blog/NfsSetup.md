@@ -11,7 +11,7 @@ description: "nfs server setup by awais,nfs setup awais,awais nfs setup,awwais n
 
 cover:
     image: "/blog/01-NFS/01-NFSCover.webp" 
-    caption: "Getting Devops Practically" # display caption under cover
+    caption: "NFS Setup by Awais Mustafa" # display caption under cover
     
 ---
   
