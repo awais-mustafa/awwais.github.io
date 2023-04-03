@@ -7,6 +7,7 @@ tags: ["Practical Devops"]
 showToc: true
 TocOpen: false
 draft: false
+description: "nfs server setup by awais,nfs setup awais,awais nfs setup,awwais nfs setup,awais blogs,awais mustafa blogs"
 
 cover:
     image: "/blog/01-NFS/01-NFSCover.webp" 
