@@ -20,6 +20,9 @@
   </url><url>
     <loc>https://awwais.me/projects/template/</loc>
   </url><url>
+    <loc>https://awwais.me/links/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://awwais.me/tags/2d-games/</loc>
   </url><url>
     <loc>https://awwais.me/tags/andriod-studio/</loc>
