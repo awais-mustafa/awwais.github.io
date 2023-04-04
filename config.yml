@@ -88,7 +88,7 @@ params:
   # for enchanced SEO
   env: production
   title: Awais 
-  description: "Website, Where Awais represent his thoughts,blogs,and showcase his mini-project"
+  description: "Portfolio,where Awais Showcase His Mini-project Thoughts,and Blogs. "
   keywords: [Awais Blog,Awais Portfolio, Awais,Awais Mustafa blog,Awais Mustafa portfolio,awais,awais mustafa,awais blog,awais portfolio,Awwais,awwais,AwaisMustafa,awais devops,awais cloud,awais website,awwais.me, AI]
 #   author: Awais
   # author: ["Me", "You"] # multiple authors
