@@ -55,8 +55,7 @@ params:
   TocOpen: false
   
 
-    cover:
-        linkFullImages: true  
+
 #   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
@@ -103,7 +102,9 @@ params:
     #   - name: Resume
     #     url: ""
    
- 
+ params:
+    cover:
+        responsiveImages: false
   # List View
   hideDescriptionInList: false
 
