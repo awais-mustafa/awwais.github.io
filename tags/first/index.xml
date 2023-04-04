@@ -4,15 +4,20 @@
     <title>first on Awais Mustafa</title>
     <link>https://awwais.me/tags/first/</link>
     <description>Recent content in first on Awais Mustafa</description>
+    <image>
+      <title>Awais Mustafa</title>
+      <url>https://awwais.me/home/me.jpg</url>
+      <link>https://awwais.me/home/me.jpg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://awwais.me/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>https://awwais.me/blog/check/</link>
+      <link>https://awwais.me/blog/checking/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://awwais.me/blog/check/</guid>
+      <guid>https://awwais.me/blog/checking/</guid>
       <description>Desc Text.</description>
     </item>
     
