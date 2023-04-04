@@ -102,9 +102,10 @@ params:
     #   - name: Resume
     #     url: ""
    
- params:
-    cover:
-        responsiveImages: false
+
+  cover:
+    responsiveImages: false
+    linkFullImages: true
   # List View
   hideDescriptionInList: false
 
