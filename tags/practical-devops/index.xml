@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Practical Devops on ExampleSite</title>
-    <link>awwais.me/tags/practical-devops/</link>
+    <link>https://awwais.me/tags/practical-devops/</link>
     <description>Recent content in Practical Devops on ExampleSite</description>
     <image>
       <title>ExampleSite</title>
-      <url>awwais.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>awwais.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://awwais.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://awwais.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="awwais.me/tags/practical-devops/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://awwais.me/tags/practical-devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NFS Server: A Complete Guide to Setting Up and Configuring</title>
-      <link>awwais.me/blog/nfssetup/</link>
+      <link>https://awwais.me/blog/nfssetup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>awwais.me/blog/nfssetup/</guid>
+      <guid>https://awwais.me/blog/nfssetup/</guid>
       <description>NFS Setup Guide in 2 minutes by Awais Mustafa</description>
     </item>
     

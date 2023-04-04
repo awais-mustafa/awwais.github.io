@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on ExampleSite</title>
-    <link>awwais.me/blog/</link>
+    <link>https://awwais.me/blog/</link>
     <description>Recent content in Blogs on ExampleSite</description>
     <image>
       <title>ExampleSite</title>
-      <url>awwais.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>awwais.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://awwais.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://awwais.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="awwais.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://awwais.me/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NFS Server: A Complete Guide to Setting Up and Configuring</title>
-      <link>awwais.me/blog/nfssetup/</link>
+      <link>https://awwais.me/blog/nfssetup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>awwais.me/blog/nfssetup/</guid>
+      <guid>https://awwais.me/blog/nfssetup/</guid>
       <description>NFS Setup Guide in 2 minutes by Awais Mustafa</description>
     </item>
     
     <item>
       <title>Little bit About My Website</title>
-      <link>awwais.me/blog/littlebit/</link>
+      <link>https://awwais.me/blog/littlebit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>awwais.me/blog/littlebit/</guid>
+      <guid>https://awwais.me/blog/littlebit/</guid>
       <description>Highligthing the result I intend to place the results of various works on this webpage, highlighting the results of mini projects, ongoing projects, and more. So, for those who are reading, thank you!
 All of the work that I have been doing over the year,and months been extremely fun, eye opening, and a great experience altogether! #comments About Me A little bit about me. I love watching TV; Hopefully, that doesn&amp;rsquo;t scare you.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>awwais.me/blog/checking/</link>
+      <link>https://awwais.me/blog/checking/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>awwais.me/blog/checking/</guid>
+      <guid>https://awwais.me/blog/checking/</guid>
       <description>Desc Text.</description>
     </item>
     
