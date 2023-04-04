@@ -76,6 +76,14 @@ params:
   hideSummary: true
   showtoc: true
   tocopen: false
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "awwais.me/favicon.ico"
+    favicon16x16: "awwais.me/favicon-16x16.png"
+    favicon32x32: "awwais.me/favicon-32x32.png"
+    apple_touch_icon: "awwais.me/apple-touch-icon.png"
+    safari_pinned_tab: "<link / abs url>"
 
   # for enchanced SEO
   env: production
