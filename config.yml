@@ -93,7 +93,7 @@ params:
 #   author: Awais
   # author: ["Me", "You"] # multiple authors
   
-  images: ["home/me.jpg"]
+  images: ["blog/awais.jpg"]
 #   DateFormat: "January, 2006"
 #   defaultTheme: auto # dark, light
 #   disableThemeToggle: false
