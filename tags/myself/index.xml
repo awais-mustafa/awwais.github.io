@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Myself on ExampleSite</title>
+    <title>Myself on Awais Mustafa</title>
     <link>https://awwais.me/tags/myself/</link>
-    <description>Recent content in Myself on ExampleSite</description>
+    <description>Recent content in Myself on Awais Mustafa</description>
     <image>
-      <title>ExampleSite</title>
-      <url>https://awwais.me/blog/awais.jpg</url>
-      <link>https://awwais.me/blog/awais.jpg</link>
+      <title>Awais Mustafa</title>
+      <url>https://awwais.me/home/me.jpg</url>
+      <link>https://awwais.me/home/me.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://awwais.me/tags/myself/index.xml" rel="self" type="application/rss+xml" />
