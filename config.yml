@@ -184,7 +184,7 @@ markup:
     
 
     
-baseURL: "awwais.me"
+baseURL: "https://awwais.me"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
