@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Awais Mustafa</title>
-    <link>https://awwais.me/</link>
-    <description>Recent content on Awais Mustafa</description>
+    <title>ExampleSite</title>
+    <link>awwais.me/</link>
+    <description>Recent content on ExampleSite</description>
     <image>
-      <title>Awais Mustafa</title>
-      <url>https://awwais.me/home/me.jpg</url>
-      <link>https://awwais.me/home/me.jpg</link>
+      <title>ExampleSite</title>
+      <url>awwais.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>awwais.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://awwais.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="awwais.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NFS Server: A Complete Guide to Setting Up and Configuring</title>
-      <link>https://awwais.me/blog/nfssetup/</link>
+      <link>awwais.me/blog/nfssetup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/blog/nfssetup/</guid>
+      <guid>awwais.me/blog/nfssetup/</guid>
       <description>NFS Setup Guide in 2 minutes by Awais Mustafa</description>
     </item>
     
     <item>
       <title>Little bit About My Website</title>
-      <link>https://awwais.me/blog/littlebit/</link>
+      <link>awwais.me/blog/littlebit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/blog/littlebit/</guid>
+      <guid>awwais.me/blog/littlebit/</guid>
       <description>Highligthing the result I intend to place the results of various works on this webpage, highlighting the results of mini projects, ongoing projects, and more. So, for those who are reading, thank you!
 All of the work that I have been doing over the year,and months been extremely fun, eye opening, and a great experience altogether! #comments About Me A little bit about me. I love watching TV; Hopefully, that doesn&amp;rsquo;t scare you.</description>
     </item>
     
     <item>
       <title>SnowBorder Game</title>
-      <link>https://awwais.me/projects/unityproject/</link>
+      <link>awwais.me/projects/unityproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/projects/unityproject/</guid>
+      <guid>awwais.me/projects/unityproject/</guid>
       <description>A SnowBoarder  web application game built using Unity</description>
     </item>
     
     <item>
       <title>DrumKit</title>
-      <link>https://awwais.me/projects/drumkit/</link>
+      <link>awwais.me/projects/drumkit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/projects/drumkit/</guid>
+      <guid>awwais.me/projects/drumkit/</guid>
       <description>Drumkit in your browser!</description>
     </item>
     
     <item>
       <title>TinDog Website</title>
-      <link>https://awwais.me/projects/tindog/</link>
+      <link>awwais.me/projects/tindog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/projects/tindog/</guid>
+      <guid>awwais.me/projects/tindog/</guid>
       <description>I Make Simple Website using Html,CSS, and BootStrap</description>
     </item>
     
     <item>
       <title>Meme App</title>
-      <link>https://awwais.me/projects/memeapp/</link>
+      <link>awwais.me/projects/memeapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/projects/memeapp/</guid>
+      <guid>awwais.me/projects/memeapp/</guid>
       <description>A App full of new Memes!</description>
     </item>
     
     <item>
       <title>SimonGame</title>
-      <link>https://awwais.me/projects/simongame/</link>
+      <link>awwais.me/projects/simongame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/projects/simongame/</guid>
+      <guid>awwais.me/projects/simongame/</guid>
       <description>A Simple Game fule for that is follow the lights as you can</description>
     </item>
     
     <item>
       <title>Todo List App</title>
-      <link>https://awwais.me/projects/todo-list-app/</link>
+      <link>awwais.me/projects/todo-list-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/projects/todo-list-app/</guid>
+      <guid>awwais.me/projects/todo-list-app/</guid>
       <description>A Todo list web application built using React</description>
     </item>
     
     <item>
       <title>TemplateWebsite</title>
-      <link>https://awwais.me/projects/template/</link>
+      <link>awwais.me/projects/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/projects/template/</guid>
+      <guid>awwais.me/projects/template/</guid>
       <description>!</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://awwais.me/blog/checking/</link>
+      <link>awwais.me/blog/checking/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://awwais.me/blog/checking/</guid>
+      <guid>awwais.me/blog/checking/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://awwais.me/links/</link>
+      <link>awwais.me/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/links/</guid>
+      <guid>awwais.me/links/</guid>
       <description>Links | Awais Mustafa {&amp;quot;@context&amp;quot;:&amp;quot;https://schema.org&amp;quot;,&amp;quot;@type&amp;quot;:&amp;quot;Organization&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;Awais Mustafa&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;https://awwais.me/links&amp;quot;,&amp;quot;description&amp;quot;:&amp;quot;Links for awwais.me&amp;quot;,&amp;quot;sameAs&amp;quot;:\[\]} :root{--theme:rgb(255, 255, 255);--primary:rgb(30, 30, 30);--secondary:rgb(108, 108, 108);--tertiary:rgb(214, 214, 214);--radius:8px}@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);color-scheme:dark}}\*,::after,::before{box-sizing:border-box;margin:0;padding:0;color:var(--primary);text-decoration:none}body{font-family:-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;line-height:2;word-break:break-word;background:var(--theme);text-align:center;margin:50px 0;padding:10px}h1 span{text-decoration:underline}h1 \*{vertical-align:middle}h1{filter:drop-shadow(0 0 1.1rem var(--secondary));cursor:pointer;user-select:none}.button{background:var(--tertiary);border-radius:var(--radius);padding:8px 80px;display:block;width:100%}.links li{padding:10px 0}.links{list-style:none;flex-direction:column;display:inline-block}.links a:not(:last-of-type){margin-inline-end:12px}.links a svg{height:20px;width:20px}.links a h4{display:flex;align-items:center;justify-content:center} Links #### Blog #### Email #### GoogleDev #### LinkedIn #### Twitter #### GitHub #### YouTube #### HackerRank Yes. I am not on Facebook &amp;amp; Instagram</description>
     </item>
     

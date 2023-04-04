@@ -1,104 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Awais Mustafa</title>
-    <link>https://awwais.me/tags/</link>
-    <description>Recent content in Tags on Awais Mustafa</description>
+    <title>Tags on ExampleSite</title>
+    <link>awwais.me/tags/</link>
+    <description>Recent content in Tags on ExampleSite</description>
     <image>
-      <title>Awais Mustafa</title>
-      <url>https://awwais.me/home/me.jpg</url>
-      <link>https://awwais.me/home/me.jpg</link>
+      <title>ExampleSite</title>
+      <url>awwais.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>awwais.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://awwais.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="awwais.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first</title>
-      <link>https://awwais.me/tags/first/</link>
+      <link>awwais.me/tags/first/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://awwais.me/tags/first/</guid>
+      <guid>awwais.me/tags/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2D Games</title>
-      <link>https://awwais.me/tags/2d-games/</link>
+      <link>awwais.me/tags/2d-games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/tags/2d-games/</guid>
+      <guid>awwais.me/tags/2d-games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andriod Studio</title>
-      <link>https://awwais.me/tags/andriod-studio/</link>
+      <link>awwais.me/tags/andriod-studio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/tags/andriod-studio/</guid>
+      <guid>awwais.me/tags/andriod-studio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>App Development</title>
-      <link>https://awwais.me/tags/app-development/</link>
+      <link>awwais.me/tags/app-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/tags/app-development/</guid>
+      <guid>awwais.me/tags/app-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apps</title>
-      <link>https://awwais.me/tags/apps/</link>
+      <link>awwais.me/tags/apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/tags/apps/</guid>
+      <guid>awwais.me/tags/apps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Myself</title>
-      <link>https://awwais.me/tags/myself/</link>
+      <link>awwais.me/tags/myself/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/tags/myself/</guid>
+      <guid>awwais.me/tags/myself/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical Devops</title>
-      <link>https://awwais.me/tags/practical-devops/</link>
+      <link>awwais.me/tags/practical-devops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/tags/practical-devops/</guid>
+      <guid>awwais.me/tags/practical-devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React</title>
-      <link>https://awwais.me/tags/react/</link>
+      <link>awwais.me/tags/react/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/tags/react/</guid>
+      <guid>awwais.me/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unity</title>
-      <link>https://awwais.me/tags/unity/</link>
+      <link>awwais.me/tags/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/tags/unity/</guid>
+      <guid>awwais.me/tags/unity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Development</title>
-      <link>https://awwais.me/tags/web-development/</link>
+      <link>awwais.me/tags/web-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/tags/web-development/</guid>
+      <guid>awwais.me/tags/web-development/</guid>
       <description></description>
     </item>
     
