@@ -15,7 +15,7 @@ cover:
 <html>
 <head>
   <meta charset="utf-8">
-  <title>My Markdown Document</title>
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Include the Open Graph meta tags here -->
     <head>
@@ -28,7 +28,7 @@ cover:
 
 </head>
 <body>
-  <!-- The rest of your Markdown content here -->
+
     
 # Highligthing the result
 
