@@ -9,6 +9,27 @@ cover:
     image: "blog/aboutWebsite/AboutWebsiteCover2.webp"
 ---
 
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>My Markdown Document</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Include the Open Graph meta tags here -->
+    <head>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Awais Mustafa">
+  <meta property="og:url" content="https://awwais.me/">
+  <meta property="og:image" content="https://awwais.me/blog/awais.jpg">
+  <meta property="og:description" content="Awais Blog">
+</head>
+
+</head>
+<body>
+  <!-- The rest of your Markdown content here -->
+    
 # Highligthing the result
 
 I intend to place the results of various works on this webpage, highlighting the results of mini projects, ongoing projects, and more. So, for those who are reading, thank you!
@@ -45,3 +66,8 @@ Thanks for reading!
 Best,
 
 Awais
+    
+</body>
+</html>
+
+
