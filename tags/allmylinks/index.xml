@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>allMyLinks on Awais Mustafa</title>
+    <link>https://awwais.me/tags/allmylinks/</link>
+    <description>Recent content in allMyLinks on Awais Mustafa</description>
+    <image>
+      <title>Awais Mustafa</title>
+      <url>https://awwais.me/blog/awais.jpg</url>
+      <link>https://awwais.me/blog/awais.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://awwais.me/tags/allmylinks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links | Awais Mustafa</title>
+      <link>https://awwais.me/linkone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://awwais.me/linkone/</guid>
+      <description>&lt;!DOCTYPE html&gt; &amp;lt;meta property=&amp;quot;og:type&amp;quot; content=&amp;quot;website&amp;quot;&amp;gt; &amp;lt;meta property=&amp;quot;og:title&amp;quot; content=&amp;quot;All my links&amp;quot;&amp;gt; &amp;lt;meta property=&amp;quot;og:url&amp;quot; content=&amp;quot;https://awwais.me/links&amp;quot;&amp;gt; &amp;lt;meta property=&amp;quot;og:image&amp;quot; content=&amp;quot;https://awwais.me/blog/Awais1.jpg&amp;quot;&amp;gt; &amp;lt;meta property=&amp;quot;og:description&amp;quot; content=&amp;quot;Awais Mustafa&amp;quot;&amp;gt; &amp;lt;script type=application/ld+json&amp;gt;{&amp;quot;@context&amp;quot;:&amp;quot;https://schema.org&amp;quot;,&amp;quot;@type&amp;quot;:&amp;quot;Organization&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;Awais Mustafa&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;https://awwais.me/links&amp;quot;,&amp;quot;description&amp;quot;:&amp;quot;Links for awwais.me&amp;quot;,&amp;quot;sameAs&amp;quot;:[]}&amp;lt;/script&amp;gt; &amp;lt;style&amp;gt;:root{--theme:rgb(255, 255, 255);--primary:rgb(30, 30, 30);--secondary:rgb(108, 108, 108);--tertiary:rgb(214, 214, 214);--radius:8px}@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);color-scheme:dark}}*,::after,::before{box-sizing:border-box;margin:0;padding:0;color:var(--primary);text-decoration:none}body{font-family:-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;line-height:2;word-break:break-word;background:var(--theme);text-align:center;margin:50px 0;padding:10px}h1 span{text-decoration:underline}h1 *{vertical-align:middle}h1{filter:drop-shadow(0 0 1.1rem var(--secondary));cursor:pointer;user-select:none}.button{background:var(--tertiary);border-radius:var(--radius);padding:8px 80px;display:block;width:100%}.links li{padding:10px 0}.links{list-style:none;flex-direction:column;display:inline-block}.links a:not(:last-of-type){margin-inline-end:12px}.links a svg{height:20px;width:20px}.links a h4{display:flex;align-items:center;justify-content:center}&amp;lt;/style&amp;gt; Links &amp;lt;li&amp;gt; &amp;lt;a class=button href=https://awwais.me/blog/ rel=noopener title=Blog&amp;gt; &amp;lt;h4&amp;gt; &amp;lt;svg xmlns=&amp;quot;http://www.w3.org/2000/svg&amp;quot; viewBox=&amp;quot;0 0 24 24&amp;quot; fill=&amp;quot;none&amp;quot; stroke=&amp;quot;currentcolor&amp;quot; stroke-width=&amp;quot;2&amp;quot; stroke-linecap=&amp;quot;round&amp;quot; stroke-linejoin=&amp;quot;round&amp;quot;&amp;gt; &amp;lt;path d=&amp;quot;M10 13a5 5 0 007.</description>
+    </item>
+    
+  </channel>
+</rss>
