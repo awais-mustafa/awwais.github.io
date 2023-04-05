@@ -1,8 +1,22 @@
-<!doctype html>
-<html lang=en>
-   <head>
-      <meta http-equiv="" content="0; url=/links" />
-      <link rel="icon" type="image/x-icon" href="">
+---
+title: Links | Awais Mustafa
+description: ""
+dateString: Feb 2022
+draft: false
+tags: ["allMyLinks"]
+
+---
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Include the Open Graph meta tags here -->
+    <head>
       <meta name="twitter:card" content="summary_large_image">
       <meta name="twitter:title" content="All my links">
       <meta name="twitter:site" content="@awaistwt">
@@ -15,26 +29,14 @@
       <meta property="og:url" content="https://awwais.me/links">
       <meta property="og:image" content="https://awwais.me/blog/Awais1.jpg">
       <meta property="og:description" content="Awais Mustafa">
- 
-      <meta charset=utf-8>
-      <meta http-equiv=x-ua-compatible content="IE=edge">
-      <meta name=viewport content="width=device-width,initial-scale=1">
-      <meta name=robots content="index, follow">
-      <title>Links | Awais Mustafa</title>
-      <meta name=description content="Links for awwais.me">
-
-      <link rel=canonical href=https://awwais.me/links>
-    
-     
-     
-      <meta name=theme-color content="#2e2e33">
-      <meta name=msapplication-TileColor content="#2e2e33">
-      
-
+       
+       
 
       <script type=application/ld+json>{"@context":"https://schema.org","@type":"Organization","name":"Awais Mustafa","url":"https://awwais.me/links","description":"Links for awwais.me","sameAs":[]}</script>
       <style>:root{--theme:rgb(255, 255, 255);--primary:rgb(30, 30, 30);--secondary:rgb(108, 108, 108);--tertiary:rgb(214, 214, 214);--radius:8px}@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);color-scheme:dark}}*,::after,::before{box-sizing:border-box;margin:0;padding:0;color:var(--primary);text-decoration:none}body{font-family:-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;line-height:2;word-break:break-word;background:var(--theme);text-align:center;margin:50px 0;padding:10px}h1 span{text-decoration:underline}h1 *{vertical-align:middle}h1{filter:drop-shadow(0 0 1.1rem var(--secondary));cursor:pointer;user-select:none}.button{background:var(--tertiary);border-radius:var(--radius);padding:8px 80px;display:block;width:100%}.links li{padding:10px 0}.links{list-style:none;flex-direction:column;display:inline-block}.links a:not(:last-of-type){margin-inline-end:12px}.links a svg{height:20px;width:20px}.links a h4{display:flex;align-items:center;justify-content:center}</style>
-   </head>
+
+</head>
+
    <body>
       <h1 id=h>
          <span>Links</span>
@@ -163,3 +165,29 @@
       
    </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
