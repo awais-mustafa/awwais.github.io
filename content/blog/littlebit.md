@@ -18,12 +18,12 @@ cover:
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Include the Open Graph meta tags here -->
-    <head>
+<!--     <head>
   <meta property="og:type" content="website">
   <meta property="og:title" content="Awais Mustafa">
   <meta property="og:url" content="https://awwais.me/">
   <meta property="og:image" content="https://awwais.me/blog/awais.jpg">
-  <meta property="og:description" content="Awais Blog">
+  <meta property="og:description" content="Awais Blog"> -->
 </head>
 
 </head>
