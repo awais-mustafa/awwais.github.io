@@ -10,8 +10,7 @@
       <link>https://awwais.me/blog/awais.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://awwais.me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://awwais.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NFS Server: A Complete Guide to Setting Up and Configuring</title>
       <link>https://awwais.me/blog/nfssetup/</link>
@@ -92,15 +91,6 @@ All of the work that I have been doing over the year,and months been extremely f
       
       <guid>https://awwais.me/projects/template/</guid>
       <description>!</description>
-    </item>
-    
-    <item>
-      <title>My 1st post</title>
-      <link>https://awwais.me/blog/checking/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://awwais.me/blog/checking/</guid>
-      <description>Desc Text.</description>
     </item>
     
     <item>
