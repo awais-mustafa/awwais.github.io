@@ -1,11 +1,10 @@
 
+---
+title: Contact | Awais Mustafa
+description: ""
 
-<!-- 
-<div style="background-color: #f8f8f8; border-radius: 10px; padding: 20px;">
-  <h2>Contact me</h2>
-  <p>You can reach out to me at:</p>
-  <p><strong>Email:</strong> <a href="mailto:contact@awaisdevops@gmail.com">contact@awaisdevops@gmail.com</a></p>
-</div> -->
+
+---
 
 
 <div style="background-color: #1e90ff; color: #ffffff; border-radius: 10px; padding: 20px; font-family: Arial, sans-serif;">
