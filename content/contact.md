@@ -1,8 +1,4 @@
-# Contact me               
 
-| ------------------------------ |
-| You can reach out to me at      |
-| `contact@awaisdevops@gmail.com`     |
 
 
 <div style="background-color: #f8f8f8; border-radius: 10px; padding: 20px;">
