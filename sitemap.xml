@@ -20,9 +20,6 @@
   </url><url>
     <loc>https://awwais.me/projects/template/</loc>
   </url><url>
-    <loc>https://awwais.me/contact/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://awwais.me/tags/2d-games/</loc>
   </url><url>
     <loc>https://awwais.me/tags/allmylinks/</loc>
@@ -38,6 +35,8 @@
     <loc>https://awwais.me/blog/</loc>
   </url><url>
     <loc>https://awwais.me/categories/</loc>
+  </url><url>
+    <loc>https://awwais.me/contact/</loc>
   </url><url>
     <loc>https://awwais.me/linkone/</loc>
   </url><url>
