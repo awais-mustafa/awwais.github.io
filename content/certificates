@@ -13,7 +13,7 @@ showToc: false
 
 Here is my Cloud Certificate:
 
-[Download PDF](/certificates/cloud.pdf)
+[Download PDF](certificates/cloud.pdf)
 
-<embed src="/certificates/cloud.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="certificates/cloud.pdf" type="application/pdf" width="100%" height="600px" />
 
