@@ -1,5 +1,5 @@
 ---
-title: "Meme App"
+title: "Meme App a"
 description: "A App full of new Memes!"
 dateString: March 2022 - April 2022
 draft: false
