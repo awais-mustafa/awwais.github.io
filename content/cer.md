@@ -13,6 +13,7 @@ cover:
      # display caption under cover
     
 ---
+### My Certification
 
-![certificate](Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp)
+This certification is issued by Coursera. You can verify its authenticity [here](https://www.coursera.org/account/accomplishments/certificate/MR4FLUFTP4HX).
 
