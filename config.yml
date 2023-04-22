@@ -13,8 +13,8 @@ googleAnalytics: G-PGLCBXZXQR
 
 minify:
   disableXML: true
-  minifyOutput: true
-
+  minifyOutput: false
+ 
 
     
     
