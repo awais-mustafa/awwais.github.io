@@ -38,6 +38,3 @@ jobs:
           git config user.email 'awaisdevops@gmail.com'
           git commit -m 'Updated site'
           git push  
-
-
-
