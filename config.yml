@@ -20,15 +20,15 @@ minify:
     
 menu:
   main:
-    - identifier: home
-      name: Home
-      url: /home
-      weight: 10
+#     - identifier: home
+#       name: Home
+#       url: /home
+#       weight: 10
 
-    - identifier: projects
-      name: Projects
-      url: /projects
-      weight: 20
+#     - identifier: projects
+#       name: Projects
+#       url: /projects
+#       weight: 20
 #     - identifier: experience
 #       name: Experience
 #       url: /experience
