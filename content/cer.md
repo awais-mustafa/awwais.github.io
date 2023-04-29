@@ -25,10 +25,10 @@ This certification is issued by Coursera. You can verify its authenticity [here]
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Certifications</title>
   <style>
-    body {
-      background-color: #f4f4f4;
-      font-family: Arial, sans-serif;
-    }
+body {
+background-color: black;
+}
+
 
 h1 {
 text-align: center;
