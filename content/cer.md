@@ -30,14 +30,14 @@ This certification is issued by Coursera. You can verify its authenticity [here]
       font-family: Arial, sans-serif;
     }
 
-    h1 {
-      text-align: center;
-      margin-top: 50px;
-      margin-bottom: 50px;
-      font-size: 48px;
-      color: #0077b5;
-      text-shadow: 1px 1px #ddd;
-    }
+h1 {
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+font-size: 48px;
+color: #0077b5;
+text-shadow: 1px 1px #ddd;
+}
 
 h2 {
  text-align: center;
