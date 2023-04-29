@@ -28,7 +28,7 @@ menu:
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 40
+      weight: 30
 #     - identifier: experience
 #       name: Experience
 #       url: /experience
@@ -36,15 +36,15 @@ menu:
     - identifier: search
       name: Search
       url: /search
-      weight: 20
+      weight: 40
     - identifier: tags
-      name: Explore
+      name: Tags
       url: /tags
       weight: 50
-    - dentifier: Certification
-      name: Certification
-      url: /certi
-      weight: 30
+    - dentifier: Blog
+      name: Blog
+      url: /blog
+      weight: 20
     
 
 
