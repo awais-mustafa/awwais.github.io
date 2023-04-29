@@ -46,7 +46,7 @@ h2 {
  font-size: 36px;
 color: #333;
 text-shadow: 1px 1px #ddd;
-    }
+}
 
 .container {
 max-width: 1000px;
@@ -54,23 +54,23 @@ margin: 0 auto;
 display: flex;
 flex-wrap: wrap;
 justify-content: center;
+}
+
+.certification {
+margin: 50px;
+width: 400px;
+background-color: #fff;
+box-shadow: 0px 2px 5px #ccc;
+border-radius: 5px;
+overflow: hidden;
+transition: transform 0.2s ease-in-out;
     }
 
-    .certification {
-      margin: 50px;
-      width: 400px;
-      background-color: #fff;
-      box-shadow: 0px 2px 5px #ccc;
-      border-radius: 5px;
-      overflow: hidden;
-      transition: transform 0.2s ease-in-out;
+.certification:hover {
+transform: translateY(-5px);
     }
 
-    .certification:hover {
-      transform: translateY(-5px);
-    }
-
-    .certification img {
+.certification img {
       width: 100%;
       height: auto;
       object-fit: cover;
