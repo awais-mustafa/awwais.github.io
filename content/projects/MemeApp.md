@@ -1,9 +1,9 @@
 ---
-title: "Meme App a"
+title: "Meme App"
 description: "A App full of new Memes!"
 dateString: March 2022 - April 2022
 draft: false
-tags: ["App Development", "Andriod Studio", "Apps"]
+tags: ["My App"]
 showToc: false
 weight: 204
 cover:
