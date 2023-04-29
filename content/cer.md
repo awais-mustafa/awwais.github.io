@@ -39,21 +39,21 @@ This certification is issued by Coursera. You can verify its authenticity [here]
       text-shadow: 1px 1px #ddd;
     }
 
-    h2 {
-      text-align: center;
-      margin-top: 50px;
-      margin-bottom: 30px;
-      font-size: 36px;
-      color: #333;
-      text-shadow: 1px 1px #ddd;
+h2 {
+ text-align: center;
+ margin-top: 50px;
+ margin-bottom: 30px;
+ font-size: 36px;
+color: #333;
+text-shadow: 1px 1px #ddd;
     }
 
-    .container {
-      max-width: 1000px;
-      margin: 0 auto;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
+.container {
+max-width: 1000px;
+margin: 0 auto;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
     }
 
     .certification {
