@@ -64,45 +64,45 @@ box-shadow: 0px 2px 5px #ccc;
 border-radius: 5px;
 overflow: hidden;
 transition: transform 0.2s ease-in-out;
-    }
+}
 
 .certification:hover {
 transform: translateY(-5px);
-    }
+}
 
 .certification img {
-      width: 100%;
-      height: auto;
-      object-fit: cover;
-    }
+width: 100%;
+height: auto;
+object-fit: cover;
+}
 
-    .certification h2 {
-      font-size: 24px;
-      margin-top: 20px;
-      margin-bottom: 10px;
-      color: #333;
-      text-align: center;
-    }
+.certification h2 {
+font-size: 24px;
+margin-top: 20px;
+margin-bottom: 10px;
+color: #333;
+text-align: center;
+}
 
-    .certification p {
-      font-size: 18px;
-      margin: 20px;
-      color: #666;
-      text-align: center;
-    }
+.certification p {
+font-size: 18px;
+margin: 20px;
+color: #666;
+text-align: center;
+}
 
-    .certification a {
-      font-size: 16px;
-      text-decoration: none;
-      color: #0077b5;
-      display: block;
-      text-align: center;
-      margin: 20px 0;
-      transition: color 0.2s ease-in-out;
-    }
+.certification a {
+font-size: 16px;
+text-decoration: none;
+color: #0077b5;
+display: block;
+text-align: center;
+margin: 20px 0;
+transition: color 0.2s ease-in-out;
+}
 
-    .certification a:hover {
-      color: #005b8a;
+.certification a:hover {
+color: #005b8a;
     }
   </style>
 </head>
