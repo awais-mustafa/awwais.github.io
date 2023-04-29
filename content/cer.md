@@ -109,7 +109,7 @@ color: #005b8a;
 <body>
   <h1>My Certifications</h1>
  <div class="container">
-  <h2>AWS Specialization</h2>
+
   <div class="certification">
     <img src="https://www.coursera.org/account/accomplishments/certificate/ETR94TV3UN3C" alt="AWS Fundamentals: Cloud Essentials">
     <h2>AWS Fundamentals</h2>
@@ -121,7 +121,7 @@ color: #005b8a;
   
   
 <div class="container">
-<h2>AWS DevOps</h2>
+
 
 <div class="certification">
     <img src="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID" alt="AWS DevOps Engineer Professional">
@@ -132,7 +132,7 @@ color: #005b8a;
   
   
 <div class="container">
-  <h2>Red Hat IBM Specialization</h2>
+
 
   <div class="certification">
     <img src="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID" alt="Fundamentals of Red Hat OpenShift">
@@ -144,7 +144,7 @@ color: #005b8a;
  
    
 <div class="container">
-<h2>Linkedin</h2>
+
      <div class="certification">
     <img src="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID" alt="AWS Fundamentals: Addressing Security Risk">
     <h2>AWS Fundamentals: Addressing Security Risk</h2>
