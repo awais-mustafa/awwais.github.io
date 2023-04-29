@@ -222,7 +222,41 @@ April 2023
   <body>
     <h1>My Coursera Certifications</h1>
     <div id="certifications"></div>
-    <script src="script.js"></script>
+    <script src="script.js">
+      const container = document.getElementById('certifications');
+<p>fetch(&lsquo;<a href="https://api.coursera.org/api/external/certificates.v1?user-ids=YOUR_USER_ID&amp;fields=certificates,links'">https://api.coursera.org/api/external/certificates.v1?user-ids=YOUR_USER_ID&amp;fields=certificates,links'</a>)
+.then(response =&gt; response.json())
+.then(data =&gt; {
+const certifications = data.elements[0].certificates;</p>
+<pre><code>certifications.forEach(certification =&gt; {
+  const { name, description, certificateImageUrl, link } = certification;
+
+  const certificationElement = document.createElement('div');
+  certificationElement.classList.add('certification');
+
+  const imageElement = document.createElement('img');
+  imageElement.src = certificateImageUrl;
+  certificationElement.appendChild(imageElement);
+
+  const nameElement = document.createElement('h2');
+  nameElement.textContent = name;
+  certificationElement.appendChild(nameElement);
+
+  const descriptionElement = document.createElement('p');
+  descriptionElement.textContent = description;
+  certificationElement.appendChild(descriptionElement);
+
+  const linkElement = document.createElement('a');
+  linkElement.href = link.url;
+  linkElement.textContent = 'View Certificate';
+  certificationElement.appendChild(linkElement);
+
+  container.appendChild(certificationElement);
+});
+</code></pre>
+<p>});</p>
+<pre><code>  &lt;/script&gt;
+</code></pre>
   </body>
 </html>
 
