@@ -189,7 +189,7 @@ markup:
 #     yandex:
 #       SiteVerificationTag: "XYZabc"
 
- params.fonts
+ params.fonts:
 
   fontSize: "18px"
   headerSize: "24px"   
