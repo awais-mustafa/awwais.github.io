@@ -54,9 +54,7 @@ menu:
 
 
 params:
-    homeInfoParams:
-        Title: awaisMustafa
-        Content: DevOps, Cloud, awaisThoughts and everything in between.
+
 
   # theme
   showToc: true
@@ -118,6 +116,10 @@ params:
     #   - name: Resume
     #     url: ""
    
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
 
 
 #     responsiveImages: false
