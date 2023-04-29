@@ -120,18 +120,18 @@ color: #005b8a;
 
   
   
- <div class="container">
-  <h2>AWS DevOps</h2>
+<div class="container">
+<h2>AWS DevOps</h2>
 
-  <div class="certification">
+<div class="certification">
     <img src="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID" alt="AWS DevOps Engineer Professional">
     <h2>AWS DevOps Engineer Professional</h2>
     <p>Learn how to develop and deploy secure, scalable, and reliable applications on AWS.</p>
     <a href="https://www.coursera.org/professional-certificates/aws-devops-engineer-professional">View on Coursera</a>
-   </div></div>
+</div></div>
   
   
- <div class="container">
+<div class="container">
   <h2>Red Hat IBM Specialization</h2>
 
   <div class="certification">
@@ -139,18 +139,18 @@ color: #005b8a;
     <h2>Fundamentals of Red Hat OpenShift</h2>
     <p>Learn how to deploy and manage applications on Red Hat OpenShift.</p>
     <a href="https://www.coursera.org/learn/fundamentals-of-red-hat-openshift">View on Coursera</a>
-  </div>
-   </div>
+</div>
+</div>
  
    
-    <div class="container">
-  <h2>Linkedin</h2>
+<div class="container">
+<h2>Linkedin</h2>
      <div class="certification">
     <img src="https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID" alt="AWS Fundamentals: Addressing Security Risk">
     <h2>AWS Fundamentals: Addressing Security Risk</h2>
     <p>Learn how to identify and address security risks on AWS.</p>
     <a href="https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk">View on Coursera</a>
-   </div></div>
+</div></div>
    
 </html>
 
