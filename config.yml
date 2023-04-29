@@ -40,7 +40,7 @@ menu:
     - identifier: tags
       name: Explore
       url: /tags
-      weight: 40
+      weight: 50
     - dentifier: Certification
       name: Certification
       url: /certi
@@ -133,7 +133,7 @@ params:
   socialIcons:
 
     - name: "email"
-      url: "mailto:awaisdevops@gmail.com"
+      url: /contact
     - name: "linkedin"
       url: "https://www.linkedin.com/in/awaais"
     - name: "github"
