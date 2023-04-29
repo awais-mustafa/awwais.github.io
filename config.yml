@@ -51,8 +51,7 @@ menu:
 
 
 params:
-  fontSize: "18px"
-  headerSize: "24px"
+
 
   # theme
   showToc: true
