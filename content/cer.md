@@ -115,7 +115,7 @@ color: #005b8a;
     <h2>AWS Fundamentals</h2>
     <p>Learn how to build cloud-native applications on AWS.</p>
     <a href="https://www.coursera.org/account/accomplishments/specialization/V82H7FPZWQ3C">View on Coursera</a>
-  </div>
+     </div></div>
 
 
   
