@@ -22,28 +22,25 @@ menu:
   main:
     - identifier: home
       name: Home
-      url: /
+      url: /home
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog
-      weight: 20
+
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 30
+      weight: 20
 #     - identifier: experience
 #       name: Experience
 #       url: /experience
 #       weight: 40
-    - identifier: search
-      name: Search
-      url: /search
-      weight: 40
+#     - identifier: search
+#       name: Search
+#       url: /search
+#       weight: 40
     - identifier: tags
-      name: Tags
+      name: Explore
       url: /tags
-      weight: 50
+      weight: 30
     # - identifier: notes
     #   name: Notes
     #   url: https://notes.arkalim.org
@@ -118,8 +115,8 @@ params:
    
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "awaisMustafa"
+    Content: Devops, Cloud, awaisThoughts and everything in between.
 
 
 #     responsiveImages: false
@@ -129,24 +126,24 @@ params:
 
   # cover image for posts
   cover:
-    hiddenInList: false # hide on list pages and home
+    hiddenInList: true # hide on list pages and home
     hiddenInSingle: false # hide on single page
     hidden: false # hide everywhere but not in structured data
 
-  socialIcons:
+#   socialIcons:
 
-    - name: "email"
-      url: "mailto:awaisdevops@gmail.com"
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/awaais"
-    - name: "github"
-      url: "https://github.com/awwais"
+#     - name: "email"
+#       url: "mailto:awaisdevops@gmail.com"
+#     - name: "linkedin"
+#       url: "https://www.linkedin.com/in/awaais"
+#     - name: "github"
+#       url: "https://github.com/awwais"
 #     - name: "youtube"
 #       url: "https://www.youtube.com/"
-    - name: "twitter"
-      url: "https://twitter.com/awaistwt"
-    - name: Connect with me
-      url: "https://awwais.me/links"
+#     - name: "twitter"
+#       url: "https://twitter.com/awaistwt"
+#     - name: Connect with me
+#       url: "https://awwais.me/links"
       
   # text search
   fuseOpts:
