@@ -104,9 +104,8 @@ params:
   # Home Page
   profileMode:
     enabled: true
-#     title: "☺ 🤖 Devops, Cloud, awaisThoughts and everything in between."
-    Title: "awaisMustafa"
-    Content: Devops, Cloud, awaisThoughts and everything in between.
+    title: "☺ 🤖 Devops, Cloud, myThoughts and everything in between."
+
 #    subtitle: "Hi 👋, I'm Awais, an [**BCS**](https://uom.edu.pk/) student at the **University of Malakand**. I'm passionate about **Backend**, **Cloud** and **DevOps**, and I'm also an Developer. Along with my undergrad studies, I've been working as a **DevOps Intern**. When I'm free, I write 😊 blogs on devOps, and make mini projects. I think that not scare you 👻"
 #    imageUrl: "home/me.webp"
 #    imageWidth: 220
@@ -116,7 +115,7 @@ params:
     #     url: ""
    
   # home-info mode
-  homeInfoParams:
+
 
 
 
