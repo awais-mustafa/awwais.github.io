@@ -17,3 +17,17 @@ cover:
 
 This certification is issued by Coursera. You can verify its authenticity [here](https://www.coursera.org/account/accomplishments/certificate/MR4FLUFTP4HX).
 
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Coursera Certifications</title>
+  </head>
+  <body>
+    <h1>My Coursera Certifications</h1>
+    <div id="certifications"></div>
+    <script src="script.js"></script>
+  </body>
+</html>
+
