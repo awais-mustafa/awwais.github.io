@@ -48,8 +48,16 @@ menu:
     #   name: Notes
     #   url: https://notes.arkalim.org
     #   weight: 70
+    
+
+
+
 
 params:
+    homeInfoParams:
+        Title: awaisMustafa
+        Content: DevOps, Cloud, awaisThoughts and everything in between.
+
   # theme
   showToc: true
   TocOpen: false
