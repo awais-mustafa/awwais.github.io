@@ -130,20 +130,20 @@ params:
     hiddenInSingle: false # hide on single page
     hidden: false # hide everywhere but not in structured data
 
-#   socialIcons:
+  socialIcons:
 
-#     - name: "email"
-#       url: "mailto:awaisdevops@gmail.com"
-#     - name: "linkedin"
-#       url: "https://www.linkedin.com/in/awaais"
-#     - name: "github"
-#       url: "https://github.com/awwais"
-#     - name: "youtube"
-#       url: "https://www.youtube.com/"
-#     - name: "twitter"
-#       url: "https://twitter.com/awaistwt"
-#     - name: Connect with me
-#       url: "https://awwais.me/links"
+    - name: "email"
+      url: "mailto:awaisdevops@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/awaais"
+    - name: "github"
+      url: "https://github.com/awwais"
+    - name: "youtube"
+      url: "https://www.youtube.com/"
+    - name: "twitter"
+      url: "https://twitter.com/awaistwt"
+    - name: All my Links
+      url: "https://awwais.me/links"
       
   # text search
   fuseOpts:
