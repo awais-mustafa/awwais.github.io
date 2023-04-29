@@ -20,10 +20,10 @@ minify:
     
 menu:
   main:
-#     - identifier: home
-#       name: Home
-#       url: /home
-#       weight: 10
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
 
     - identifier: projects
       name: Projects
