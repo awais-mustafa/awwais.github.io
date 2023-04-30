@@ -59,31 +59,7 @@ box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 transition: transform 0.2s ease-in-out;
 }
 
-.certificate:before {
-content: "";
-position: absolute;
-top: -20px;
-right: -20px;
-bottom: -20px;
-left: -20px;
-background-color: #0077b5;
-z-index: -1;
-transform: rotate(-45deg);
-}
 
-.certificate:after {
-content: "";
-position: absolute;
-top: -20px;
-right: -20px;
-border-top: 20px solid #0077b5;
-border-left: 20px solid transparent;
-z-index: -2;
-}
-.certificate:hover {
-transform: translateY(-10px);
-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-}
 
 .certificate img {
 display: block;
