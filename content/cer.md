@@ -24,72 +24,71 @@ cover:
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- 	<title>My Certificates</title> -->
 	<style>
-		body {
-			background-color: #1b1b1b;
-			color: #fff;
-			font-family: Arial, sans-serif;
-			font-size: 16px;
-			line-height: 1.5;
-			margin: 0;
-			padding: 0;
-		}
+body {
+background-color: #1b1b1b;
+color: #fff;
+font-family: Arial, sans-serif;
+font-size: 16px;
+line-height: 1.5;
+margin: 0;
+padding: 0;
+}
 
 		
 
-		.container {
-			max-width: 1200px;
-			margin: 0 auto;
-			padding: 50px;
-		}
+.container {
+max-width: 1200px;
+margin: 0 auto;
+padding: 50px;
+}
 
-		.certificates {
-			display: flex;
-			flex-wrap: wrap;
-			justify-content: space-between;
-			margin-top: 50px;
-		}
+.certificates {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+margin-top: 50px;
+}
 
-		.certificate {
-			flex-basis: calc(33.33% - 20px);
-			background-color: #fff;
-			color: #333;
-			margin-bottom: 40px;
-			box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-			transition: transform 0.2s ease-in-out;
-		}
+.certificate {
+flex-basis: calc(33.33% - 20px);
+background-color: #fff;
+color: #333;
+margin-bottom: 40px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+transition: transform 0.2s ease-in-out;
+}
 
-		.certificate:hover {
-			transform: translateY(-10px);
-			box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-		}
+.certificate:hover {
+transform: translateY(-10px);
+box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
 
-		.certificate img {
-			display: block;
-			width: 100%;
-			height: auto;
-			object-fit: cover;
-		}
+.certificate img {
+display: block;
+width: 100%;
+height: auto;
+object-fit: cover;
+}
 
-		.certificate-info {
-			padding: 20px;
-			text-align: center;
-		}
+.certificate-info {
+padding: 20px;
+text-align: center;
+}
 
-		.certificate-title {
-			font-size: 24px;
-		}
-         .certificate h3 {
-      font-size: 24px;
-      text-align: center;
-      margin-top: 20px;
-      margin-bottom: 10px;
-    }
-
-    .certificate p {
-      font-size: 16px;
-      text-align: center;
-      margin: 10px;
-    }
+.certificate-title {
+font-size: 24px;
+}
+.certificate h3 {
+font-size: 24px;
+text-align: center;
+margin-top: 20px;
+margin-bottom: 10px;
+}
+.certificate p {
+font-size: 16px;
+text-align: center;
+margin: 10px;
+}
 
     .certificate a {
       display: block;
