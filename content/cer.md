@@ -147,6 +147,8 @@ border-right: 50px solid transparent;
 	
 	
 	
+	
+	
 <h2>Linkedin Learning</h2>
 
  <div class="certificates">
@@ -163,9 +165,9 @@ border-right: 50px solid transparent;
 	 </div>
 
  <div class="certificate">
-      <h3>AWS Fundamentals: Going Cloud-Native</h3>
-      <p>Learn how to build cloud-native applications on AWS.</p>
-      <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Linkedin</a>
+      <h3>Git from Scratch</h3>
+      <p>Learn Version control—the practice of tracking and managing changes to software code.</p>
+      <a href="https://www.linkedin.com/learning/certificates/059ebf0667b36f13dd294a96525e09a0af9ae11ddbbe2e55b6b90ef817682d82?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D">View on Linkedin</a>
 </div>
 </div>  
 
