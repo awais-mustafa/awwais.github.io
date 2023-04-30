@@ -24,9 +24,9 @@ draft: false
 <style>
 body {
 background-color: #1b1b1b;
-color: #fff;
+color: #333;
 /* font-family: Arial, sans-serif; */
-/* font-size: 16px; */
+font-size: 16px;
 line-height: 1.5;
 margin: 0;
 padding: 0;
