@@ -167,7 +167,7 @@ background-color: #005b8a;
  </div>
 	  
 <!-- <h2>AWS Specialization</h2> -->
-<!-- <div class="certificates"> -->
+<div class="certificates">
 <div class="certificate">
       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
       <h3>AWS Fundamentals: Going Cloud-Native</h3>
