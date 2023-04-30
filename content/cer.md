@@ -23,7 +23,7 @@ draft: false
 
 <style>
 body {
-background-color: #1b1b1b;
+background-color: #000;
 color: #333;
 /* font-family: Arial, sans-serif; */
 font-size: 16px;
