@@ -13,9 +13,7 @@ cover:
      # display caption under cover
     
 ---
-<!-- ### My Certification -->
 
-<!-- This certification is issued by Coursera. You can verify its authenticity [here](https://www.coursera.org/account/accomplishments/certificate/MR4FLUFTP4HX). -->
 
 <!DOCTYPE html>
 <html>
@@ -111,17 +109,17 @@ background-color: #005b8a;
 </style>
 </head>
 <body>
-  <h1>My Certifications</h1>
+<h1>My Certifications</h1>
 
-  <h2>AWS Specialization</h2>
+<h2>AWS Specialization</h2>
 
-  <div class="certificates">
-    <div class="certificate">
+<div class="certificates">
+<div class="certificate">
       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
       <h3>AWS Fundamentals: Going Cloud-Native</h3>
       <p>Learn how to build cloud-native applications on AWS.</p>
       <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
-    </div>
+</div>
 <h2>AWS Specialization</h2>
 
 <div class="certificates">
