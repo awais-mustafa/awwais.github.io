@@ -17,44 +17,163 @@ cover:
 
 This certification is issued by Coursera. You can verify its authenticity [here](https://www.coursera.org/account/accomplishments/certificate/MR4FLUFTP4HX).
 
-
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>My Certificates</title>
+	<style>
+		body {
+			background-color: #1b1b1b;
+			color: #fff;
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+			line-height: 1.5;
+			margin: 0;
+			padding: 0;
+		}
 
-  <main>
-    <h1>My Certifications</h1>
-<div class="grid-container">
-<div class="certification">
-        <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
-        <h2>AWS Fundamentals: Going Cloud-Native</h2>
-        <p>Learn how to build cloud-native applications on AWS.</p>
-        <a href="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp">View on Coursera</a>
-      </div>
+		header {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			align-items: center;
+			padding: 20px;
+			background-color: #0077b5;
+			color: #fff;
+			box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+		}
 
-<div class="certification">
-        <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Addressing Security Risk">
-        <h2>AWS Fundamentals: Addressing Security Risk</h2>
-        <p>Learn how to identify and address security risks on AWS.</p>
-        <a href="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp">View on Coursera</a>
-  
-</div>
-<div class="certification">
-        <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS DevOps Engineer Professional">
-        <h2>AWS DevOps Engineer Professional</h2>
-        <p>Learn how to develop and deploy secure, scalable, and reliable applications on AWS.</p>
-        <a href="https://www.coursera.org/professional-certificates/aws-devops-engineer-professional">View on Coursera</a>
-    </div></div>
+		header h1 {
+			font-size: 30px;
+			font-weight: 700;
+			margin: 0;
+			letter-spacing: 2px;
+			text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+		}
 
- <div class="certification">
-        <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="Fundamentals of Red Hat OpenShift">
-        <h2>Fundamentals of Red Hat OpenShift</h2>
-        <p>Learn how to deploy and manage applications on Red Hat OpenShift.</p>
-        <a href="https://www.coursera.org/learn/fundamentals-of-red-hat-openshift">View on Coursera</a>
-</div>
-</div>
-  </main>
+		nav {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			align-items: center;
+			padding: 20px;
+			background-color: #005b8a;
+			box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+		}
 
-  
-</body
+		nav ul {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			display: flex;
+		}
+
+		nav li {
+			margin: 0 20px;
+		}
+
+		nav a {
+			color: #fff;
+			text-decoration: none;
+			font-size: 20px;
+			font-weight: 600;
+			letter-spacing: 1px;
+			text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+			transition: color 0.2s ease-in-out;
+		}
+
+		nav a:hover {
+			color: #f7df1e;
+		}
+
+		.container {
+			max-width: 1200px;
+			margin: 0 auto;
+			padding: 50px;
+		}
+
+		.certificates {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			margin-top: 50px;
+		}
+
+		.certificate {
+			flex-basis: calc(33.33% - 20px);
+			background-color: #fff;
+			color: #333;
+			margin-bottom: 40px;
+			box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+			transition: transform 0.2s ease-in-out;
+		}
+
+		.certificate:hover {
+			transform: translateY(-10px);
+			box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+		}
+
+		.certificate img {
+			display: block;
+			width: 100%;
+			height: auto;
+			object-fit: cover;
+		}
+
+		.certificate-info {
+			padding: 20px;
+			text-align: center;
+		}
+
+		.certificate-title {
+			font-size: 24px;
+		}
+         .certificate h3 {
+      font-size: 24px;
+      text-align: center;
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+
+    .certificate p {
+      font-size: 16px;
+      text-align: center;
+      margin: 10px;
+    }
+
+    .certificate a {
+      display: block;
+      font-size: 16px;
+      text-align: center;
+      text-decoration: none;
+      color: #ffffff;
+      background-color: #0077b5;
+      padding: 10px 20px;
+      border-radius: 25px;
+      margin: 20px auto 0;
+      transition: background-color 0.2s ease-in-out;
+    }
+
+    .certificate a:hover {
+      background-color: #005b8a;
+    }
+
+
+  </style>
+</head>
+<body>
+  <h1>My Certifications</h1>
+
+  <h2>AWS Specialization</h2>
+
+  <div class="certificates">
+    <div class="certificate">
+      <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
+      <h3>AWS Fundamentals: Going Cloud-Native</h3>
+      <p>Learn how to build cloud-native applications on AWS.</p>
+      <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
+    </div>
+
+ 
