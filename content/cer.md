@@ -152,42 +152,40 @@ border-right: 50px solid transparent;
       <a href="https://www.coursera.org/account/accomplishments/certificate/QVJQ2HDG5U8Z">View on Coursera</a>
 </div></div>
 	
+	
+	
 <h2>Linkedin Learning</h2>
 
  <div class="certificates">
     <div class="certificate">
 <!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
-      <h3>AWS Fundamentals: Going Cloud-Native</h3>
-      <p>Learn how to build cloud-native applications on AWS.</p>
-      <a href="https://www.coursera.org/account/accomplishments/certificate/QVJQ2HDG5U8Z">View on Coursera</a>
+      <h3>Linkedin: Learning Teraform</h3>
+      <p>Learn Terraform which is a DevOps tool for declarative infrastructure or infrastructure as code. </p>
+      <a href="https://www.linkedin.com/learning/certificates/c6944607a181cca2c106a9b998d57286a1238d07f8fae3f50f60b5f6ddb8e04b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D">View on Linkedin</a>
   </div>
-<!-- <h2>AWS Specialization</h2> -->
 
-<!-- <div class="certificates"> -->
 <div class="certificate">
 <!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
       <h3>AWS Fundamentals: Going Cloud-Native</h3>
       <p>Learn how to build cloud-native applications on AWS.</p>
       <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
-	 </div></div>
-<!-- <h2>AWS Specialization</h2> -->
+	 </div>
 
-<!-- <div class="certificates"> -->
-<!-- <div class="certificate">
+ <div class="certificate">
       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
       <h3>AWS Fundamentals: Going Cloud-Native</h3>
       <p>Learn how to build cloud-native applications on AWS.</p>
       <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
 </div>
 </div>  
-<h2>AWS Specialization</h2>
+<!-- <h2>AWS Specialization</h2>
 <div class="certificates">
 <div class="certificate">
       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
       <h3>AWS Fundamentals: Going Cloud-Native</h3>
       <p>Learn how to build cloud-native applications on AWS.</p>
       <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
- </div> -->
+ </div> --> 
 	 
 <!-- <h2>AWS Specialization</h2> -->
 <!-- <div class="certificates"> -->
