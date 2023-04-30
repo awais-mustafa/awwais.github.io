@@ -175,5 +175,6 @@ This certification is issued by Coursera. You can verify its authenticity [here]
       <p>Learn how to build cloud-native applications on AWS.</p>
       <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
     </div>
-
+	  </body>
+	</html>
  
