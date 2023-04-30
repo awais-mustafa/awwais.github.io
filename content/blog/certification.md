@@ -174,13 +174,14 @@ border-right: 50px solid transparent;
 	
 	
 	
-<h2>RedHat Certification</h2>
+<h2>All Specialization</h2>
 
  <div class="certificates">
     <div class="certificate">
-      <h3>Red Hat Enterprise Linux system</h3>
-      <p>Learn Fundamentals of Red Hat Enterprise Linux. </p>
-      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CJ4TF4RSB72F">View on Coursera</a>
+      <h3>DevOps on AWS</h3>
+      <p>Learn how to use the combination of DevOps philosophies, practices and tools to develop,
+deploy, and maintain applications in the AWS Cloud </p>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/E2MLQKR8BS7C">View on Coursera</a>
   </div>
 
 </body>
