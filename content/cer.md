@@ -34,7 +34,7 @@ padding: 0;
 
 		
 
-.container {
+/* .container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 50px;
@@ -136,6 +136,89 @@ width: 0;
 height: 0;
 border-top: 50px solid blue;
 border-right: 50px solid transparent;
+} */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 50px;
+  border: 5px solid #0077b5;
+}
+
+.certificate {
+  flex-basis: calc(33.33% - 20px);
+  background-color: #f2f2f2;
+  color: #333;
+  margin-bottom: 40px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease-in-out;
+  position: relative;
+  overflow: hidden;
+}
+
+.certificate:before {
+  content: "";
+  position: absolute;
+  top: -20px;
+  right: -20px;
+  bottom: -20px;
+  left: -20px;
+  background-color: #0077b5;
+  z-index: -1;
+  transform: rotate(-45deg);
+}
+
+.certificate:after {
+  content: "";
+  position: absolute;
+  top: -20px;
+  right: -20px;
+  border-top: 20px solid #0077b5;
+  border-left: 20px solid transparent;
+  z-index: -2;
+}
+
+.certificate img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.certificate-info {
+  padding: 20px;
+  text-align: center;
+}
+
+.certificate-title {
+  font-size: 24px;
+}
+.certificate h3 {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.certificate p {
+  font-size: 16px;
+  text-align: center;
+  margin: 10px;
+}
+
+.certificate a {
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #0077b5;
+  padding: 10px 20px;
+  border-radius: 25px;
+  margin: 20px auto 0;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.certificate a:hover {
+  background-color: #005b8a;
 }
 
 </style>
