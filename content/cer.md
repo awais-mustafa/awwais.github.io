@@ -21,15 +21,7 @@ This certification is issued by Coursera. You can verify its authenticity [here]
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Certifications</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <nav>
-    <a href="#">Back to Website</a>
-  </nav>
+  
 
   <main>
     <h1>My Certifications</h1>
@@ -53,7 +45,7 @@ This certification is issued by Coursera. You can verify its authenticity [here]
         <h2>AWS DevOps Engineer Professional</h2>
         <p>Learn how to develop and deploy secure, scalable, and reliable applications on AWS.</p>
         <a href="https://www.coursera.org/professional-certificates/aws-devops-engineer-professional">View on Coursera</a>
-</div>
+    </div></div>
 
  <div class="certification">
         <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="Fundamentals of Red Hat OpenShift">
