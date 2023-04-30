@@ -165,7 +165,7 @@ border-right: 50px solid transparent;
 	 </div>
 
  <div class="certificate">
-      <h3>Git from Scratch</h3>
+      <h3>Git from Scratch ... | GitOps</h3>
       <p>Learn Version control—the practice of tracking and managing changes to software code.</p>
       <a href="https://www.linkedin.com/learning/certificates/059ebf0667b36f13dd294a96525e09a0af9ae11ddbbe2e55b6b90ef817682d82?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D">View on Linkedin</a>
 </div>
