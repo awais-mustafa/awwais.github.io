@@ -171,6 +171,18 @@ border-right: 50px solid transparent;
 </div>
 </div>  
 
+	
+	
+	
+<h2>RedHat Certification</h2>
+
+ <div class="certificates">
+    <div class="certificate">
+      <h3>Red Hat Enterprise Linux system</h3>
+      <p>Learn Fundamentals of Red Hat Enterprise Linux. </p>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CJ4TF4RSB72F">View on Coursera</a>
+  </div>
+
 </body>
 </html>
  
