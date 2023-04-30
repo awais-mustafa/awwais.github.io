@@ -134,8 +134,8 @@ border-right: 50px solid transparent;
 </div>
 
 <div class="certificate">
-      <h3>AWS Fundamentals: Migrating to the Cloud</h3>
-      <p>Learn how to Migrate to the Cloud.</p>
+      <h3>AWS : Migrating to the Cloud</h3>
+      <p>Learn how to Migrate to the Cloud.It means moving computer stuff to the internet, which can save money and improve performance</p>
       <a href="https://www.coursera.org/account/accomplishments/certificate/BZLA5R2MCSFC">View on Coursera</a>
 </div>
 
