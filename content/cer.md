@@ -49,7 +49,7 @@ This certification is issued by Coursera. You can verify its authenticity [here]
   
 </div>
 <div class="certification">
-        <img src="Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS DevOps Engineer Professional">
+        <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS DevOps Engineer Professional">
         <h2>AWS DevOps Engineer Professional</h2>
         <p>Learn how to develop and deploy secure, scalable, and reliable applications on AWS.</p>
         <a href="https://www.coursera.org/professional-certificates/aws-devops-engineer-professional">View on Coursera</a>
