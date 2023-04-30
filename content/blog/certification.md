@@ -184,6 +184,20 @@ deploy, and maintain applications in the AWS Cloud </p>
       <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/E2MLQKR8BS7C">View on Coursera</a>
   </div>
 
+	 
+	 <div class="certificate">
+      <h3>IBM Certified</h3>
+      <p>Learn Linux and Private Cloud Administration on IBM Power Systems </p>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CJ4TF4RSB72F">View on Coursera</a>
+  </div>
+	 
+<div class="certificate">
+      <h3>AWS Fundamentals</h3>
+      <p>Learn how to use the combination of DevOps philosophies, practices and tools to develop,
+deploy, and maintain applications in the AWS Cloud </p>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/E2MLQKR8BS7C">View on Coursera</a>
+  </div>	 
+	 
 </body>
 </html>
  
