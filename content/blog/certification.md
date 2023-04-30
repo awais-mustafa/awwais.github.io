@@ -184,14 +184,14 @@ border-right: 50px solid transparent;
   </div>
 
 	 
-	 <div class="certificate">
+<div class="certificate">
       <h3>IBM Certified</h3>
       <p>Learn Linux and Private Cloud Administration on IBM Power Systems </p>
       <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CJ4TF4RSB72F">Verify on Coursera</a>
   </div>
 	 
 <div class="certificate">
-      <h3>AWS Fundamentals</h3>
+<h3>AWS Fundamentals</h3>
       <p>Learn core AWS services and key AWS security concepts. Learn how to build and deploy serverless applications with AWS</p>
       <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V82H7FPZWQ3C">Verify on Coursera</a>
   </div>	 
