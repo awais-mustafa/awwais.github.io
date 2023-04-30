@@ -154,7 +154,7 @@ border-right: 50px solid transparent;
  <div class="certificates">
     <div class="certificate">
       <h3>Linkedin: Learning Terraform</h3>
-      <p>Learn Terraform which is a DevOps tool for declarative infrastructure or infrastructure as code. </p>
+      <p>Learn Terraform which is a DevOps tool for infrastructure as code. </p>
       <a href="https://www.linkedin.com/learning/certificates/c6944607a181cca2c106a9b998d57286a1238d07f8fae3f50f60b5f6ddb8e04b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D">View on Linkedin</a>
   </div>
 
