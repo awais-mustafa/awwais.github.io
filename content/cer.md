@@ -38,14 +38,14 @@ This certification is issued by Coursera. You can verify its authenticity [here]
         <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
         <h2>AWS Fundamentals: Going Cloud-Native</h2>
         <p>Learn how to build cloud-native applications on AWS.</p>
-        <a href="Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp">View on Coursera</a>
+        <a href="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp">View on Coursera</a>
       </div>
 
 <div class="certification">
         <img src="Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Addressing Security Risk">
         <h2>AWS Fundamentals: Addressing Security Risk</h2>
         <p>Learn how to identify and address security risks on AWS.</p>
-        <a href="Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp">View on Coursera</a>
+        <a href="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp">View on Coursera</a>
   
 </div>
 <div class="certification">
@@ -56,7 +56,7 @@ This certification is issued by Coursera. You can verify its authenticity [here]
 </div>
 
  <div class="certification">
-        <img src="Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="Fundamentals of Red Hat OpenShift">
+        <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="Fundamentals of Red Hat OpenShift">
         <h2>Fundamentals of Red Hat OpenShift</h2>
         <p>Learn how to deploy and manage applications on Red Hat OpenShift.</p>
         <a href="https://www.coursera.org/learn/fundamentals-of-red-hat-openshift">View on Coursera</a>
