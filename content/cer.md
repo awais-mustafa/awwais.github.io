@@ -138,9 +138,9 @@ border-right: 50px solid transparent;
 <div class="certificates"> -->
 <div class="certificate">
 <!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
-      <h3>AWS Fundamentals: Going Cloud-Native</h3>
-      <p>Learn how to build cloud-native applications on AWS.</p>
-      <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
+      <h3>AWS Fundamentals: Migrating to the Cloud</h3>
+      <p>Learn how to Migrate to the Cloud.</p>
+      <a href="https://www.coursera.org/account/accomplishments/certificate/BZLA5R2MCSFC">View on Coursera</a>
 </div>
 <!-- <h2>AWS Specialization</h2> -->
 
