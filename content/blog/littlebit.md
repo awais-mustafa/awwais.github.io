@@ -5,8 +5,7 @@ dateString: Feb 2022
 draft: false
 tags: ["Myself"]
 weight: 102
-cover:
-    image: "blog/aboutWebsite/AboutWebsiteCover2.webp"
+
 ---
 
 
