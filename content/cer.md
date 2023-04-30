@@ -128,25 +128,18 @@ border-right: 50px solid transparent;
 
 <div class="certificates">
 <div class="certificate">
-<!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
       <h3>AWS Cloud Technical Essentials</h3>
       <p>Learn how to distinguish among several AWS compute services, including Amazon EC2, AWS Lambda, and Amazon ECS</p>
       <a href="https://www.coursera.org/account/accomplishments/certificate/ETR94TV3UN3C">View on Coursera</a>
 </div>
-<!-- <h2>AWS Specialization</h2>
 
-<div class="certificates"> -->
 <div class="certificate">
-<!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
       <h3>AWS Fundamentals: Migrating to the Cloud</h3>
       <p>Learn how to Migrate to the Cloud.</p>
       <a href="https://www.coursera.org/account/accomplishments/certificate/BZLA5R2MCSFC">View on Coursera</a>
 </div>
-<!-- <h2>AWS Specialization</h2> -->
 
-<!-- <div class="certificates"> -->
 <div class="certificate">
-<!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
       <h3>AWS Fundamentals: Building Serverless Applications</h3>
       <p>Learn how to build Serverless applications on AWS.</p>
       <a href="https://www.coursera.org/account/accomplishments/certificate/QVJQ2HDG5U8Z">View on Coursera</a>
@@ -158,57 +151,24 @@ border-right: 50px solid transparent;
 
  <div class="certificates">
     <div class="certificate">
-<!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
-      <h3>Linkedin: Learning Teraform</h3>
+      <h3>Linkedin: Learning Terraform</h3>
       <p>Learn Terraform which is a DevOps tool for declarative infrastructure or infrastructure as code. </p>
       <a href="https://www.linkedin.com/learning/certificates/c6944607a181cca2c106a9b998d57286a1238d07f8fae3f50f60b5f6ddb8e04b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D">View on Linkedin</a>
   </div>
 
 <div class="certificate">
-<!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
-      <h3>AWS Fundamentals: Going Cloud-Native</h3>
-      <p>Learn how to build cloud-native applications on AWS.</p>
-      <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
+      <h3>DevOps Foundations: Continuous Delivery/Continuous Integration</h3>
+      <p>Learn about continuous integration and continuous delivery (CI/CD), and constructing my own build pipeline.</p>
+      <a href="https://www.linkedin.com/learning/certificates/bf98a037e5c91f0343a50260796562fd75720d54fb224695066c30c7c7cf67dd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D">View on Linkedin</a>
 	 </div>
 
  <div class="certificate">
-      <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
       <h3>AWS Fundamentals: Going Cloud-Native</h3>
       <p>Learn how to build cloud-native applications on AWS.</p>
-      <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
+      <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Linkedin</a>
 </div>
 </div>  
-<!-- <h2>AWS Specialization</h2>
-<div class="certificates">
-<div class="certificate">
-      <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
-      <h3>AWS Fundamentals: Going Cloud-Native</h3>
-      <p>Learn how to build cloud-native applications on AWS.</p>
-      <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
- </div> --> 
-	 
-<!-- <h2>AWS Specialization</h2> -->
-<!-- <div class="certificates"> -->
-<!-- <div class="certificate">
-      <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
-      <h3>AWS Fundamentals: Going Cloud-Native</h3>
-      <p>Learn how to build cloud-native applications on AWS.</p>
-      <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
- </div>
-	
-<div class="certificate">
-      <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
-      <h3>AWS Fundamentals: Going Cloud-Native</h3>
-      <p>Learn how to build cloud-native applications on AWS.</p>
-      <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
- </div>
-<div class="certificate">
-      <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
-      <h3>AWS Fundamentals: Going Cloud-Native</h3>
-      <p>Learn how to build cloud-native applications on AWS.</p>
-      <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
- </div>
-</div>	 -->
+
 </body>
 </html>
  
