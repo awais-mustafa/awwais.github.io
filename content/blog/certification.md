@@ -174,7 +174,7 @@ border-right: 50px solid transparent;
 	
 	
 	
-<h2>All Specialization</h2>
+<h2>All my Specialization</h2>
 
  <div class="certificates">
     <div class="certificate">
