@@ -159,8 +159,8 @@ border-right: 50px solid transparent;
   </div>
 
 <div class="certificate">
-      <h3>DevOps Foundations: Continuous Delivery/Continuous Integration</h3>
-      <p>Learn about continuous integration and continuous delivery (CI/CD), and constructing my own build pipeline.</p>
+      <h3>Continuous Delivery/Continuous Integration</h3>
+      <p>Learn about (CI/CD), and constructing my own CI/CD pipeline.</p>
       <a href="https://www.linkedin.com/learning/certificates/bf98a037e5c91f0343a50260796562fd75720d54fb224695066c30c7c7cf67dd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D">View on Linkedin</a>
 	 </div>
 
