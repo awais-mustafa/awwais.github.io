@@ -186,7 +186,7 @@ border-right: 50px solid transparent;
 	 
 <div class="certificate">
       <h3>IBM Certified</h3>
-      <p>Learn Linux and Private Cloud Administration on IBM Power Systems </p>
+      <p>Learn Linux and Private Cloud Administration on IBM Power Systems.Learn to get started with Linux, to using Linux in a large cloud environment.</p>
       <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CJ4TF4RSB72F">Verify on Coursera</a>
   </div>
 	 
