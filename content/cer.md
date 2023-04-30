@@ -147,9 +147,9 @@ border-right: 50px solid transparent;
 <!-- <div class="certificates"> -->
 <div class="certificate">
 <!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
-      <h3>AWS Fundamentals: Going Cloud-Native</h3>
-      <p>Learn how to build cloud-native applications on AWS.</p>
-      <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
+      <h3>AWS Fundamentals: Building Serverless Applications</h3>
+      <p>Learn how to build Serverless applications on AWS.</p>
+      <a href="https://www.coursera.org/account/accomplishments/certificate/QVJQ2HDG5U8Z">View on Coursera</a>
 </div></div>
 	
 <h2>Linkedin Learning</h2>
@@ -159,7 +159,7 @@ border-right: 50px solid transparent;
 <!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
       <h3>AWS Fundamentals: Going Cloud-Native</h3>
       <p>Learn how to build cloud-native applications on AWS.</p>
-      <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
+      <a href="https://www.coursera.org/account/accomplishments/certificate/QVJQ2HDG5U8Z">View on Coursera</a>
   </div>
 <!-- <h2>AWS Specialization</h2> -->
 
