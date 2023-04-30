@@ -125,7 +125,7 @@ border-right: 50px solid transparent;
 
 <div class="certificates">
 <div class="certificate">
-      <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
+<!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
       <h3>AWS Fundamentals: Going Cloud-Native</h3>
       <p>Learn how to build cloud-native applications on AWS.</p>
       <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
@@ -134,7 +134,7 @@ border-right: 50px solid transparent;
 
 <div class="certificates"> -->
 <div class="certificate">
-      <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
+<!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
       <h3>AWS Fundamentals: Going Cloud-Native</h3>
       <p>Learn how to build cloud-native applications on AWS.</p>
       <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
@@ -143,7 +143,7 @@ border-right: 50px solid transparent;
 
 <!-- <div class="certificates"> -->
 <div class="certificate">
-      <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
+<!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
       <h3>AWS Fundamentals: Going Cloud-Native</h3>
       <p>Learn how to build cloud-native applications on AWS.</p>
       <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
@@ -153,7 +153,7 @@ border-right: 50px solid transparent;
 
  <div class="certificates">
     <div class="certificate">
-      <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
+<!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
       <h3>AWS Fundamentals: Going Cloud-Native</h3>
       <p>Learn how to build cloud-native applications on AWS.</p>
       <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
@@ -162,7 +162,7 @@ border-right: 50px solid transparent;
 
 <!-- <div class="certificates"> -->
 <div class="certificate">
-      <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
+<!--       <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native"> -->
       <h3>AWS Fundamentals: Going Cloud-Native</h3>
       <p>Learn how to build cloud-native applications on AWS.</p>
       <a href="https://www.coursera.org/learn/aws-fundamentals-going-cloud-native">View on Coursera</a>
