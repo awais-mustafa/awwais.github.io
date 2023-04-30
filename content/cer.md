@@ -40,6 +40,9 @@ padding: 0;
   margin: 0 auto;
   padding: 50px;
   border: 5px solid #0077b5;
+
+  border-style: solid;	
+	
 }
 
 .certificates {
