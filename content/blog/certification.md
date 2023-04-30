@@ -129,7 +129,7 @@ border-right: 50px solid transparent;
 <div class="certificates">
 <div class="certificate">
       <h3>AWS Cloud Technical Essentials</h3>
-      <p>Learn how to distinguish among several AWS compute services, including Amazon EC2, AWS Lambda, and Amazon ECS</p>
+      <p>Learn how to use several AWS compute services, including Amazon EC2, AWS Lambda, and Amazon ECS</p>
       <a href="https://www.coursera.org/account/accomplishments/certificate/ETR94TV3UN3C">View on Coursera</a>
 </div>
 
