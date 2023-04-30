@@ -2,7 +2,7 @@
 title: "My Certificates"
 dateString: April 2023
 weight: 101
-tags: ["Certification"]
+
 showToc: false
 TocOpen: false
 draft: false
