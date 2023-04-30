@@ -18,10 +18,10 @@ draft: false
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<style>
+<style>
 body {
 background-color: #1b1b1b;
 color: #fff;
