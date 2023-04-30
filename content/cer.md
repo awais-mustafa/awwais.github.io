@@ -35,7 +35,7 @@ This certification is issued by Coursera. You can verify its authenticity [here]
     <h1>My Certifications</h1>
 <div class="grid-container">
 <div class="certification">
-        <img src="Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
+        <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Going Cloud-Native">
         <h2>AWS Fundamentals: Going Cloud-Native</h2>
         <p>Learn how to build cloud-native applications on AWS.</p>
         <a href="Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp">View on Coursera</a>
