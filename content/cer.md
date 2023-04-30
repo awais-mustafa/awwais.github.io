@@ -20,7 +20,7 @@ draft: false
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- 	<title>My Certificates</title> -->
+
 	<style>
 body {
 background-color: #1b1b1b;
@@ -109,7 +109,7 @@ background-color: #005b8a;
 </style>
 </head>
 <body>
-<h1>My Certifications</h1>
+
 
 <h2>AWS Specialization</h2>
 
