@@ -34,7 +34,7 @@ This certification is issued by Coursera. You can verify its authenticity [here]
       </div>
 
 <div class="certification">
-        <img src="Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Addressing Security Risk">
+        <img src="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp" alt="AWS Fundamentals: Addressing Security Risk">
         <h2>AWS Fundamentals: Addressing Security Risk</h2>
         <p>Learn how to identify and address security risks on AWS.</p>
         <a href="/Certificatio/Coursera-MR4FLUFTP4HX_page-0001-_1_.webp">View on Coursera</a>
