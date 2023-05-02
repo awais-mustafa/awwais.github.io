@@ -16,7 +16,8 @@ cover:
 ### ⚔ Terminal In Browser 🗯
 
 <p align="center">
-<a style="font-size:30px" href="https://awwais.live">Check IT NOW 🎭</a></p>
+     
+<a style="font-size:30px" href="https://awwais.live target="_blank">Check IT NOW 🎭</a></p>
 
                                 
 ### 🔗 [CheckItNow](https://awwais.live)
