@@ -10,6 +10,8 @@
   </url><url>
     <loc>https://awwais.me/blog/littlebit/</loc>
   </url><url>
+    <loc>https://awwais.me/projects/terminal/</loc>
+  </url><url>
     <loc>https://awwais.me/projects/unityproject/</loc>
   </url><url>
     <loc>https://awwais.me/projects/drumkit/</loc>
@@ -26,8 +28,6 @@
   </url><url>
     <loc>https://awwais.me/home/a/</loc>
   </url><url>
-    <loc>https://awwais.me/projects/terminal/</loc>
-  </url><url>
     <loc>https://awwais.me/</loc>
   </url><url>
     <loc>https://awwais.me/blog/</loc>
@@ -43,6 +43,8 @@
     <loc>https://awwais.me/tags/my-app/</loc>
   </url><url>
     <loc>https://awwais.me/tags/my-game/</loc>
+  </url><url>
+    <loc>https://awwais.me/tags/my-terminal/</loc>
   </url><url>
     <loc>https://awwais.me/tags/myself/</loc>
   </url><url>
