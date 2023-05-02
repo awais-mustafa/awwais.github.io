@@ -9,7 +9,7 @@ showToc: false
 weight: 200
 
 cover:
-    image: "projects/SnowBorder/snowBorderCover1.webp"
+    image: "/projects/Copy of awai.svg"
 ---
 
 
