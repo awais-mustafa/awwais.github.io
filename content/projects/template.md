@@ -20,10 +20,10 @@ And then make changes to it that are in line with your vision. ❤. Or you may m
 
 
 <p align="center">
-  <a style="font-size:30px"  href="https://awwais.me/templateWebsite">
+  <a style="font-size:30px"  href="https://awaismustafa/templateWebsite">
                                       Website Check It Now 🎭</a>
 
 </p>
 
-### 🔗 [View Website](https://awwais.me/templateWebsite)
+### 🔗 [View Website](https://awaismustafa/templateWebsite)
 ### 🔗 [GitHub](https://github.com/awwais/templateWebsite)
