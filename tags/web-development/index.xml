@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Web Development on Awais Mustafa</title>
-    <link>https://awaismustafa.com/tags/web-development/</link>
+    <link>http://awaismustafa.com/tags/web-development/</link>
     <description>Recent content in Web Development on Awais Mustafa</description>
     <image>
       <title>Awais Mustafa</title>
-      <url>https://awaismustafa.com/blog/awais.jpg</url>
-      <link>https://awaismustafa.com/blog/awais.jpg</link>
+      <url>http://awaismustafa.com/blog/awais.jpg</url>
+      <link>http://awaismustafa.com/blog/awais.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://awaismustafa.com/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://awaismustafa.com/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DrumKit</title>
-      <link>https://awaismustafa.com/projects/drumkit/</link>
+      <link>http://awaismustafa.com/projects/drumkit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awaismustafa.com/projects/drumkit/</guid>
+      <guid>http://awaismustafa.com/projects/drumkit/</guid>
       <description>Drumkit in your browser!</description>
     </item>
     
     <item>
       <title>TinDog Website</title>
-      <link>https://awaismustafa.com/projects/tindog/</link>
+      <link>http://awaismustafa.com/projects/tindog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awaismustafa.com/projects/tindog/</guid>
+      <guid>http://awaismustafa.com/projects/tindog/</guid>
       <description>I Make Simple Website using Html,CSS, and BootStrap</description>
     </item>
     
     <item>
       <title>SimonGame</title>
-      <link>https://awaismustafa.com/projects/simongame/</link>
+      <link>http://awaismustafa.com/projects/simongame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awaismustafa.com/projects/simongame/</guid>
+      <guid>http://awaismustafa.com/projects/simongame/</guid>
       <description>A Simple Game fule for that is follow the lights as you can</description>
     </item>
     
     <item>
       <title>Todo List App</title>
-      <link>https://awaismustafa.com/projects/todo-list-app/</link>
+      <link>http://awaismustafa.com/projects/todo-list-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awaismustafa.com/projects/todo-list-app/</guid>
+      <guid>http://awaismustafa.com/projects/todo-list-app/</guid>
       <description>A Todo list web application built using React</description>
     </item>
     
     <item>
       <title>TemplateWebsite</title>
-      <link>https://awaismustafa.com/projects/template/</link>
+      <link>http://awaismustafa.com/projects/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awaismustafa.com/projects/template/</guid>
+      <guid>http://awaismustafa.com/projects/template/</guid>
       <description>!</description>
     </item>
     
