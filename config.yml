@@ -1,4 +1,4 @@
-baseURL: "https://awaismustafa.com"
+baseURL: "http://awaismustafa.com"
 languageCode: en-us
 title: Awais Mustafa
 paginate: 5
@@ -144,7 +144,7 @@ params:
     - name: "twitter"
       url: "https://twitter.com/awaistwt"
     - name: All my Links
-      url: "https://awaismustafa.com/links"
+      url: "http://awaismustafa.com/links"
       
   # text search
   fuseOpts:
