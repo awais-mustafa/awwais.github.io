@@ -15,7 +15,7 @@ cover:
 ### ⚔ I Make Simple Drumkit using Html,CSS, and JavaScript. 🗯
 
 <p align="center">
-  <a style="font-size:30px"  href="https://awwais.me/DrumKit" target="_blank">
+  <a style="font-size:30px"  href="https://awaismustafa/DrumKit" target="_blank">
                                                                         DrumItNow 🎭</a>
 
 </p>
@@ -24,5 +24,5 @@ cover:
 
 
 
-### 🔗 [DrumIt](https://awwais.me/DrumKit)
+### 🔗 [DrumIt](https://awaismustafa/DrumKit)
 ### 🔗 [GitHub](https://github.com/awwais/DrumKit)
