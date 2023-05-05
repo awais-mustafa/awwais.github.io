@@ -11,7 +11,7 @@ cover:
 
 ---
 
-### 🔗 [View Website](https://awaismustafa.com/tinDog)
+### 🔗 [View Website](http://awaismustafa.com/tinDog)
 ### 🔗 [GitHub](https://github.com/awwais/tinDog)
 
 ## Description
