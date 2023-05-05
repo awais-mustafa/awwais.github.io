@@ -16,7 +16,7 @@ cover:
 ### ⚔ I Make Simple 2D Game Using Unity. 🗯
 
 <p align="center">
-<a style="font-size:30px" href="https://awaismustafa/SnowBorder" target="_blank">PLAY IT NOW 🎭</a>
+<a style="font-size:30px" href="http://awaismustafa/SnowBorder" target="_blank">PLAY IT NOW 🎭</a>
 </p>
 
 ### 🔗 [PlayItNow](https://awaismustafa.com/SnowBorder)
