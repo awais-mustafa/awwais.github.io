@@ -19,7 +19,7 @@ cover:
 <a style="font-size:30px" href="https://awaismustafa/SnowBorder" target="_blank">PLAY IT NOW 🎭</a>
 </p>
 
-### 🔗 [PlayItNow](https://awaismustafa/SnowBorder)
+### 🔗 [PlayItNow](https://awaismustafa.com/SnowBorder)
 ### 🔗 [GitHub](https://github.com/awwais/SnowBoarder)
 
 ## Description
