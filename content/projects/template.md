@@ -20,7 +20,7 @@ And then make changes to it that are in line with your vision. ❤. Or you may m
 
 
 <p align="center">
-  <a style="font-size:30px"  href="https://awaismustafa.com/templateWebsite">
+  <a style="font-size:30px"  href="http://awaismustafa.com/templateWebsite">
                                       Website Check It Now 🎭</a>
 
 </p>
