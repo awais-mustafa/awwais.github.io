@@ -14,13 +14,13 @@ cover:
 # Simon Game ♦
 
 <p align="center">
-<a style="font-size:30px" href="http://awaismustafa.com/game">PLAY IT NOW 🎭</a>
+<a style="font-size:30px" href="https://awaismustafa.com/game">PLAY IT NOW 🎭</a>
 </p>
 🧨Follow the pattern of lights for as long as you can... if you can! that's it Now let get Started
 
 #### You Can't Play This Game On Mobile Devices
 
-### 🔗 [PlayNow](https://awaismustafa/game)
+### 🔗 [PlayNow](https://awaismustafa,com/game)
 ### 🔗 [GitHub](https://github.com/awwais/game)
 
 
