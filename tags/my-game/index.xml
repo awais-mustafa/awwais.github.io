@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My Game on Awais Mustafa</title>
-    <link>https://awwais.me/tags/my-game/</link>
+    <link>https://awaismustafa.com/tags/my-game/</link>
     <description>Recent content in My Game on Awais Mustafa</description>
     <image>
       <title>Awais Mustafa</title>
-      <url>https://awwais.me/blog/awais.jpg</url>
-      <link>https://awwais.me/blog/awais.jpg</link>
+      <url>https://awaismustafa.com/blog/awais.jpg</url>
+      <link>https://awaismustafa.com/blog/awais.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://awwais.me/tags/my-game/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://awaismustafa.com/tags/my-game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SnowBorder Game</title>
-      <link>https://awwais.me/projects/unityproject/</link>
+      <link>https://awaismustafa.com/projects/unityproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awwais.me/projects/unityproject/</guid>
+      <guid>https://awaismustafa.com/projects/unityproject/</guid>
       <description>A SnowBoarder  web application game built using Unity</description>
     </item>
     
