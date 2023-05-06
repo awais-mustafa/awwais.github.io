@@ -31,7 +31,7 @@ menu:
       url: /projects
       weight: 30
     - identifier: Archieve
-      name: Archieve
+      name: Archive
       url: /archives
       weight: 40
     - identifier: search
