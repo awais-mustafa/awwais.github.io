@@ -86,9 +86,9 @@ params:
 
 
   label:
-    text: "＠waismustafa"
-    icon: /icon.svg
-    iconHeight: 35
+    text: "@waismustafa.com"
+#     icon: /icon.svg
+#     iconHeight: 35
 
 
 
