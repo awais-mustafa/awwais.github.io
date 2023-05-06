@@ -16,25 +16,29 @@
   </url><url>
     <loc>http://awaismustafa.com/projects/tindog/</loc>
   </url><url>
+    <loc>http://awaismustafa.com/projects/simongame/</loc>
+    <lastmod>2022-09-15T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>http://awaismustafa.com/projects/memeapp/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://awaismustafa.com/projects/simongame/</loc>
   </url><url>
     <loc>http://awaismustafa.com/projects/todo-list-app/</loc>
   </url><url>
     <loc>http://awaismustafa.com/projects/template/</loc>
   </url><url>
     <loc>http://awaismustafa.com/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://awaismustafa.com/tags/my-app/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2022-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://awaismustafa.com/projects/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2022-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://awaismustafa.com/tags/</loc>
+    <lastmod>2022-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://awaismustafa.com/tags/web-development/</loc>
+    <lastmod>2022-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://awaismustafa.com/tags/my-app/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://awaismustafa.com/home/a/</loc>
@@ -60,7 +64,5 @@
     <loc>http://awaismustafa.com/tags/practical-devops/</loc>
   </url><url>
     <loc>http://awaismustafa.com/search/</loc>
-  </url><url>
-    <loc>http://awaismustafa.com/tags/web-development/</loc>
   </url>
 </urlset>
