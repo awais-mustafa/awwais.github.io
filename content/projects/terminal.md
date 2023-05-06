@@ -2,6 +2,7 @@
 
 title: My Terminal
 description: WebTerminal
+date: 2023-02-15T11:30:03+00:00
 dateString: Feb 2023
 draft: false
 tags: ["My Terminal"]
