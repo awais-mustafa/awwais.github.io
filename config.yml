@@ -184,17 +184,15 @@ markup:
       
       
       
-      
-
-      
-      
-  analytics:
-    google:
-      SiteVerificationTag: "G-PGLCBXZXQR"
-#     bing:
-#       SiteVerificationTag: "XYZabc"
-#     yandex:
-#       SiteVerificationTag: "XYZabc"
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
 
 
     
