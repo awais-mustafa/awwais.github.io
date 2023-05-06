@@ -1,7 +1,7 @@
 baseURL: "http://awaismustafa.com"
 languageCode: en-us
 title: awaismustafa.com
-paginate: 10
+paginate: 6
 
 theme: PaperMod
 
