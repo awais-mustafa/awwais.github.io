@@ -1,6 +1,7 @@
 ---
 title: "Todo List App"
 description: "A Todo list web application built using React"
+date: 2021-05-15T11:30:03+00:00
 dateString: May 2021
 draft: false
 tags: ["Web Development"]
