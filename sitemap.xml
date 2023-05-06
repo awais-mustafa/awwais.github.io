@@ -2,9 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://awaismustafa.com/blog/certification/</loc>
-  </url><url>
     <loc>http://awaismustafa.com/blog/nfssetup/</loc>
+    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://awaismustafa.com/blog/certification/</loc>
   </url><url>
     <loc>http://awaismustafa.com/blog/littlebit/</loc>
   </url><url>
@@ -44,6 +45,12 @@
     <loc>http://awaismustafa.com/tags/</loc>
     <lastmod>2023-02-15T11:30:03+00:00</lastmod>
   </url><url>
+    <loc>http://awaismustafa.com/blog/</loc>
+    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://awaismustafa.com/tags/practical-devops/</loc>
+    <lastmod>2022-12-15T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>http://awaismustafa.com/tags/my-game/</loc>
     <lastmod>2022-11-15T11:30:03+00:00</lastmod>
   </url><url>
@@ -57,8 +64,6 @@
   </url><url>
     <loc>http://awaismustafa.com/archives/</loc>
   </url><url>
-    <loc>http://awaismustafa.com/blog/</loc>
-  </url><url>
     <loc>http://awaismustafa.com/categories/</loc>
   </url><url>
     <loc>http://awaismustafa.com/tags/certification/</loc>
@@ -68,8 +73,6 @@
     <loc>http://awaismustafa.com/home/</loc>
   </url><url>
     <loc>http://awaismustafa.com/tags/myself/</loc>
-  </url><url>
-    <loc>http://awaismustafa.com/tags/practical-devops/</loc>
   </url><url>
     <loc>http://awaismustafa.com/search/</loc>
   </url>
