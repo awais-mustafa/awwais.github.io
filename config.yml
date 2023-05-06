@@ -57,7 +57,7 @@ params:
   # theme
   showToc: true
   TocOpen: false
-  title: This is an example \"%s\" "@"
+  title: awaismustafa.com
 
 
 #   images: ["<link or path of image for opengraph, twitter-cards>"]
