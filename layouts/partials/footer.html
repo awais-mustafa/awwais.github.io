@@ -3,9 +3,13 @@
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
-    <span><a href="{{ "" | absLangURL }}"><p style="font-size: 18px;">&copy All rights reserved — Awais. </p></a></span>
+    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
     {{- end }}
-
+    <span>
+        All rights 
+        <a href="{{ "" | absLangURL }}" rel="noopener noreferrer" target="_blank">reserved</a> by &
+        <a href="{{ "" | absLangURL }}" rel="noopener" target="_blank"> — Awais.</a>
+    </span>
 </footer>
 {{- end }}
 
@@ -129,3 +133,6 @@
     });
 </script>
 {{- end }}
+<!--     <span><a href="{{ "" | absLangURL }}"><p style="font-size: 18px;">&copy All rights reserved — Awais. </p></a></span> -->
+  
+
