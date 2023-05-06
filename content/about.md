@@ -10,6 +10,7 @@ Hi, I’m Awais. I’m from Pakistan.
 
 I'm currently an undergraduate student studying @ [<u>Computer Science at the University of Malakand</u>](http://uom.edu.pk), since November 2021..
 ![Image](/static/awais.png)
+
 This is a personal blog to share about stuff I learn, which also serves as a portfolio.
 You can checkout [<u>Archive</u>](http://awaismustafa.com/archives) to get a list of posts or can use [<u>Search</u>](http://awaismustafa.com/search) / [<u>Tags</u>](http://awaismustafa.com/tags) to find pages about specific keywords.
 
