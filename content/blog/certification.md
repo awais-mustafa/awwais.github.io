@@ -24,11 +24,12 @@ draft: false
 
 ## Linkedin Learning
 
-| Certificate | Description |
-| --- | --- |
-| [Linkedin: Learning Terraform](https://www.linkedin.com/learning/certificates/c6944607a181cca2c106a9b998d57286a1238d07f8fae3f50f60b5f6ddb8e04b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D) | Learn Terraform, which is a DevOps tool for infrastructure as code. |
-| [Continuous Delivery/Continuous Integration](https://www.linkedin.com/learning/certificates/bf98a037e5c91f0343a50260796562fd75720d54fb224695066c30c7c7cf67dd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D) | Learn about CI/CD (Continuous Integration/Continuous Delivery) and construct your own CI/CD pipeline. |
-| [Git from Scratch ... | GitOps](https://www.linkedin.com/learning/certificates/059ebf0667b36f13dd294a96525e09a0af9ae11ddbbe2e55b6b90ef817682d82?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D) | Learn version control, which is the practice of tracking and managing changes to software code. |
+| Certificate                                               | Description                                                           | Verification                                                                                                              |
+| --------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [Linkedin: Learning Terraform](https://www.linkedin.com/learning/certificates/c6944607a181cca2c106a9b998d57286a1238d07f8fae3f50f60b5f6ddb8e04b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D) | Learn Terraform which is a DevOps tool for infrastructure as code.     | [View on Linkedin](https://www.linkedin.com/learning/certificates/c6944607a181cca2c106a9b998d57286a1238d07f8fae3f50f60b5f6ddb8e04b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D) |
+| Continuous Delivery/Continuous Integration                | Learn about (CI/CD), and constructing my own CI/CD pipeline.            | [View on Linkedin](https://www.linkedin.com/learning/certificates/bf98a037e5c91f0343a50260796562fd75720d54fb224695066c30c7c7cf67dd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D) |
+| Git from Scratch ... | GitOps                               | Learn Version control—the practice of tracking and managing changes to software code. | [View on Linkedin](https://www.linkedin.com/learning/certificates/059ebf0667b36f13dd294a96525e09a0af9ae11ddbbe2e55b6b90ef817682d82?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D) |
+
 
 ## All my Specialization
 
