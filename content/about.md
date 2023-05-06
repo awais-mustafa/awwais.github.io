@@ -26,6 +26,6 @@ You can checkout [<u>Archive</u>](http://awaismustafa.com/archives) to get a lis
 <details>
   <summary>Other Pages you can visit...</summary>
   
- - [<u>Favorite Quotes</u>](http://awaismustafa.com/blog/fquotes/)
+  [<u>Favorite Quotes</u>](http://awaismustafa.com/blog/fquotes/)
   
 </details>
