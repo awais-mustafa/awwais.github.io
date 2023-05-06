@@ -1,7 +1,7 @@
 ---
 title: "SimonGame"
 description: "A Simple Game fule for that is follow the lights as you can"
-dateString: 2022-09-15T11:30:03+00:00
+date: 2022-09-15T11:30:03+00:00
 draft: false
 tags: ["Web Development"]
 showToc: false
