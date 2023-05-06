@@ -32,7 +32,7 @@ menu:
       weight: 30
     - identifier: Archieve
       name: Archieve
-      url: /archieve
+      url: /archives
       weight: 40
     - identifier: search
       name: Search
