@@ -16,11 +16,12 @@ draft: false
 ---
 ## AWS Specialization
 
-| Certificate | Description |
-| --- | --- |
-| [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/ETR94TV3UN3C) | Learn how to use several AWS compute services, including Amazon EC2, AWS Lambda, and Amazon ECS. |
-| [AWS: Migrating to the Cloud](https://www.coursera.org/account/accomplishments/certificate/BZLA5R2MCSFC) | Learn how to migrate to the cloud. It means moving computer stuff to the internet, which can save money and improve performance. |
-| [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/account/accomplishments/certificate/QVJQ2HDG5U8Z) | Learn how to build serverless applications on AWS. |
+| Certificate                                  | Description                                                                                  | Verification                                                                      |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| AWS Cloud Technical Essentials               | Learn how to use several AWS compute services, including Amazon EC2, AWS Lambda, and Amazon ECS | [View on Coursera](https://www.coursera.org/account/accomplishments/certificate/ETR94TV3UN3C) |
+| AWS : Migrating to the Cloud                  | Learn how to Migrate to the Cloud. It means moving computer stuff to the internet, which can save money and improve performance. | [View on Coursera](https://www.coursera.org/account/accomplishments/certificate/BZLA5R2MCSFC) |
+| AWS Fundamentals: Building Serverless Applications | Learn how to build Serverless applications on AWS.                                           | [View on Coursera](https://www.coursera.org/account/accomplishments/certificate/QVJQ2HDG5U8Z) |
+
 
 ## Linkedin Learning
 
