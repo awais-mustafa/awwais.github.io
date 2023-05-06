@@ -52,7 +52,7 @@ flex-wrap: wrap;
 justify-content: space-between;
 margin-top: 50px;
 }
-
+//awais
 .certificate {
 flex-basis: calc(33.33% - 20px);
 background-color: #000; /* light gray */
