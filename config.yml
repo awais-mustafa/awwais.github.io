@@ -119,7 +119,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my website, I am [Awais], undergrad student of Computer Science at the [University of Malakand](https://uom.edu.pk/). 
+    Content: Welcome to my website, I am [Awais](), undergrad student of Computer Science at the [University of Malakand](https://uom.edu.pk/). 
 
   
 
