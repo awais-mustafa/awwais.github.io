@@ -1,7 +1,7 @@
 ---
 title: "Meme App"
 description: "A App full of new Memes!"
-dateString: March 2022 - April 2022
+date: March 2022 - April 2022
 draft: false
 tags: ["My App"]
 showToc: false
