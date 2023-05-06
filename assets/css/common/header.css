@@ -8,13 +8,6 @@
     line-height: var(--header-height);
 }
 
-.sticky-header {
-    position: fixed;
-    z-index: 9999;
-    width: 100%;
-    background-color: var(--theme);
-}
-
 .nav a {
     display: block;
 }
@@ -34,17 +27,13 @@
     font-weight: 700;
 }
 
-.logo a img {
+.logo a img, .logo a svg {
     display: inline;
     vertical-align: middle;
     pointer-events: none;
     transform: translate(0, -10%);
     border-radius: 6px;
     margin-inline-end: 8px;
-}
-
-#theme-toggle svg {
-    height: 18px;
 }
 
 button#theme-toggle {
