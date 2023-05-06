@@ -8,7 +8,7 @@ date: 2020-09-15T11:30:03+00:00
 
 Hi, I’m Awais. I’m from Pakistan. 
 
-I'm currently an undergraduate student studying @ [<u>Computer Science at the University of Malakand</u>](http://uom.edu.pk), since November 2021..
+I'm currently an undergraduate student studying @ [<u>Computer Science at the University of Malakand</u>](http://uom.edu.pk), since November 2021.
 ![Image](awais.png)
 <img src="/awais.png" alt="Image Description" style="width: 100px; height: 120px;">
 
