@@ -1,7 +1,8 @@
 ---
 title: Little bit About My Website
 description: ""
-dateString: Feb 2022
+date: 2021-11-15T11:30:03+00:00
+dateString: Nov 2021
 draft: false
 tags: ["Myself"]
 weight: 102
