@@ -1,6 +1,6 @@
 baseURL: "http://awaismustafa.com"
 languageCode: en-us
-title: awaismustafa.com
+title: Awais Mustafa
 paginate: 6
 
 theme: PaperMod
@@ -57,7 +57,7 @@ params:
   # theme
   showToc: true
   TocOpen: false
-  title: awaismustafa.com
+  title: AwaisMustafa
 
 
 #   images: ["<link or path of image for opengraph, twitter-cards>"]
