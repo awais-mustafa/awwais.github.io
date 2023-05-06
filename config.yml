@@ -10,11 +10,11 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-PGLCBXZXQR
+
 
 minify:
   disableXML: true
-  minifyOutput: false
+  minifyOutput: true
  
 
     
