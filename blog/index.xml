@@ -13,21 +13,21 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Dec 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://awaismustafa.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>All My Certificates</title>
+      <link>http://awaismustafa.com/blog/certification/</link>
+      <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://awaismustafa.com/blog/certification/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
       <title>NFS Server: A Complete Guide to Setting Up and Configuring</title>
       <link>http://awaismustafa.com/blog/nfssetup/</link>
       <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
       
       <guid>http://awaismustafa.com/blog/nfssetup/</guid>
       <description>NFS Setup Guide in 2 minutes by Awais Mustafa</description>
-    </item>
-    
-    <item>
-      <title>All My Certificates</title>
-      <link>http://awaismustafa.com/blog/certification/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://awaismustafa.com/blog/certification/</guid>
-      <description> </description>
     </item>
     
     <item>
