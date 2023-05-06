@@ -53,40 +53,11 @@ params:
   description: "This is Awais Mustafa Website, where Awais Showcase His Projects, Blogs, and messy Thoughts. "
   keywords: [Awais Blog,Awais Portfolio, Awais,Awais Mustafa blog,Awais Mustafa portfolio,awais,awais mustafa,awais blog,awais portfolio,Awwais,awwais,AwaisMustafa,awais devops,awais cloud,awais website,awwais.me, AI]
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+#   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
-  disableThemeToggle: false
-
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  showtoc: false
-  tocopen: false
-
-
-  label:
-    text: "@waismustafa.com"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
-
-
-
-
-
-
   disableThemeToggle: false
 
   ShowReadingTime: false
@@ -112,6 +83,19 @@ params:
     favicon32x32: "awwais.me/favicon-32x32.png"
     apple_touch_icon: "awwais.me/apple-touch-icon.png"
     safari_pinned_tab: "<link / abs url>"
+
+
+  label:
+    text: "@waismustafa.com"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+
+
+
+
+
+
 
 
 
