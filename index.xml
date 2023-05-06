@@ -1,131 +1,131 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Awais Mustafa</title>
-    <link>http://awaismustafa.com/</link>
-    <description>Recent content on Awais Mustafa</description>
+    <title>awaismustafa.com</title>
+    <link>https://awaismustafa.com/</link>
+    <description>Recent content on awaismustafa.com</description>
     <image>
-      <title>Awais Mustafa</title>
-      <url>http://awaismustafa.com/blog/awais.jpg</url>
-      <link>http://awaismustafa.com/blog/awais.jpg</link>
+      <title>awaismustafa.com</title>
+      <url>https://awaismustafa.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://awaismustafa.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://awaismustafa.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://awaismustafa.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All My Certificates</title>
-      <link>http://awaismustafa.com/blog/certification/</link>
+      <link>https://awaismustafa.com/blog/certification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/blog/certification/</guid>
+      <guid>https://awaismustafa.com/blog/certification/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>NFS Server: A Complete Guide to Setting Up and Configuring</title>
-      <link>http://awaismustafa.com/blog/nfssetup/</link>
+      <link>https://awaismustafa.com/blog/nfssetup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/blog/nfssetup/</guid>
+      <guid>https://awaismustafa.com/blog/nfssetup/</guid>
       <description>NFS Setup Guide in 2 minutes by Awais Mustafa</description>
     </item>
     
     <item>
       <title>Little bit About My Website</title>
-      <link>http://awaismustafa.com/blog/littlebit/</link>
+      <link>https://awaismustafa.com/blog/littlebit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/blog/littlebit/</guid>
+      <guid>https://awaismustafa.com/blog/littlebit/</guid>
       <description>Highligthing the result I intend to place the results of various works on this webpage, highlighting the results of mini projects, ongoing projects, and more. So, for those who are reading, thank you!
 All of the work that I have been doing over the year,and months been extremely fun, eye opening, and a great experience altogether! #comments About Me A little bit about me. I love watching TV; Hopefully, that doesn&amp;rsquo;t scare you.</description>
     </item>
     
     <item>
       <title>My Terminal</title>
-      <link>http://awaismustafa.com/projects/terminal/</link>
+      <link>https://awaismustafa.com/projects/terminal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/projects/terminal/</guid>
+      <guid>https://awaismustafa.com/projects/terminal/</guid>
       <description>WebTerminal</description>
     </item>
     
     <item>
       <title>SnowBorder Game</title>
-      <link>http://awaismustafa.com/projects/unityproject/</link>
+      <link>https://awaismustafa.com/projects/unityproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/projects/unityproject/</guid>
+      <guid>https://awaismustafa.com/projects/unityproject/</guid>
       <description>A SnowBoarder  web application game built using Unity</description>
     </item>
     
     <item>
       <title>DrumKit</title>
-      <link>http://awaismustafa.com/projects/drumkit/</link>
+      <link>https://awaismustafa.com/projects/drumkit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/projects/drumkit/</guid>
+      <guid>https://awaismustafa.com/projects/drumkit/</guid>
       <description>Drumkit in your browser!</description>
     </item>
     
     <item>
       <title>TinDog Website</title>
-      <link>http://awaismustafa.com/projects/tindog/</link>
+      <link>https://awaismustafa.com/projects/tindog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/projects/tindog/</guid>
+      <guid>https://awaismustafa.com/projects/tindog/</guid>
       <description>I Make Simple Website using Html,CSS, and BootStrap</description>
     </item>
     
     <item>
       <title>Meme App</title>
-      <link>http://awaismustafa.com/projects/memeapp/</link>
+      <link>https://awaismustafa.com/projects/memeapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/projects/memeapp/</guid>
+      <guid>https://awaismustafa.com/projects/memeapp/</guid>
       <description>A App full of new Memes!</description>
     </item>
     
     <item>
       <title>SimonGame</title>
-      <link>http://awaismustafa.com/projects/simongame/</link>
+      <link>https://awaismustafa.com/projects/simongame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/projects/simongame/</guid>
+      <guid>https://awaismustafa.com/projects/simongame/</guid>
       <description>A Simple Game fule for that is follow the lights as you can</description>
     </item>
     
     <item>
       <title>Todo List App</title>
-      <link>http://awaismustafa.com/projects/todo-list-app/</link>
+      <link>https://awaismustafa.com/projects/todo-list-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/projects/todo-list-app/</guid>
+      <guid>https://awaismustafa.com/projects/todo-list-app/</guid>
       <description>A Todo list web application built using React</description>
     </item>
     
     <item>
       <title>TemplateWebsite</title>
-      <link>http://awaismustafa.com/projects/template/</link>
+      <link>https://awaismustafa.com/projects/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/projects/template/</guid>
+      <guid>https://awaismustafa.com/projects/template/</guid>
       <description>!</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://awaismustafa.com/home/a/</link>
+      <link>https://awaismustafa.com/home/a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/home/a/</guid>
+      <guid>https://awaismustafa.com/home/a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact Me</title>
-      <link>http://awaismustafa.com/contact/</link>
+      <link>https://awaismustafa.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/contact/</guid>
+      <guid>https://awaismustafa.com/contact/</guid>
       <description> </description>
     </item>
     

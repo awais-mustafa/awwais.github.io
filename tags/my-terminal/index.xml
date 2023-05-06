@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My Terminal on Awais Mustafa</title>
-    <link>http://awaismustafa.com/tags/my-terminal/</link>
-    <description>Recent content in My Terminal on Awais Mustafa</description>
+    <title>My Terminal on awaismustafa.com</title>
+    <link>https://awaismustafa.com/tags/my-terminal/</link>
+    <description>Recent content in My Terminal on awaismustafa.com</description>
     <image>
-      <title>Awais Mustafa</title>
-      <url>http://awaismustafa.com/blog/awais.jpg</url>
-      <link>http://awaismustafa.com/blog/awais.jpg</link>
+      <title>awaismustafa.com</title>
+      <url>https://awaismustafa.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://awaismustafa.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://awaismustafa.com/tags/my-terminal/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://awaismustafa.com/tags/my-terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Terminal</title>
-      <link>http://awaismustafa.com/projects/terminal/</link>
+      <link>https://awaismustafa.com/projects/terminal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/projects/terminal/</guid>
+      <guid>https://awaismustafa.com/projects/terminal/</guid>
       <description>WebTerminal</description>
     </item>
     

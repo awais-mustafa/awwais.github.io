@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My Game on Awais Mustafa</title>
-    <link>http://awaismustafa.com/tags/my-game/</link>
-    <description>Recent content in My Game on Awais Mustafa</description>
+    <title>My Game on awaismustafa.com</title>
+    <link>https://awaismustafa.com/tags/my-game/</link>
+    <description>Recent content in My Game on awaismustafa.com</description>
     <image>
-      <title>Awais Mustafa</title>
-      <url>http://awaismustafa.com/blog/awais.jpg</url>
-      <link>http://awaismustafa.com/blog/awais.jpg</link>
+      <title>awaismustafa.com</title>
+      <url>https://awaismustafa.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://awaismustafa.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://awaismustafa.com/tags/my-game/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://awaismustafa.com/tags/my-game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SnowBorder Game</title>
-      <link>http://awaismustafa.com/projects/unityproject/</link>
+      <link>https://awaismustafa.com/projects/unityproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/projects/unityproject/</guid>
+      <guid>https://awaismustafa.com/projects/unityproject/</guid>
       <description>A SnowBoarder  web application game built using Unity</description>
     </item>
     
