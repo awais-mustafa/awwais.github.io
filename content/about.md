@@ -14,13 +14,10 @@ You can checkout [<u>Archive</u>](http://awaismustafa.com/archives) to get a lis
 
 ○ [<u>ContactMe</u>](http://awaismustafa.com/contact)
 
-○ Few Interesting pages:
-
-   • [<u>Link Tree</u>](http://awaismustafa.com/links) for all my social media profiles.
-
-   • [<u>Personal Projects</u>](http://awaismustafa.com/projects) built in free time and during weekends.
-   
-   • [<u>Education</u>](http://awaismustafa.com/blog/certification/) and Certifications which includes courses completed.
+- ○ Few Interesting pages:
+    - • [<u>Link Tree</u>](http://awaismustafa.com/links) for all my social media profiles.
+    - • [<u>Personal Projects</u>](http://awaismustafa.com/projects) built in free time and during weekends.
+    - • [<u>Education</u>](http://awaismustafa.com/blog/certification/) and Certifications which includes courses completed.
 
 <details>
   <summary>Other Pages you can visit...</summary>
