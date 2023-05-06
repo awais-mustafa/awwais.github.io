@@ -20,4 +20,4 @@ You can checkout [<u>Archive</u>](http://awaismustafa.com/archives) to get a lis
 
    • [<u>Personal Projects</u>](http://awaismustafa.com/projects) built in free time and during weekends.
    
-   • [<u>Education</u>](http://awaismustafa.com/projects) and Certifications which includes courses completed.
+   • [<u>Education</u>](http://awaismustafa.com/blog/certification/) and Certifications which includes courses completed.
