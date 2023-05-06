@@ -91,7 +91,7 @@ params:
 
   # for enchanced SEO
   env: production
-  title: @awaismustafa.com 
+  title: awaismustafa.com 
   description: "This is Awais Mustafa Website, where Awais Showcase His Projects, Blogs, and messy Thoughts. "
   keywords: [Awais Blog,Awais Portfolio, Awais,Awais Mustafa blog,Awais Mustafa portfolio,awais,awais mustafa,awais blog,awais portfolio,Awwais,awwais,AwaisMustafa,awais devops,awais cloud,awais website,awwais.me, AI]
 #   author: Awais
