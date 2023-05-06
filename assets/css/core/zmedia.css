@@ -1,4 +1,4 @@
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
     /* theme-vars */
     :root {
         --gap: 14px;
@@ -59,4 +59,87 @@
     #searchResults li:active {
         transform: none;
     }
+}
+ */
+
+
+
+@media screen and (max-width: 768px) {
+  /* theme-vars */
+  :root {
+    --gap: 14px;
+  }
+
+  /* profile-mode */
+  .profile img {
+    transform: scale(0.85);
+    border-radius: 50%; /* Add a circular border to the profile image */
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2); /* Add a subtle box shadow */
+  }
+
+  /* post-entry */
+  .first-entry {
+    min-height: 260px;
+    background-color: #f8f8f8; /* Add a light background color to the first entry */
+    padding: 20px; /* Add some padding to the first entry */
+    border-radius: 4px; /* Add rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a shadow effect */
+  }
+
+  /* archive */
+  .archive-month {
+    flex-direction: column;
+    align-items: flex-start; /* Align the months to the left */
+  }
+
+  .archive-year {
+    margin-top: 20px;
+    font-weight: bold; /* Make the year text bold */
+  }
+
+  /* footer */
+  .footer {
+    padding: calc((var(--footer-height) - var(--gap) - 10px) / 2) var(--gap);
+    background-color: #f0f0f0; /* Add a light background color to the footer */
+  }
+
+  .main {
+    padding-top: calc(var(--header-height) * 2 + var(--gap));
+  }
+}
+
+@media screen and (min-width: 768px) {
+  /* reset */
+  ::-webkit-scrollbar {
+    width: 19px;
+    height: 11px;
+    background-color: #f0f0f0; /* Add a background color to the scrollbar */
+    border-radius: 8px; /* Add rounded corners to the scrollbar */
+  }
+}
+
+/* footer */
+@media screen and (max-width: 900px) {
+  .list .top-link {
+    transform: translateY(-5rem);
+    background-color: #eaeaea; /* Add a background color to the top link */
+    color: #333; /* Change the text color of the top link */
+    padding: 10px; /* Add some padding to the top link */
+    border-radius: 4px; /* Add rounded corners to the top link */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a shadow effect */
+  }
+}
+
+@media (prefers-reduced-motion) {
+  /* terms; profile-mode; post-single; post-entry; post-entry; search; search */
+  .terms-tags a:active,
+  .button:active,
+  .share-buttons svg:active,
+  .post-entry:active,
+  .top-link,
+  #searchResults .focus,
+  #searchResults li:active {
+    transform: none;
+    transition: none; /* Disable transitions for reduced motion */
+  }
 }
