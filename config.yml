@@ -151,7 +151,8 @@ params:
     - name: All my Links
       url: "http://awaismustafa.com/links"
       
-  # text search
+  # for search
+  # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
