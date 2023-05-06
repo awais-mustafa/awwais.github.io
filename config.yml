@@ -119,7 +119,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Passionate DevOps Engineer and Developer with a keen interest in DevSecOps, cloud computing, reverse engineering, and programming. Enthusiastic about command line tools, open-source software, and a strong advocate for incorporating security into the development process [Read more](http://awaismustafa.com/about).
+    Content: [~]$ whoami? Passionate DevOps Engineer and Developer with a keen interest in DevSecOps, cloud computing, reverse engineering, and programming. Enthusiastic about command line tools, open-source software, and a strong advocate for incorporating security into the development process [Read more](http://awaismustafa.com/about).
 
 
 
