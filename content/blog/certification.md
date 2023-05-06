@@ -30,11 +30,12 @@ draft: false
 | [Continuous Delivery/Continuous Integration](https://www.linkedin.com/learning/certificates/bf98a037e5c91f0343a50260796562fd75720d54fb224695066c30c7c7cf67dd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D) | Learn about CI/CD (Continuous Integration/Continuous Delivery) and construct your own CI/CD pipeline. |
 | [Git from Scratch ... | GitOps](https://www.linkedin.com/learning/certificates/059ebf0667b36f13dd294a96525e09a0af9ae11ddbbe2e55b6b90ef817682d82?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D) | Learn version control, which is the practice of tracking and managing changes to software code. |
 
-## All my Specializations
+## All my Specialization
 
-| Certificate | Description |
-| --- | --- |
-| [DevOps on AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/E2MLQKR8BS7C) | Learn how to use the combination of DevOps philosophies, practices, and tools to develop, deploy, and maintain applications in the AWS Cloud. |
-| [IBM Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/CJ4TF4RSB72F
-plishments/specialization/certificate/B3R7U9S2F5G) | Learn core AWS services and key AWS security concepts. Learn how to design, deploy, and operate highly available, cost-effective, and secure applications on AWS. |
+| Specialization     | Description                                                                                                              | Verification                                                                                                             |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| DevOps on AWS      | Learn how to use the combination of DevOps philosophies, practices, and tools to develop, deploy, and maintain applications in the AWS Cloud.                                     | [Verify on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/E2MLQKR8BS7C)          |
+| IBM Certified      | Learn Linux and Private Cloud Administration on IBM Power Systems. Learn to get started with Linux, to using Linux in a large cloud environment.                                    | [Verify on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/CJ4TF4RSB72F)          |
+| AWS Fundamentals   | Learn core AWS services and key AWS security concepts. Learn how to build and deploy serverless applications with AWS.   | [Verify on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/V82H7FPZWQ3C)          |
+
 
