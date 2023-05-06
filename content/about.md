@@ -12,9 +12,9 @@ Currently undergrad student of @ [<u>computer science at University of Malakand<
 This is a personal blog to share about stuff I learn, which also serves as a portfolio.
 You can checkout [<u>Archive</u>](http://awaismustafa.com/archives) to get a list of posts or can use [<u>Search</u>](http://awaismustafa.com/search) / [<u>Tags</u>](http://awaismustafa.com/tags) to find pages about specific keywords.
 
-◦ [<u>ContactMe</u>](http://awaismustafa.com/contact)
+○ [<u>ContactMe</u>](http://awaismustafa.com/contact)
 
-◦ Few Interesting pages:
-    [<u>Link Tree</u>](http://awaismustafa.com/links) for all my social media profiles.
-    [<u>Personal Projects</u>](http://awaismustafa.com/projects) built in free time and during weekends.
-    [<u>Education</u>](http://awaismustafa.com/projects) and Certifications which includes courses completed.
+○ Few Interesting pages:
+   • [<u>Link Tree</u>](http://awaismustafa.com/links) for all my social media profiles.
+   • [<u>Personal Projects</u>](http://awaismustafa.com/projects) built in free time and during weekends.
+   • [<u>Education</u>](http://awaismustafa.com/projects) and Certifications which includes courses completed.
