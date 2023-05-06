@@ -18,7 +18,7 @@
       <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
       
       <guid>http://awaismustafa.com/blog/certification/</guid>
-      <description>&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;UTF-8&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width, initial-scale=1.0&amp;#34;&amp;gt; &amp;lt;style&amp;gt; body { background-color: #000; color: #333; /* font-family: Arial, sans-serif; */ font-size: 16px; line-height: 1.5; margin: 0; padding: 0; } .container { max-width: 1200px; margin: 0 auto; padding: 50px; border: 5px solid #0077b5; border-style: solid;	} .certificates { display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 50px; } //awais .certificate { flex-basis: calc(33.33% - 20px); background-color: #000; /* light gray */ color: #0000ff; margin-bottom: 40px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.</description>
+      <description>AWS Specialization Certificate Description AWS Cloud Technical Essentials Learn how to use several AWS compute services, including Amazon EC2, AWS Lambda, and Amazon ECS. AWS: Migrating to the Cloud Learn how to migrate to the cloud. It means moving computer stuff to the internet, which can save money and improve performance. AWS Fundamentals: Building Serverless Applications Learn how to build serverless applications on AWS. Linkedin Learning Certificate Description Linkedin: Learning Terraform Learn Terraform, which is a DevOps tool for infrastructure as code.</description>
     </item>
     
   </channel>
