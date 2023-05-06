@@ -27,18 +27,6 @@
     .footer {
         padding: calc((var(--footer-height) - var(--gap) - 10px) / 2) var(--gap);
     }
-
-    .main {
-        padding-top: calc(var(--header-height) * 2 + var(--gap));
-    }
-}
-
-@media screen and (min-width: 768px) {
-    /* reset */
-    ::-webkit-scrollbar {
-        width: 19px;
-        height: 11px;
-    }
 }
 
 /* footer */
@@ -52,7 +40,6 @@
     /* terms; profile-mode; post-single; post-entry; post-entry; search; search */
     .terms-tags a:active,
     .button:active,
-    .share-buttons svg:active,
     .post-entry:active,
     .top-link,
     #searchResults .focus,
@@ -60,7 +47,3 @@
         transform: none;
     }
 }
- 
-
-
-
