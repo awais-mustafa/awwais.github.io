@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Sep 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://awaismustafa.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://awaismustafa.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Terminal</title>
       <link>http://awaismustafa.com/projects/terminal/</link>
@@ -51,7 +51,7 @@
     <item>
       <title>SimonGame</title>
       <link>http://awaismustafa.com/projects/simongame/</link>
-      <pubDate>Thu, 15 Sep 2022 11:30:03 +0000</pubDate>
+      <pubDate>Mon, 15 Aug 2022 11:30:03 +0000</pubDate>
       
       <guid>http://awaismustafa.com/projects/simongame/</guid>
       <description>A Simple Game fule for that is follow the lights as you can</description>
