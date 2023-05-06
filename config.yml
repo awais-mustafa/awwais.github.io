@@ -53,7 +53,7 @@ menu:
 
 params:
 
-
+  atSymbol: "@"
   # theme
   showToc: true
   TocOpen: false
