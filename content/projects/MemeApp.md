@@ -7,6 +7,24 @@ draft: false
 tags: ["My App"]
 showToc: false
 weight: 204
+
+
+hidemeta: false
+comments: false
+description: "Desc Text."
+
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+UseHugoToc: false
+summary: Make Meme App that show's only Memes
+
 cover:
     image: "projects/memesApp/memesAppCover1.webp"
 --- 
