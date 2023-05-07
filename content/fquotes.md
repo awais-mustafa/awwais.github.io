@@ -1,1 +1,56 @@
+---
+title: "About Me"
+summary: About Me
+showtoc: false
+ShowShareButtons: false
 
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Favorite Quotes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f1f1f1;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .quote {
+      background-color: #fff;
+      border-radius: 5px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Favorite Quotes</h1>
+
+  <div class="quote">
+    <p>"The only way to do great work is to love what you do." - Steve Jobs</p>
+  </div>
+
+  <div class="quote">
+    <p>"Quality is not an act, it is a habit." - Aristotle</p>
+  </div>
+
+  <div class="quote">
+    <p>"The web is more a social creation than a technical one. I designed it for a social effect—to help people work together—and not as a technical toy." - Tim Berners-Lee</p>
+  </div>
+
+  <div class="quote">
+    <p>"It's not just about making things look good; it's about creating an experience." - Unknown</p>
+  </div>
+
+  <div class="quote">
+    <p>"Simplicity is the ultimate sophistication." - Leonardo da Vinci</p>
+  </div>
+
+  <div class="quote">
+    <p>"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." - Antoine de Saint-Exupéry</p>
+  </div>
+</body>
+</html>
