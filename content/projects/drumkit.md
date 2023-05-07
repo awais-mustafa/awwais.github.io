@@ -7,6 +7,21 @@ draft: false
 tags: ["Web Development"]
 showToc: false
 weight: 202
+
+author: "Awais Mustafa"
+hidemeta: false
+comments: false
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+UseHugoToc: false
+summary: "JavaScript,and Jquery Project: DrumKit"
+
 cover:
     image: "projects/DrumKit/DrumKitCover1.webp"
 --- 
