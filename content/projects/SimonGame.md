@@ -7,6 +7,22 @@ draft: false
 tags: ["Web Development"]
 showToc: false
 weight: 204
+
+hidemeta: false
+comments: false
+
+
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+UseHugoToc: false
+summary: Followed the Pattern: Game
 cover:
     image: "projects/simonGame/simongamecover.webp"
 
