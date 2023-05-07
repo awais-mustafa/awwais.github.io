@@ -1,7 +1,7 @@
 ---
 title: "NFS Server: A Complete Guide to Setting Up and Configuring"
 date: 2022-12-15T11:30:03+00:00
-dateString: Dec 4,2022 .
+dateString: Dec 4, 2022  ◦
 weight: 101
 tags: ["Practical Devops"]
 showToc: true
