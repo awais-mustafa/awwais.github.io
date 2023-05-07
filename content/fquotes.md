@@ -1,8 +1,8 @@
 ---
-title: "Favorite Quotes
-summary: Favorite Quotes
-showtoc: false
-ShowShareButtons: false
+title: Favorite Quotes
+showToc: false
+draft: false
+
 
 ---
 
