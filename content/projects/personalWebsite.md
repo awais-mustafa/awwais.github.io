@@ -28,4 +28,4 @@ summary: Made with 💗
 
 > ❝  Made with 💗. ❞
 > 
-> ~ Awais Mustafa.
+> ~ by Awais Mustafa.
