@@ -26,6 +26,6 @@ summary: Made with 💗
 
 ---
 
-> ❝  Made with 💗. ❞
+> ❝  Made with 💗 ❞
 > 
 > ~ by Awais Mustafa.
