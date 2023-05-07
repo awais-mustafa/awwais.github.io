@@ -2,7 +2,7 @@
 title: "Meme App"
 description: "A App full of new Memes!"
 date: 2022-05-15T11:30:03+00:00
-dateString: May 2022
+dateString: May 6, 2022  ◦
 draft: false
 tags: ["My App"]
 showToc: false
