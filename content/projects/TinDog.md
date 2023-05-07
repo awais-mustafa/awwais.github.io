@@ -2,7 +2,7 @@
 title: "TinDog Website"
 description: "I Make Simple Website using Html,CSS, and BootStrap"
 date: 2022-02-15T11:30:03+00:00
-dateString: Feb 2022
+dateString: Feb 4, 2022  ◦
 draft: false
 tags: [ "Web Development"]
 showToc: false
