@@ -21,5 +21,14 @@
       <description>AWS Specialization Certificate Description Verification AWS Cloud Technical Essentials Learn how to use several AWS compute services, including Amazon EC2, AWS Lambda, and Amazon ECS View on Coursera AWS : Migrating to the Cloud Learn how to Migrate to the Cloud. It means moving computer stuff to the internet, which can save money and improve performance. View on Coursera AWS Fundamentals: Building Serverless Applications Learn how to build Serverless applications on AWS.</description>
     </item>
     
+    <item>
+      <title>Education and Certifications</title>
+      <link>http://awaismustafa.com/blog/cer/</link>
+      <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
+      
+      <guid>http://awaismustafa.com/blog/cer/</guid>
+      <description>&lt;!DOCTYPE html&gt; Organization Course/Certificate Badge Obtained Expiration Certificate AWS AWS Cloud Technical Essentials - - 🪪 Here AWS AWS : Migrating to the Cloud - - 🪪 Here AWS AWS Fundamentals: Building Serverless Applications - - 🪪 Here Linkedin Learning Terraform - - - 🪪 Here Linkedin Continuous Delivery/Continuous Integration - - - 🪪 Here Linkedin Git from Scratch ...GitOps - - - 🪪 Here DevOps on AWS Learn how to use the combination of DevOps philosophies, practices, and tools to develop, deploy, and maintain applications in the AWS Cloud.</description>
+    </item>
+    
   </channel>
 </rss>
