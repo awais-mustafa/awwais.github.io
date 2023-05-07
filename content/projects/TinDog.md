@@ -7,6 +7,20 @@ draft: false
 tags: [ "Web Development"]
 showToc: false
 weight: 203
+
+hidemeta: false
+comments: false
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+UseHugoToc: false
+summary: Website for dog Startup
+
 cover:
     image: "projects/tinDog/tindogCover3.webp"
 
