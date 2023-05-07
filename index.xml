@@ -120,15 +120,6 @@
       <description>About Me</description>
     </item>
     
-    <item>
-      <title>About Me</title>
-      <link>http://awaismustafa.com/fquotes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://awaismustafa.com/fquotes/</guid>
-      <description>About Me</description>
-    </item>
-    
     
     <item>
       <title>Contact Me</title>
@@ -137,6 +128,17 @@
       
       <guid>http://awaismustafa.com/contact/</guid>
       <description> </description>
+    </item>
+    
+    <item>
+      <title>Favorite Quotes</title>
+      <link>http://awaismustafa.com/fquotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://awaismustafa.com/fquotes/</guid>
+      <description>❝ The more I learn, the more I realise how much I don&amp;rsquo;t know. ❞ ~ Albert Einstein
+❝ True Independence and Freedom can only exist in doing what&amp;rsquo;s right ❞ ~ Birgham Young
+❝ The reason most people never reach their goals is that they don&amp;rsquo;t define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them.</description>
     </item>
     
     
