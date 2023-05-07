@@ -82,8 +82,7 @@ ghi -->
       <td>-</td>
       <td><a href="https://www.coursera.org/account/accomplishments/certificate/QVJQ2HDG5U8Z" target="_blank">View on Coursera</a></td>
     </tr>
-     
-     <tr>
+    <tr>
       <td>Linkedin</td>
       <td>Learning Terraform</td>
       <td>-</td>
@@ -107,10 +106,7 @@ ghi -->
       <td>-</td>
       <td><a href="https://www.linkedin.com/learning/certificates/059ebf0667b36f13dd294a96525e09a0af9ae11ddbbe2e55b6b90ef817682d82?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D" target="_blank">View on Linkedin</a></td>
     </tr>
-     
-     
-     
-      <tr>
+    <tr>
       <td>DevOps on AWS</td>
       <td>Learn how to use the combination of DevOps philosophies, practices, and tools to develop, deploy, and maintain applications in the AWS Cloud.</td>
       <td>-</td>
@@ -134,9 +130,6 @@ ghi -->
       <td>-</td>
       <td><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V82H7FPZWQ3C" target="_blank">Verify on Coursera</a></td>
     </tr>
-     
-     
-     
   </tbody>
 </table>
 
