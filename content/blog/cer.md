@@ -64,7 +64,7 @@ ghi -->
       <td></td>
       <td>-</td>
       <td>-</td>
-      <td><a href="https://www.coursera.org/account/accomplishments/certificate/ETR94TV3UN3C" target="_blank">View on Coursera</a></td>
+      <td><a href="https://www.coursera.org/account/accomplishments/certificate/ETR94TV3UN3C" target="_blank">🪪 Here</a></td>
     </tr>
     <tr>
       <td>AWS</td>
@@ -72,7 +72,7 @@ ghi -->
       <td></td>
       <td>-</td>
       <td>-</td>
-      <td><a href="https://www.coursera.org/account/accomplishments/certificate/BZLA5R2MCSFC" target="_blank">View on Coursera</a></td>
+      <td><a href="https://www.coursera.org/account/accomplishments/certificate/BZLA5R2MCSFC" target="_blank">🪪 Here</a></td>
     </tr>
     <tr>
       <td>AWS</td>
@@ -80,7 +80,7 @@ ghi -->
       <td></td>
       <td>-</td>
       <td>-</td>
-      <td><a href="https://www.coursera.org/account/accomplishments/certificate/QVJQ2HDG5U8Z" target="_blank">View on Coursera</a></td>
+      <td><a href="https://www.coursera.org/account/accomplishments/certificate/QVJQ2HDG5U8Z" target="_blank">🪪 Here</a></td>
     </tr>
     <tr>
       <td>Linkedin</td>
@@ -88,7 +88,7 @@ ghi -->
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td><a href="https://www.linkedin.com/learning/certificates/c6944607a181cca2c106a9b998d57286a1238d07f8fae3f50f60b5f6ddb8e04b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D" target="_blank">View on Linkedin</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/c6944607a181cca2c106a9b998d57286a1238d07f8fae3f50f60b5f6ddb8e04b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D" target="_blank">🪪 Here</a></td>
     </tr>
     <tr>
       <td>Linkedin</td>
@@ -96,7 +96,7 @@ ghi -->
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td><a href="https://www.linkedin.com/learning/certificates/bf98a037e5c91f0343a50260796562fd75720d54fb224695066c30c7c7cf67dd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D" target="_blank">View on Linkedin</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/bf98a037e5c91f0343a50260796562fd75720d54fb224695066c30c7c7cf67dd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D" target="_blank">🪪 Here</a></td>
     </tr>
     <tr>
       <td>Linkedin</td>
@@ -104,7 +104,7 @@ ghi -->
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td><a href="https://www.linkedin.com/learning/certificates/059ebf0667b36f13dd294a96525e09a0af9ae11ddbbe2e55b6b90ef817682d82?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D" target="_blank">View on Linkedin</a></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/059ebf0667b36f13dd294a96525e09a0af9ae11ddbbe2e55b6b90ef817682d82?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvuF0iLC4SdyAJT9wuiyK1Q%3D%3D" target="_blank">🪪 Here</a></td>
     </tr>
     <tr>
       <td>DevOps on AWS</td>
@@ -112,7 +112,7 @@ ghi -->
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/E2MLQKR8BS7C" target="_blank">Verify on Coursera</a></td>
+      <td><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/E2MLQKR8BS7C" target="_blank">🪪 Here</a></td>
     </tr>
     <tr>
       <td>IBM Certified</td>
@@ -120,7 +120,7 @@ ghi -->
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CJ4TF4RSB72F" target="_blank">Verify on Coursera</a></td>
+      <td><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CJ4TF4RSB72F" target="_blank">🪪 Here</a></td>
     </tr>
     <tr>
       <td>AWS Fundamentals</td>
@@ -128,7 +128,7 @@ ghi -->
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V82H7FPZWQ3C" target="_blank">Verify on Coursera</a></td>
+      <td><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V82H7FPZWQ3C" target="_blank">🪪 Here</a></td>
     </tr>
   </tbody>
 </table>
