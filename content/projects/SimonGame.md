@@ -10,8 +10,6 @@ weight: 204
 
 hidemeta: false
 comments: false
-
-
 disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -22,7 +20,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: false
-summary: Followed the Pattern: Game
+summary: Followed the Pattern Game
 cover:
     image: "projects/simonGame/simongamecover.webp"
 
