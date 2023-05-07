@@ -11,7 +11,48 @@ ghi -->
 <html>
 <head>
   <style>
-  .dark-theme {
+    .dark-theme {
+  --background-color: #333333;
+  --text-color: #ffffff;
+  --header-background-color: #111111;
+  --row-background-color: #000000;
+  --border-color: #ffffff;
+  --link-color: #33aaff;
+}
+
+.certificates-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid var(--border-color); /* Add border to the table with white color */
+}
+
+.certificates-table th,
+.certificates-table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.certificates-table th {
+  background-color: var(--header-background-color);
+}
+
+.certificates-table tbody tr:nth-child(even) {
+  background-color: var(--row-background-color);
+}
+
+.certificates-table a {
+  text-decoration: none;
+  color: var(--link-color);
+}
+
+.certificates-table a:hover {
+  text-decoration: underline;
+}
+
+    
+    
+/*   .dark-theme {
   --background-color: #333333;
   --text-color: #ffffff;
   --header-background-color: #111111;
@@ -38,7 +79,7 @@ ghi -->
 
 .certificates-table tbody tr:nth-child(even) {
   background-color: var(--row-background-color);
-}
+} */
     </style>
 <!--   <style>
   body {
