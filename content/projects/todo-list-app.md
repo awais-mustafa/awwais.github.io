@@ -7,6 +7,20 @@ draft: false
 tags: ["Web Development"]
 showToc: false
 weight: 204
+
+author: "Awais Mustafa"
+hidemeta: false
+comments: false
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+UseHugoToc: false
+summary: TodoList common-based project make with the help of React.
 cover:
     image: "projects/todo-list-app/cover.webp"
 --- 
