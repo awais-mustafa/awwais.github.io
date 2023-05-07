@@ -9,6 +9,20 @@ tags: ["My Terminal"]
 showToc: false
 weight: 200
 
+
+author: "Awais Mustafa"
+hidemeta: false
+comments: false
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+UseHugoToc: false
+summary: Terminal Based Website
 cover:
     image: "/projects/Copy of awai.svg"
 ---
