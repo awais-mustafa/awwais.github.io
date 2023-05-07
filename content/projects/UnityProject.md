@@ -9,6 +9,19 @@ tags: ["My Game"]
 showToc: false
 weight: 201
 
+author: "Awais Mustafa"
+hidemeta: false
+comments: false
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+UseHugoToc: false
+summary: SnowBorder Game while learning Unity
 cover:
     image: "projects/SnowBorder/snowBorderCover1.webp"
 ---
