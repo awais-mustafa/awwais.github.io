@@ -1,7 +1,7 @@
 ---
 title: "NFS Server: A Complete Guide to Setting Up and Configuring"
 date: 2022-12-15T11:30:03+00:00
-dateString: Dec 2022
+dateString: Dec 4,2022 .
 weight: 101
 tags: ["Practical Devops"]
 showToc: true
@@ -9,6 +9,19 @@ TocOpen: false
 draft: false
 description: "NFS Setup Guide in 2 minutes by Awais Mustafa"
 
+author: "Awais Mustafa"
+hidemeta: false
+comments: false
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+UseHugoToc: false
+summary: How I setup my own NFS server?
     
 ---
   
