@@ -1,12 +1,8 @@
 ---
-title: "About Me"
-summary: About Me
+title: "Favorite Quotes
+summary: Favorite Quotes
 showtoc: false
 ShowShareButtons: false
-
----
-
-Favorite Quotes
 
 ---
 
