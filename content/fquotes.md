@@ -26,12 +26,18 @@ draft: false
 ---
 
 
+
 > ❝ You can't connect the dots looking forward; you can only connect them looking backward.❞
 > 
 > ~ [Steve Jobs]()
 
 ---
+> ❝ Focus on the game, not on the score.❞
+> 
+> ~ [Unknown]()
 
+
+---
 
 > ❝ "You are not a drop in the ocean. You are the entire ocean in a drop.❞
 > 
