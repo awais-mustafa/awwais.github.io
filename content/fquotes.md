@@ -14,9 +14,9 @@ draft: false
 
 
 
-> ❝ If you know the system well enough, you can do things that aren't supposed to be possible. ❞
+> ❝ When the roots are deep, there is no reason to fear the wind.❞
 > 
-> ~ [Linus Torvalds]()
+> ~ [Chinese Proverb ]()
 
 ---
 
