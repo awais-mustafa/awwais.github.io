@@ -25,9 +25,9 @@ draft: false
 
 ---
 
-> ❝ You can't connect the dots looking forward; you can only connect them looking backward.❞
+> ❝ "The darkest nights produce the brightest stars."❞
 > 
-> ~ [Steve Jobs]()
+> ~ [unknown
 
 ---
 
