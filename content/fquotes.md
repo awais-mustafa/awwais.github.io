@@ -27,7 +27,7 @@ draft: false
 
 > ❝ "The darkest nights produce the brightest stars."❞
 > 
-> ~ [unknown
+> ~ [unknown]()
 
 ---
 
