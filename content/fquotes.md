@@ -41,16 +41,16 @@ draft: false
 
 > ❝ You can't connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. You have to trust in something; your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life. ❞
 > 
-> ~ Steve Jobs
+> ~ [Steve Jobs]()
 
 ---
 
 > ❝ Arise, awake, and stop not till the goal is reached ❞
 > 
-> ~ Swami Vivekananda
+> ~ [Swami Vivekananda]()
 
 ---
 
 > ❝ Nothing in this world is difficult, but thinking makes it seem so. ❞
 > 
-> ~ Wu Cheng'en, Monkey: A Journey to the West
+> ~ [Wu Cheng'en, Monkey: A Journey to the West]()
