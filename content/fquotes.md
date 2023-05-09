@@ -32,6 +32,7 @@ draft: false
 > ~ [Steve Jobs]()
 
 ---
+
 > ❝ Focus on the game, not on the score.❞
 > 
 > ~ [Unknown]()
