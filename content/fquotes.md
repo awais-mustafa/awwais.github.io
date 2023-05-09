@@ -31,12 +31,7 @@ draft: false
 
 ---
 
-> ❝ Focus on the game, not on the score.❞
-> 
-> ~ [Unknown]()
 
-
----
 
 > ❝ "You are not a drop in the ocean. You are the entire ocean in a drop.❞
 > 
