@@ -28,6 +28,6 @@ draft: false
 ---
 
 
-> ❝ Nothing in this world is difficult, but thinking makes it seem so. ❞
+> ❝ "You are not a drop in the ocean. You are the entire ocean in a drop.❞
 > 
-> ~ [Wu Cheng'en, Monkey: A Journey to the West]()
+> ~ [Rumi]()
