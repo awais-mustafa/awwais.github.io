@@ -28,17 +28,7 @@ draft: false
 > 
 > ~ [Earl Nightingale]()
 
----
 
-> ❝ Persistence is very important. You should not give up unless you are forced to give up ❞
-> 
-> ~ [Elon Musk]()
-
----
-
-> ❝ Hard times create strong men, strong men create good times, good times create weak men, and weak men create hard times. ❞
-> 
-> ~ [G. Michael Hopf]()
 
 ---
 
@@ -48,11 +38,6 @@ draft: false
 
 ---
 
-> ❝ One of the basic rules of the universe is that nothing is perfect. Perfection simply doesn’t exist...without imperfection, neither you nor I would exist. ❞
-> 
-> ~ Stephen Hawking
-
----
 
 > ❝ You can't connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. You have to trust in something; your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life. ❞
 > 
