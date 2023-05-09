@@ -6,9 +6,9 @@ draft: false
 
 ---
 
-> ❝ The more I learn, the more I realise how much I don't know. ❞
+> ❝ Success is not for the weak; it is for the strong-willed, the determined, the relentless. ❞
 > 
-> ~ [Albert Einstein]()
+> ~ [Unknown]()
 
 ---
 
@@ -24,8 +24,6 @@ draft: false
 > ~ [Wayne Gretzky]()
 
 ---
-
-
 
 > ❝ You can't connect the dots looking forward; you can only connect them looking backward.❞
 > 
