@@ -8,43 +8,43 @@ draft: false
 
 > ❝ The more I learn, the more I realise how much I don't know. ❞
 > 
-> ~ Albert Einstein
+> ~ [Albert Einstein]()
 
 ---
 
 > ❝ True Independence and Freedom can only exist in doing what's right ❞
 > 
-> ~ Birgham Young
+> ~ [Birgham Young]()
 
 ---
 
 > ❝ The reason most people never reach their goals is that they don't define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them. ❞
 > 
-> ~ Denis Watley
+> ~ [Denis Watley]()
 
 ---
 
 > ❝ Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become a reality. ❞
 > 
-> ~ Earl Nightingale
+> ~ [Earl Nightingale]()
 
 ---
 
 > ❝ Persistence is very important. You should not give up unless you are forced to give up ❞
 > 
-> ~ Elon Musk
+> ~ [Elon Musk]()
 
 ---
 
 > ❝ Hard times create strong men, strong men create good times, good times create weak men, and weak men create hard times. ❞
 > 
-> ~ G. Michael Hopf
+> ~ [G. Michael Hopf]()
 
 ---
 
 > ❝ If you know the system well enough, you can do things that aren't supposed to be possible. ❞
 > 
-> ~ Linus Torvalds
+> ~ [Linus Torvalds]()
 
 ---
 
