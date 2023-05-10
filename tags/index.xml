@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Awais Mustafa</title>
-    <link>http://awaismustafa.com/tags/</link>
+    <link>https://awaismustafa.com/tags/</link>
     <description>Recent content in Tags on Awais Mustafa</description>
     <image>
       <title>Awais Mustafa</title>
-      <url>http://awaismustafa.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://awaismustafa.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://awaismustafa.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://awaismustafa.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Feb 2023 11:30:03 +0000</lastBuildDate><atom:link href="http://awaismustafa.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://awaismustafa.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Terminal</title>
-      <link>http://awaismustafa.com/tags/my-terminal/</link>
+      <link>https://awaismustafa.com/tags/my-terminal/</link>
       <pubDate>Wed, 15 Feb 2023 11:30:03 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/tags/my-terminal/</guid>
+      <guid>https://awaismustafa.com/tags/my-terminal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Certification</title>
-      <link>http://awaismustafa.com/tags/certification/</link>
+      <link>https://awaismustafa.com/tags/certification/</link>
       <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/tags/certification/</guid>
+      <guid>https://awaismustafa.com/tags/certification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical Devops</title>
-      <link>http://awaismustafa.com/tags/practical-devops/</link>
+      <link>https://awaismustafa.com/tags/practical-devops/</link>
       <pubDate>Thu, 15 Dec 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/tags/practical-devops/</guid>
+      <guid>https://awaismustafa.com/tags/practical-devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Game</title>
-      <link>http://awaismustafa.com/tags/my-game/</link>
+      <link>https://awaismustafa.com/tags/my-game/</link>
       <pubDate>Tue, 15 Nov 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/tags/my-game/</guid>
+      <guid>https://awaismustafa.com/tags/my-game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Development</title>
-      <link>http://awaismustafa.com/tags/web-development/</link>
+      <link>https://awaismustafa.com/tags/web-development/</link>
       <pubDate>Tue, 15 Nov 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/tags/web-development/</guid>
+      <guid>https://awaismustafa.com/tags/web-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My App</title>
-      <link>http://awaismustafa.com/tags/my-app/</link>
+      <link>https://awaismustafa.com/tags/my-app/</link>
       <pubDate>Sun, 15 May 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/tags/my-app/</guid>
+      <guid>https://awaismustafa.com/tags/my-app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Myself</title>
-      <link>http://awaismustafa.com/tags/myself/</link>
+      <link>https://awaismustafa.com/tags/myself/</link>
       <pubDate>Mon, 15 Nov 2021 11:30:03 +0000</pubDate>
       
-      <guid>http://awaismustafa.com/tags/myself/</guid>
+      <guid>https://awaismustafa.com/tags/myself/</guid>
       <description></description>
     </item>
     
