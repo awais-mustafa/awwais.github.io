@@ -1,14 +1,13 @@
 ---
 
 title: My Terminal
-description: WebTerminal
+description: Awais Mustafa's Web Terminal: A user-friendly interface with syntax highlighting, autocomplete suggestions, and a familiar command-line environment.
 date: 2023-02-15T11:30:03+00:00
 dateString: Feb 5, 2023  ◦
 draft: false
 tags: ["My Terminal"]
 showToc: false
 weight: 200
-
 
 author: "Awais Mustafa"
 hidemeta: false
@@ -25,6 +24,7 @@ UseHugoToc: false
 summary: Terminal Based Website
 cover:
     image: "/projects/Copy of awai.svg"
+    alt: "Awais Mustafa - Web Terminal and Command-Line Experience - Awais Mustafa" # alt text
 ---
 
 
