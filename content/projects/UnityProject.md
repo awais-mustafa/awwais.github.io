@@ -23,7 +23,8 @@ ShowWordCount: true
 UseHugoToc: false
 summary: SnowBorder Game while learning Unity
 cover:
-    image: "projects/SnowBorder/snowBorderCover1.webp"
+    image: "/projects/SnowBorder/snowBorderCover1.webp"
+    alt: "Awais Mustafa - Unity Game - Awais Mustafa" # alt text
 ---
 
 
