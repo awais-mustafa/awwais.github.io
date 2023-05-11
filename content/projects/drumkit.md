@@ -1,6 +1,6 @@
 ---
 title: "DrumKit"
-description: "Drumkit in your browser!"
+description: "Drumkit in Your Browser by Awais Mustafa"
 date: 2022-05-15T11:30:03+00:00
 dateString: May 5, 2022  ◦
 draft: false
@@ -23,7 +23,8 @@ UseHugoToc: false
 summary: "JavaScript,and Jquery Project: DrumKit"
 
 cover:
-    image: "projects/DrumKit/DrumKitCover1.webp"
+    image: "/projects/DrumKit/DrumKitCover1.webp"
+    alt: "Awais Mustafa - DrumKit - Awais Mustafa" # alt text
 --- 
 
 
