@@ -1,5 +1,4 @@
 ---
-
 title: My Terminal
 description: Awais Mustafa's Web Terminal: A user-friendly interface with syntax highlighting, autocomplete suggestions, and a familiar command-line environment
 date: 2023-02-15T11:30:03+00:00
