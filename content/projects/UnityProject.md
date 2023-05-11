@@ -1,7 +1,7 @@
 ---
 
 title: SnowBorder Game
-description: A SnowBoarder  web application game built using Unity
+description: Awais Mustafa Snowboarder Game, Embark on a Virtual Snowboarding Adventure
 date: 2022-11-15T11:30:03+00:00
 dateString: Nov 5, 2022  ◦
 draft: false
