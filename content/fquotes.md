@@ -16,19 +16,6 @@ draft: false
 > 
 > ~ [Chinese Proverb]()
 
-
----
-
-> ❝ You miss 100% of the shots you don't take.❞
-> 
-> ~ [Wayne Gretzky]()
-
----
-
-> ❝ The darkest nights produce the brightest stars.❞
-> 
-> ~ [unknown]()
-
 ---
 
 
