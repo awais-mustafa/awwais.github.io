@@ -12,9 +12,9 @@ draft: false
 
 ---
 
-> ❝ When the roots are deep, there is no reason to fear the wind.❞
+> ❝Fall seven times, stand up eight.❞
 > 
-> ~ [Chinese Proverb]()
+> ~ [Japanese Proverb]()
 
 ---
 
