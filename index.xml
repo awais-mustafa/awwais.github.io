@@ -126,7 +126,7 @@
       <pubDate>Wed, 15 Dec 2021 11:30:03 +0000</pubDate>
       
       <guid>https://awaismustafa.com/personalwebsite/</guid>
-      <description> /* Styling for the heart emoji */ .heart { animation: heartbeat 1s infinite; } /* Keyframes for the heartbeat animation */ @keyframes heartbeat { 0% { transform: scale(1); } 50% { transform: scale(1.2); } 100% { transform: scale(1); } } &amp;lt;/style&amp;gt; </description>
+      <description>&lt;!DOCTYPE html&gt; Made with 💗 ~ by Awais Mustafa</description>
     </item>
     
     <item>
