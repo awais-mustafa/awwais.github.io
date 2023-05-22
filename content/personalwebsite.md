@@ -78,7 +78,7 @@
 <body>
     <div class="container">
         <h1>Made with <span class="heart">💗</span></h1>
-        <p>~ by Awais Mustafa</p>
+        <p>~  by Awais Mustafa</p>
     </div>
 </body>
 
