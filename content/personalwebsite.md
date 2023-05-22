@@ -1,1 +1,64 @@
+---
 
+date: 2021-12-15T11:30:03+00:00
+dateString: Dec 27, 2021  ◦
+draft: false
+
+
+
+
+
+hidemeta: true
+comments: false
+disableHLJS: false # to disable highlightjs
+disableShare: true
+
+
+
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Styling for the container */
+        .container {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        /* Styling for the heart emoji */
+        .heart {
+            animation: heartbeat 1s infinite;
+        }
+
+        /* Keyframes for the heartbeat animation */
+        @keyframes heartbeat {
+            0% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.2);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Made with <span class="heart">💗</span></h1>
+        <p>~ by Awais Mustafa</p>
+    </div>
+</body>
+
+</html>
