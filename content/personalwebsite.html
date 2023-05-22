@@ -19,7 +19,23 @@ UseHugoToc: false
 
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html>
+<head>
+  <title>Love</title>
+  <script>
+    // Scroll to a specific position
+    function scrollToPosition() {
+      // Adjust the scroll position as needed
+      var scrollPosition = 200; // Scroll 200 pixels down
+      window.scrollTo(0, scrollPosition);
+    }
+
+    // Call the scroll function when the page loads
+    window.onload = function() {
+      scrollToPosition();
+    };
+  </script>
+</head>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -100,5 +116,8 @@ UseHugoToc: false
         <p>~  by Awais Mustafa</p>
     </div>
 </body>
-
 </html>
+
+
+
+
