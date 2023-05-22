@@ -24,12 +24,24 @@ showtoc: false
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
+        /* Global styles */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
         /* Styling for the container */
         .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
             background-color: black;
             color: white;
             text-align: center;
-            padding: 20px;
+            animation: gradientBg 10s infinite;
         }
 
         /* Styling for the heart emoji */
@@ -51,6 +63,34 @@ showtoc: false
                 transform: scale(1);
             }
         }
+
+        /* Keyframes for the gradient background animation */
+        @keyframes gradientBg {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        /* Styling for the heading */
+        h1 {
+            font-size: 36px;
+            margin-top: 0;
+            letter-spacing: 3px;
+        }
+
+        /* Styling for the tagline */
+        p {
+            font-size: 20px;
+            margin-bottom: 0;
+        }
     </style>
 </head>
 
@@ -62,3 +102,4 @@ showtoc: false
 </body>
 
 </html>
+
