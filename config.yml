@@ -50,7 +50,7 @@ menu:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Awais Mustafa website, where Awais Mustafa features his projects, blogs, and awais mustafa thoughts. Follow Awais Mustafa website for more Updates. awais "
+  description: "Awais Mustafa website, where Awais Mustafa features his projects, blogs, and awais mustafa thoughts. Follow Awais Mustafa website for more Updates. "
   keywords: [Awais Mustafa,awais mustafa,awaismustafa,Awais mustafa,awais Mustafa, Awais Mustafa,Awais mustafa,awais uom,awais Blog,Awais Mustafa Portfolio, Awais,Awais Mustafa blog,Awais Mustafa portfolio,awais,awais mustafa,awais blog,awais portfolio,Awwais,awwais,AwaisMustafa,awais devops,awais cloud,awais website,awwais.me, AI]
 
 #   author: Me
