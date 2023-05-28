@@ -55,7 +55,7 @@ params:
 
 #   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/home/awaismustafa, awais-mustafa, awais mustafa, Awais Mustafa,awais mustafa,Awais Mustafa,awais mustafa website, Awais Mustafa Website, awais mustafa website, awais uom,awaistwt,awais mustafa linkedin,awais.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
