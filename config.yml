@@ -118,9 +118,8 @@ params:
    
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hi there \U0001F44B a"
     Content: "Welcome to my website!, so Who am I?  I am a Passionate DevOps Engineer and Developer with a keen interest in DevSecOps, cloud computing, and programming.  I'm enthusiastic about command line tools and open-source software. so Sometimes I build stuff, sometimes I break stuff ab 👨‍🔧 [Read more](http://awaismustafa.com/about).KeywordsForSeo: Awais Mustafa,Awais mustafa, Awais-Mustafa,awais mustafa,awais-mustafa."
-
 #     responsiveImages: false
 #     linkFullImages: true
   # List View
