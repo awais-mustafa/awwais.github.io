@@ -169,8 +169,8 @@ params:
 #     google:
 #       SiteVerificationTag: "G-F4QF29BT8W"
 #       google_site_verification: Ut7eBNONGLkuyT9d6V8omoShdrzoZRqhwz0MSMgZk8M 
-    bing:
-      SiteVerificationTag: "XYZabc"
+#     bing:
+#       SiteVerificationTag: "XYZabc"
 #     yandex:
 #       SiteVerificationTag: "XYZabc"
 # for search using Fuse.js
