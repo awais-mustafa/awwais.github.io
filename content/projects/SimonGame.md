@@ -1,5 +1,5 @@
 ---
-title: "SimonGame"
+title: "SimonGame .."
 description: "A Simple Game fule for that is follow the lights as you can"
 date: 2022-11-15T11:30:03+00:00
 dateString: Nov 8, 2022  ◦
