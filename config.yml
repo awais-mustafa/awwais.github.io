@@ -119,7 +119,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there: "
-    Content: "Welcome to [awais mustafa dot com!](), so Who am I?  I'm [Awais Mustafa](), a Passionate DevOps Engineer and Developer with a keen interest in DevSecOps, cloud computing, and programming.  I'm also enthusiastic about command line tools and open-source software. Fact About Me:  Sometimes I build stuff, sometimes I break stuff 👨‍🔧 [Read more](http://awaismustafa.com/about)."
+    Content: "Welcome to awaismustafa.com! I'm excited to have you here. Let me introduce myself. My name is Awais Mustafa, a Passionate DevOps Engineer and Developer with a keen interest in DevSecOps, cloud computing, and programming.  I also enthusias about command line tools and open-source software. Fact About Me:  Sometimes I build stuff, sometimes I break stuff 👨‍🔧 [Read more](http://awaismustafa.com/about)."
 #     responsiveImages: false
 #     linkFullImages: true
   # List View
